@@ -61,7 +61,7 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 
 ### SolidWorks Design Assistant
 
-I'm contributing to a Claude Code plugin that connects AI-assisted SolidWorks workflows to a curated engineering knowledge base through MCP.
+I'm contributing to Claude Code and ChatGPT plugins that connect AI-assisted SolidWorks workflows to a curated engineering knowledge base through MCP.
 
 [![Open project](https://img.shields.io/badge/OPEN_PROJECT-solidworks--claude--plugin-33E1C6?style=for-the-badge&logo=github&logoColor=07111F)](https://github.com/mesutfd/solidworks-claude-plugin)
 
@@ -83,15 +83,6 @@ def build_idea(idea):
 
 # "Works on my machine" is a bug report, not a deployment strategy.
 ```
-
-## `> github-stats --live`
-
-<div align="center">
-
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erfouni&amp;theme=tokyonight" alt="Erfouni's GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Erfouni&amp;hide_border=true&amp;background=07111F&amp;ring=33E1C6&amp;fire=FFB86C&amp;currStreakLabel=33E1C6&amp;sideLabels=C5D1EB&amp;currStreakNum=F4F8FF&amp;sideNums=F4F8FF&amp;dates=7181A8" alt="Erfouni's contribution streak" />
-
-</div>
 
 ## `> ./pacman --eat-contributions`
 
