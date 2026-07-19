@@ -93,6 +93,20 @@ def build_idea(idea):
 
 </div>
 
+## `> ./contribution_snake --watch`
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Erfouni/Erfouni/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Erfouni/Erfouni/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake eating Erfouni's GitHub contributions" src="https://raw.githubusercontent.com/Erfouni/Erfouni/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+  <sub>Feeding the snake one commit at a time.</sub>
+
+</div>
+
 ---
 
 <div align="center">
