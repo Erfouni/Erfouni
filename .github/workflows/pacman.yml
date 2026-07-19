@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate Pac-Man contribution graph
 
 on:
   schedule:
@@ -8,25 +8,23 @@ on:
     branches:
       - main
     paths:
-      - ".github/workflows/snake.yml"
+      - ".github/workflows/pacman.yml"
 
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 20
 
     steps:
-      - name: Generate light and dark contribution snakes
-        uses: Platane/snk/svg-only@v3
+      - name: Generate light and dark Pac-Man animations
+        uses: abozanona/pacman-contribution-graph@d40fb3b3cc8017d7bfe915391a36c10ceaf274f7
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#33E1C6
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#33E1C6
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: pacman
+          player_style: opportunistic
 
       - name: Publish animations to the output branch
         uses: peaceiris/actions-gh-pages@v4

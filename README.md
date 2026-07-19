@@ -93,17 +93,17 @@ def build_idea(idea):
 
 </div>
 
-## `> ./contribution_snake --watch`
+## `> ./pacman --eat-contributions`
 
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Erfouni/Erfouni/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Erfouni/Erfouni/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated snake eating Erfouni's GitHub contributions" src="https://raw.githubusercontent.com/Erfouni/Erfouni/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Erfouni/Erfouni/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Erfouni/Erfouni/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man eating Erfouni's GitHub contributions" src="https://raw.githubusercontent.com/Erfouni/Erfouni/output/pacman-contribution-graph.svg" />
   </picture>
 
-  <sub>Feeding the snake one commit at a time.</sub>
+  <sub>Waka waka — one contribution at a time.</sub>
 
 </div>
 
