@@ -81,6 +81,16 @@ design request
                                   └──► validate → learn → improve
 ```
 
+## `> verify --shipped`
+
+| Project | Inspectable proof | Why it belongs here |
+|:--|:--|:--|
+| **[SolidWorks GPT Plugin](https://github.com/Erfouni/solidworks-GPT-plugin)** | [![release](https://img.shields.io/github/v/release/Erfouni/solidworks-GPT-plugin?label=release&style=flat-square)](https://github.com/Erfouni/solidworks-GPT-plugin/releases/latest) [![validation](https://img.shields.io/github/actions/workflow/status/Erfouni/solidworks-GPT-plugin/validate.yml?branch=main&label=validation&style=flat-square)](https://github.com/Erfouni/solidworks-GPT-plugin/actions/workflows/validate.yml) | A knowledge-backed Codex plugin with deterministic validation, install verification, and versioned releases |
+| **[Drawing API Database 2026](https://github.com/Erfouni/solidworks-drawing-api-2026)** | [![release](https://img.shields.io/github/v/release/Erfouni/solidworks-drawing-api-2026?label=release&style=flat-square)](https://github.com/Erfouni/solidworks-drawing-api-2026/releases/latest) [![database CI](https://img.shields.io/github/actions/workflow/status/Erfouni/solidworks-drawing-api-2026/ci.yml?branch=main&label=database%20CI&style=flat-square)](https://github.com/Erfouni/solidworks-drawing-api-2026/actions/workflows/ci.yml) | 2,405 API members, 1,293 source-linked examples, 32 workflows, and bilingual FTS5 search in a validated SQLite artifact |
+| **[OpenRouter MCP Orchestrator](https://github.com/Erfouni/connect-gpt-to-all-models-with-openrouter)** | [![CI](https://img.shields.io/github/actions/workflow/status/Erfouni/connect-gpt-to-all-models-with-openrouter/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/Erfouni/connect-gpt-to-all-models-with-openrouter/actions/workflows/ci.yml) | A tested MCP bridge for orchestrating multiple model families through one tool surface |
+
+<sub>No vanity counters here—each status links to code, tests, or a release you can inspect.</sub>
+
 ## `> ./runtime_diagnostics.py`
 
 ```python
