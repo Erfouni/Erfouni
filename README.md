@@ -6,11 +6,16 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2600&amp;pause=900&amp;color=33E1C6&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+AI+systems+that+use+real+tools;RAG+%2B+MCP+%2B+Python+%3D+my+kind+of+stack;Making+CAD+smarter%2C+one+workflow+at+a+time" alt="Typing introduction" />
 
+  <br />
+
+  [![GitHub Developer Program](https://img.shields.io/badge/GitHub_Developer_Program-Member-238636?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en/get-started/exploring-integrations/about-building-integrations)
+  [![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-Builder-0B152B?style=for-the-badge&logo=openai&logoColor=33E1C6)](https://github.com/Erfouni/solidworks-GPT-plugin)
+
 </div>
 
 ## `> whoami`
 
-I'm **Erfouni**, an AI/ML builder interested in systems that do more than generate text—they retrieve useful context, call tools, automate workflows, and produce real-world results.
+I'm **Erfouni**, an AI/ML builder interested in systems that do more than generate text—they retrieve useful context, call tools, automate workflows, validate outcomes, and produce real-world results.
 
 - 🧠 Building with **machine learning, RAG, and agentic workflows**
 - 🔌 Connecting models to tools and knowledge through **MCP and REST APIs**
@@ -27,6 +32,7 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-10233F?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-10233F?style=for-the-badge&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-10233F?style=for-the-badge&logo=anthropic&logoColor=D4A27F)
+![OpenAI](https://img.shields.io/badge/OpenAI-Codex-10233F?style=for-the-badge&logo=openai&logoColor=33E1C6)
 ![Claude](https://img.shields.io/badge/Claude-10233F?style=for-the-badge&logo=anthropic&logoColor=D4A27F)
 ![REST API](https://img.shields.io/badge/REST_APIs-10233F?style=for-the-badge&logo=fastapi&logoColor=33E1C6)
 
@@ -59,11 +65,13 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 
 ## `> cat featured_build.md`
 
-### SolidWorks Design Assistant
+### Knowledge-backed engineering agents
 
-I'm contributing to Claude Code and ChatGPT plugins that connect AI-assisted SolidWorks workflows to a curated engineering knowledge base through MCP.
+I build OpenAI Codex plugins and MCP systems that connect AI-assisted SolidWorks workflows to curated engineering knowledge, deterministic validation, and consent-based learning.
 
-[![Open project](https://img.shields.io/badge/OPEN_PROJECT-solidworks--claude--plugin-33E1C6?style=for-the-badge&logo=github&logoColor=07111F)](https://github.com/mesutfd/solidworks-claude-plugin)
+[![SolidWorks GPT Plugin](https://img.shields.io/badge/OPEN-solidworks--GPT--plugin-33E1C6?style=for-the-badge&logo=github&logoColor=07111F)](https://github.com/Erfouni/solidworks-GPT-plugin)
+[![Drawing API 2026](https://img.shields.io/badge/EXPLORE-drawing--API--2026-FFB86C?style=for-the-badge&logo=github&logoColor=07111F)](https://github.com/Erfouni/solidworks-drawing-api-2026)
+[![OpenRouter MCP](https://img.shields.io/badge/TRY-OpenRouter--MCP-B78AFF?style=for-the-badge&logo=github&logoColor=07111F)](https://github.com/Erfouni/connect-gpt-to-all-models-with-openrouter)
 
 ```text
 design request
