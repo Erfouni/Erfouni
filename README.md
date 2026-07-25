@@ -40,6 +40,7 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 
 ![Python](https://img.shields.io/badge/Python-0B152B?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Docker](https://img.shields.io/badge/Docker-0B152B?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-0B152B?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/Git-0B152B?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0B152B?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0B152B?style=for-the-badge&logo=linux&logoColor=FCC624)
