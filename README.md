@@ -27,12 +27,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 
 ## `> contributions --merged`
 
+<p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg" />
-    <img src="./assets/contributions/impact-compact-light.svg" width="100%" alt="Open Source Impact — 14 external projects, 17 merged pull requests" />
+    <img src="./assets/contributions/impact-compact-light.svg" width="758" alt="Open Source Impact — 14 external projects, 17 merged pull requests" />
   </picture>
 </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/gumyr/build123d/pull/1489">

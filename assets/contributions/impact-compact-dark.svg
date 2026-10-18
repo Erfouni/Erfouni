@@ -1,7 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="140" viewBox="0 0 840 140" role="img" aria-labelledby="title desc"><title id="title">Open Source Impact: 14 projects, 17 merged pull requests</title><desc id="desc">Accepted contributions, linked to their merged pull requests.</desc>
-    <defs><linearGradient id="bg"><stop stop-color="#0D1B2D"/><stop offset="1" stop-color="#091321"/></linearGradient></defs>
-    <rect x="1" y="1" width="838" height="138" rx="14" fill="url(#bg)" stroke="#24354C"/>
-    <g font-family="Segoe UI,Arial,sans-serif"><text x="26" y="61" fill="#F0F6FC" font-size="36" font-weight="700" letter-spacing="-.8">Open Source Impact</text><text x="27" y="97" fill="#B1BED0" font-size="19">Accepted upstream. Linked to proof.</text>
-    <path d="M470 30V110M650 30V110" stroke="#24354C"/>
-    <text x="501" y="72" fill="#33E1C6" font-size="48" font-weight="700">14</text><text x="502" y="100" fill="#B1BED0" font-size="16">projects</text>
-    <text x="682" y="72" fill="#F0F6FC" font-size="48" font-weight="700">17</text><text x="682" y="100" fill="#B1BED0" font-size="16">merged PRs</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="758" height="96" viewBox="0 0 758 96" role="img" aria-labelledby="title desc"><title id="title">Open Source Impact: 14 projects, 17 merged pull requests</title><desc id="desc">Accepted contributions, linked to their merged pull requests.</desc>
+    <style>@media(max-width:540px){.impact-title{font-size:36px}.impact-caption{font-size:21px}.impact-value{font-size:40px}.impact-label{font-size:22px}}</style>
+    <defs><linearGradient id="surface" x2="1" y2="1"><stop stop-color="#111F32"/><stop offset="1" stop-color="#0C1727"/></linearGradient></defs>
+    <rect x=".5" y=".5" width="757" height="95" rx="10" fill="url(#surface)" stroke="#24354C"/>
+    <g font-family="Segoe UI,Arial,sans-serif">
+      <rect x="20" y="25" width="3" height="20" rx="1.5" fill="#33E1C6"/>
+      <text class="impact-title" x="32" y="43" fill="#F0F6FC" font-size="24" font-weight="650" letter-spacing="-.6">Open Source Impact</text>
+      <text class="impact-caption" x="20" y="69" fill="#B1BED0" font-size="12">Accepted upstream. Linked to proof.</text>
+      <path d="M444 23V73M592 23V73" stroke="#24354C"/>
+      <text class="impact-value" x="465" y="45" fill="#33E1C6" font-size="28" font-weight="650" letter-spacing="-.6">14</text>
+      <text class="impact-label" x="465" y="68" fill="#B1BED0" font-size="12">projects</text>
+      <text class="impact-value" x="613" y="45" fill="#33E1C6" font-size="28" font-weight="650" letter-spacing="-.6">17</text>
+      <text class="impact-label" x="613" y="68" fill="#B1BED0" font-size="12">merged PRs</text>
+    </g></svg>
