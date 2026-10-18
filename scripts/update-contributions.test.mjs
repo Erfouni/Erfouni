@@ -101,3 +101,15 @@ test('preserves mixed README line endings outside and inside the managed section
   assert.ok(output.startsWith('Keep intro exactly.\r\n<!-- open-source-impact:start -->\n'));
   assert.ok(output.endsWith('<!-- open-source-impact:end -->\r\nKeep footer exactly.\r\n'));
 });
+
+test('changed contributions invalidate image caches without timestamps', async () => {
+  const root = await workspace();
+  await updateProfile({ ...options, root, fetchImpl: async () => response([pr(1)]) });
+  const before = await readFile(join(root, 'README.md'), 'utf8');
+  const sources = text => [...text.matchAll(/(?:src|srcset)="([^\"]+)"/g)].map(match => match[1]);
+  assert.ok(sources(before).every(source => /\?v=[a-f0-9]{12}$/.test(source)));
+  await updateProfile({ ...options, root, fetchImpl: async () => response([pr(1), pr(2)]) });
+  const after = await readFile(join(root, 'README.md'), 'utf8');
+  assert.equal(sources(before).length, 4);
+  assert.ok(sources(before).every((source, index) => source !== sources(after)[index]));
+});

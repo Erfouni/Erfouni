@@ -1,3 +1,5 @@
+import { createHash } from 'node:crypto';
+
 const esc = s => String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
 const colors = {
   dark: {bg:'#0C1727',panel:'#111F32',ink:'#F0F6FC',secondary:'#B1BED0',muted:'#8596AE',line:'#24354C',mint:'#33E1C6',blue:'#80B9FF',purple:'#C0A4FF',amber:'#FFCB8A'},
@@ -40,7 +42,13 @@ for (const [theme,c] of Object.entries(colors)) {
       <text x="380" y="131" text-anchor="end" fill="${c.mint}" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">${count} ↗</text>`));
   }
 }
-const picture=(slug,width,alt)=>`<picture>\n    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/${slug}-compact-dark.svg" />\n    <img src="./assets/contributions/${slug}-compact-light.svg" width="${width}" alt="${esc(alt)}" />\n  </picture>`;
+// Stable content versions refresh GitHub's image cache only when an SVG changes.
+const assetUrl = (slug, theme) => {
+  const file = `assets/contributions/${slug}-compact-${theme}.svg`;
+  const version = createHash('sha256').update(files[file]).digest('hex').slice(0, 12);
+  return `./${file}?v=${version}`;
+};
+const picture=(slug,width,alt)=>`<picture>\n    <source media="(prefers-color-scheme: dark)" srcset="${assetUrl(slug,'dark')}" />\n    <img src="${assetUrl(slug,'light')}" width="${width}" alt="${esc(alt)}" />\n  </picture>`;
 let section = `<!-- open-source-impact:start -->\n\n## \`> contributions --merged\`\n\n<p align="center">\n<a href="${query}">\n  ${picture('impact',758,`Open Source Impact — ${projectCount} external projects, ${prCount} merged pull requests`)}\n</a>\n</p>\n\n<p align="center">\n`;
 for(const [repo,name,cat,lines,prs] of projects){
   const href=prs.length===1?`https://github.com/${repo}/pull/${prs[0]}`:`https://github.com/${repo}/pulls?q=is%3Apr+is%3Amerged+author%3A${encodeURIComponent(username)}`;
