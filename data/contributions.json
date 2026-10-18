@@ -96,6 +96,10 @@
         {
           "number": 1059,
           "title": "fix(compiler): preserve ensureNonZero fallback precision"
+        },
+        {
+          "number": 1095,
+          "title": "fix(wasm-codegen): skip buffers for positive zero array initializers"
         }
       ]
     },

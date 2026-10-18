@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=22689659ecba" />
-    <img src="./assets/contributions/impact-compact-light.svg?v=75f79802dfba" width="758" alt="Open Source Impact — 14 external projects, 17 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=91f62571c78f" />
+    <img src="./assets/contributions/impact-compact-light.svg?v=83b18979235b" width="758" alt="Open Source Impact — 14 external projects, 18 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -91,10 +91,10 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/eea--odfpy-compact-light.svg?v=bd4ed91317e1" width="250" alt="eea/odfpy — Tolerate malformed numeric fields in text and XHTML extraction. Merged: #158, #159." />
   </picture>
   </a>
-  <a href="https://github.com/andorthehood/8f4e/pull/1059">
+  <a href="https://github.com/andorthehood/8f4e/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/andorthehood--8f4e-compact-dark.svg?v=7e8ca6a02b13" />
-    <img src="./assets/contributions/andorthehood--8f4e-compact-light.svg?v=988ea9df5415" width="250" alt="andorthehood/8f4e — Preserve floating-point precision in ensureNonZero fallbacks. Merged: #1059." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/andorthehood--8f4e-compact-dark.svg?v=c92177e1e471" />
+    <img src="./assets/contributions/andorthehood--8f4e-compact-light.svg?v=6ed8bfb99f4d" width="250" alt="andorthehood/8f4e — fix(wasm-codegen): skip buffers for positive zero array initializers Merged: #1059, #1095." />
   </picture>
   </a>
   <a href="https://github.com/flint-fyi/flint/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
