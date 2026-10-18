@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg" />
-    <img src="./assets/contributions/impact-compact-light.svg" width="758" alt="Open Source Impact — 14 external projects, 17 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=22689659ecba" />
+    <img src="./assets/contributions/impact-compact-light.svg?v=75f79802dfba" width="758" alt="Open Source Impact — 14 external projects, 17 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -39,86 +39,86 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark.svg?v=fa9cdb63510e" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light.svg?v=92b85e78d5bc" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark.svg" />
-    <img src="./assets/contributions/mikedh--trimesh-compact-light.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark.svg?v=ec33bb1f1658" />
+    <img src="./assets/contributions/mikedh--trimesh-compact-light.svg?v=b998cfd06c45" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark.svg" />
-    <img src="./assets/contributions/mozman--ezdxf-compact-light.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark.svg?v=a7006dd5d7e3" />
+    <img src="./assets/contributions/mozman--ezdxf-compact-light.svg?v=c7c89089406c" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424." />
   </picture>
   </a>
   <a href="https://github.com/pycollada/pycollada/pull/165">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/pycollada--pycollada-compact-dark.svg" />
-    <img src="./assets/contributions/pycollada--pycollada-compact-light.svg" width="250" alt="pycollada/pycollada — Report missing primitive offsets with the correct parser error. Merged: #165." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/pycollada--pycollada-compact-dark.svg?v=e63c14dd0092" />
+    <img src="./assets/contributions/pycollada--pycollada-compact-light.svg?v=d8e4ede25a4b" width="250" alt="pycollada/pycollada — Report missing primitive offsets with the correct parser error. Merged: #165." />
   </picture>
   </a>
   <a href="https://github.com/dranjan/python-plyfile/pull/91">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/dranjan--python-plyfile-compact-dark.svg" />
-    <img src="./assets/contributions/dranjan--python-plyfile-compact-light.svg" width="250" alt="dranjan/python-plyfile — Handle non-ASCII PLY headers with a clear parsing error. Merged: #91." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/dranjan--python-plyfile-compact-dark.svg?v=d32dffb3a97f" />
+    <img src="./assets/contributions/dranjan--python-plyfile-compact-light.svg?v=463c760bec5b" width="250" alt="dranjan/python-plyfile — Handle non-ASCII PLY headers with a clear parsing error. Merged: #91." />
   </picture>
   </a>
   <a href="https://github.com/mathandy/svgpathtools/pull/253">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mathandy--svgpathtools-compact-dark.svg" />
-    <img src="./assets/contributions/mathandy--svgpathtools-compact-light.svg" width="250" alt="mathandy/svgpathtools — Read SVG paths without path data without aborting the document. Merged: #253." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mathandy--svgpathtools-compact-dark.svg?v=256950261589" />
+    <img src="./assets/contributions/mathandy--svgpathtools-compact-light.svg?v=5184c1b8144d" width="250" alt="mathandy/svgpathtools — Read SVG paths without path data without aborting the document. Merged: #253." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark.svg?v=d44d92a51bfd" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light.svg?v=358306638d32" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254." />
   </picture>
   </a>
   <a href="https://github.com/nipy/nibabel/pull/1573">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nipy--nibabel-compact-dark.svg" />
-    <img src="./assets/contributions/nipy--nibabel-compact-light.svg" width="250" alt="nipy/nibabel — Report malformed PAR headers with the proper PARREC error. Merged: #1573." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nipy--nibabel-compact-dark.svg?v=b4af4bfcbf1a" />
+    <img src="./assets/contributions/nipy--nibabel-compact-light.svg?v=d95245b235b1" width="250" alt="nipy/nibabel — Report malformed PAR headers with the proper PARREC error. Merged: #1573." />
   </picture>
   </a>
   <a href="https://github.com/eea/odfpy/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/eea--odfpy-compact-dark.svg" />
-    <img src="./assets/contributions/eea--odfpy-compact-light.svg" width="250" alt="eea/odfpy — Tolerate malformed numeric fields in text and XHTML extraction. Merged: #158, #159." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/eea--odfpy-compact-dark.svg?v=de9f8e93caaa" />
+    <img src="./assets/contributions/eea--odfpy-compact-light.svg?v=bd4ed91317e1" width="250" alt="eea/odfpy — Tolerate malformed numeric fields in text and XHTML extraction. Merged: #158, #159." />
   </picture>
   </a>
   <a href="https://github.com/andorthehood/8f4e/pull/1059">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/andorthehood--8f4e-compact-dark.svg" />
-    <img src="./assets/contributions/andorthehood--8f4e-compact-light.svg" width="250" alt="andorthehood/8f4e — Preserve floating-point precision in ensureNonZero fallbacks. Merged: #1059." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/andorthehood--8f4e-compact-dark.svg?v=7e8ca6a02b13" />
+    <img src="./assets/contributions/andorthehood--8f4e-compact-light.svg?v=988ea9df5415" width="250" alt="andorthehood/8f4e — Preserve floating-point precision in ensureNonZero fallbacks. Merged: #1059." />
   </picture>
   </a>
   <a href="https://github.com/flint-fyi/flint/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/flint-fyi--flint-compact-dark.svg" />
-    <img src="./assets/contributions/flint-fyi--flint-compact-light.svg" width="250" alt="flint-fyi/flint — Bring Node.js and Vue rule catalogs back into sync. Merged: #3709, #3711." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/flint-fyi--flint-compact-dark.svg?v=2f2742f15a99" />
+    <img src="./assets/contributions/flint-fyi--flint-compact-light.svg?v=cd2d7632c031" width="250" alt="flint-fyi/flint — Bring Node.js and Vue rule catalogs back into sync. Merged: #3709, #3711." />
   </picture>
   </a>
   <a href="https://github.com/CallMeJones/blender-agent-bridge/pull/7">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/callmejones--blender-agent-bridge-compact-dark.svg" />
-    <img src="./assets/contributions/callmejones--blender-agent-bridge-compact-light.svg" width="250" alt="CallMeJones/blender-agent-bridge — Add a deterministic tool-registry summary for review and diagnostics. Merged: #7." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/callmejones--blender-agent-bridge-compact-dark.svg?v=5b725dd1db9e" />
+    <img src="./assets/contributions/callmejones--blender-agent-bridge-compact-light.svg?v=8f788db35f11" width="250" alt="CallMeJones/blender-agent-bridge — Add a deterministic tool-registry summary for review and diagnostics. Merged: #7." />
   </picture>
   </a>
   <a href="https://github.com/whut09/Awesome-AI-Engineering-Agents/pull/2">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/whut09--awesome-ai-engineering-agents-compact-dark.svg" />
-    <img src="./assets/contributions/whut09--awesome-ai-engineering-agents-compact-light.svg" width="250" alt="whut09/Awesome-AI-Engineering-Agents — Contribute the SolidWorks GPT Plugin to the CAD agent catalog. Merged: #2." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/whut09--awesome-ai-engineering-agents-compact-dark.svg?v=912559d1b068" />
+    <img src="./assets/contributions/whut09--awesome-ai-engineering-agents-compact-light.svg?v=ba57aeea9bf8" width="250" alt="whut09/Awesome-AI-Engineering-Agents — Contribute the SolidWorks GPT Plugin to the CAD agent catalog. Merged: #2." />
   </picture>
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark.svg?v=abfed9efaa01" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light.svg?v=dd86352c979d" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313." />
   </picture>
   </a>
 </p>
