@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="192" viewBox="0 0 400 192" role="img" aria-labelledby="title desc"><title id="title">fonttools: 1 merged pull request</title><desc id="desc">fonttools/fonttools. Explain truncated SVG commands with a useful validation error. Merged PRs #4254.</desc>
+      <rect x="1" y="1" width="398" height="190" rx="14" fill="#FFFFFF" stroke="#D5E0EB" stroke-opacity="1"/>
+      <path d="M22 31H35" stroke="#7650B0" stroke-width="3" stroke-linecap="round"/>
+      <text x="44" y="35" fill="#7650B0" font-family="Consolas,Menlo,monospace" font-size="10" letter-spacing=".8">TYPOGRAPHY &amp; VECTORS</text>
+      <text x="22" y="70" fill="#12243A" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="650" letter-spacing="-.5">fonttools</text>
+      <g fill="#3D536D" font-family="Segoe UI,Arial,sans-serif" font-size="15"><text x="22" y="100">Explain truncated SVG commands</text><text x="22" y="122">with a useful validation error.</text></g>
+      <path d="M22 141H378" stroke="#D5E0EB"/>
+      <g transform="translate(23 153)" fill="none" stroke="#7650B0" stroke-width="2" stroke-linecap="round"><circle cx="3" cy="3" r="2.5"/><circle cx="3" cy="21" r="2.5"/><circle cx="20" cy="21" r="2.5"/><path d="M3 6v12M3 7c0 8 17 5 17 11"/></g>
+      <text x="58" y="171" fill="#7650B0" font-family="Consolas,Menlo,monospace" font-size="12">#4254 merged</text>
+      <path d="M361 163h15m-6-6 6 6-6 6" fill="none" stroke="#526780" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
