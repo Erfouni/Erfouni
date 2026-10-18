@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="142" viewBox="0 0 400 142" role="img" aria-labelledby="title desc"><title id="title">pycollada: 1 merged pull requests</title><desc id="desc">pycollada/pycollada. Report missing primitive offsets with the correct parser error. Merged: #165.</desc>
+      <rect x="1" y="1" width="398" height="140" rx="12" fill="#0D1B2D" stroke="#24354C" stroke-opacity="1"/>
+      <rect x="16" y="20" width="3" height="21" rx="1.5" fill="#80B9FF"/>
+      <text x="28" y="37" fill="#F0F6FC" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="650" letter-spacing="-.6">pycollada</text>
+      <g fill="#B1BED0" font-family="Segoe UI,Arial,sans-serif" font-size="17"><text x="18" y="66">Report missing primitive offsets</text><text x="18" y="89">with the correct parser error.</text></g>
+      <circle cx="22" cy="119" r="3.5" fill="#C0A4FF"/><text x="34" y="124" fill="#C0A4FF" font-family="Consolas,Menlo,monospace" font-size="14">#165</text>
+      <text x="381" y="124" text-anchor="end" fill="#8596AE" font-family="Consolas,Menlo,monospace" font-size="12">MERGED ↗</text></svg>
