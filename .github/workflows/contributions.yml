@@ -1,0 +1,54 @@
+name: Update open-source contributions
+
+on:
+  schedule:
+    # Every 15 minutes, offset from the busiest minute of the hour.
+    - cron: '7,22,37,52 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/contributions.yml'
+      - 'scripts/**'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-contributions
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.repository == 'Erfouni/Erfouni'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the latest profile
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+      - name: Set up Node.js
+        uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6
+        with:
+          node-version: '24'
+      - name: Test pagination, counts, rendering, and failure handling
+        run: node --test scripts/update-contributions.test.mjs
+      - name: Refresh merged contributions
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: ${{ github.repository_owner }}
+        run: node scripts/update-contributions.mjs
+      - name: Publish only when contributions changed
+        run: |
+          git add -- README.md assets/contributions data/contributions.json
+          if git diff --cached --quiet; then
+            echo "Contributions are unchanged; no commit needed."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: refresh merged open-source contributions'
+          git push origin HEAD:main
