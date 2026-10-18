@@ -142,6 +142,15 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ]
+    },
+    {
+      "repo": "oscarbol09/jvm-mcp",
+      "prs": [
+        {
+          "number": 96,
+          "title": "fix(core): unwrap optional values during JSON serialization"
+        }
+      ]
     }
   ]
 }

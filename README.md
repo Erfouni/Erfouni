@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=91f62571c78f" />
-    <img src="./assets/contributions/impact-compact-light.svg?v=83b18979235b" width="758" alt="Open Source Impact — 14 external projects, 18 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=a8ffd464150b" />
+    <img src="./assets/contributions/impact-compact-light.svg?v=29e167be1b81" width="758" alt="Open Source Impact — 15 external projects, 19 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -119,6 +119,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark.svg?v=abfed9efaa01" />
     <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light.svg?v=dd86352c979d" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313." />
+  </picture>
+  </a>
+  <a href="https://github.com/oscarbol09/jvm-mcp/pull/96">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oscarbol09--jvm-mcp-compact-dark.svg?v=3f0fbf954c0e" />
+    <img src="./assets/contributions/oscarbol09--jvm-mcp-compact-light.svg?v=a72cde635d7f" width="250" alt="oscarbol09/jvm-mcp — fix(core): unwrap optional values during JSON serialization Merged: #96." />
   </picture>
   </a>
 </p>
