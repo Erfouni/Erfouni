@@ -1,0 +1,143 @@
+{
+  "username": "Erfouni",
+  "projects": [
+    {
+      "repo": "gumyr/build123d",
+      "prs": [
+        {
+          "number": 1489,
+          "title": "Make ShapeList set de-duplication order deterministic"
+        }
+      ]
+    },
+    {
+      "repo": "mikedh/trimesh",
+      "prs": [
+        {
+          "number": 2619,
+          "title": "Raise a clear error for out-of-range face indices in OFF files"
+        }
+      ]
+    },
+    {
+      "repo": "mozman/ezdxf",
+      "prs": [
+        {
+          "number": 1423,
+          "title": "meshex.obj_loads: ignore vn/vt/vp lines instead of reading them as vertices"
+        },
+        {
+          "number": 1424,
+          "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
+        }
+      ]
+    },
+    {
+      "repo": "pycollada/pycollada",
+      "prs": [
+        {
+          "number": 165,
+          "title": "Raise DaeMalformedError instead of TypeError on an <input> with no offset"
+        }
+      ]
+    },
+    {
+      "repo": "dranjan/python-plyfile",
+      "prs": [
+        {
+          "number": 91,
+          "title": "Raise PlyHeaderParseError instead of UnicodeDecodeError on a non-ASCII header"
+        }
+      ]
+    },
+    {
+      "repo": "mathandy/svgpathtools",
+      "prs": [
+        {
+          "number": 253,
+          "title": "svg2paths: don't crash on a <path> with no d attribute"
+        }
+      ]
+    },
+    {
+      "repo": "fonttools/fonttools",
+      "prs": [
+        {
+          "number": 4254,
+          "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
+        }
+      ]
+    },
+    {
+      "repo": "nipy/nibabel",
+      "prs": [
+        {
+          "number": 1573,
+          "title": "Raise PARRECError for a general information line without a colon"
+        }
+      ]
+    },
+    {
+      "repo": "eea/odfpy",
+      "prs": [
+        {
+          "number": 158,
+          "title": "teletype.extractText: handle a malformed text:s count"
+        },
+        {
+          "number": 159,
+          "title": "odf2xhtml: don't crash on a malformed numeric attribute"
+        }
+      ]
+    },
+    {
+      "repo": "andorthehood/8f4e",
+      "prs": [
+        {
+          "number": 1059,
+          "title": "fix(compiler): preserve ensureNonZero fallback precision"
+        }
+      ]
+    },
+    {
+      "repo": "flint-fyi/flint",
+      "prs": [
+        {
+          "number": 3709,
+          "title": "fix: add the missing Vue rule to the catalog"
+        },
+        {
+          "number": 3711,
+          "title": "fix: sync the Node.js rule catalog"
+        }
+      ]
+    },
+    {
+      "repo": "CallMeJones/blender-agent-bridge",
+      "prs": [
+        {
+          "number": 7,
+          "title": "Add deterministic registry summary report"
+        }
+      ]
+    },
+    {
+      "repo": "whut09/Awesome-AI-Engineering-Agents",
+      "prs": [
+        {
+          "number": 2,
+          "title": "Add SolidWorks GPT Plugin to Structural and CAD Engineering"
+        }
+      ]
+    },
+    {
+      "repo": "hashgraph-online/awesome-codex-plugins",
+      "prs": [
+        {
+          "number": 313,
+          "title": "Add SolidWorks GPT Plugin"
+        }
+      ]
+    }
+  ]
+}
