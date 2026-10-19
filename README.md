@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=493b3359a982" />
-    <img src="./assets/contributions/impact-compact-light.svg?v=8d020d3f0433" width="758" alt="Open Source Impact — 18 external projects, 24 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=ec27a003a0bf" />
+    <img src="./assets/contributions/impact-compact-light.svg?v=4fa509e83f58" width="758" alt="Open Source Impact — 20 external projects, 28 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -79,10 +79,10 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/fonttools--fonttools-compact-light.svg?v=358306638d32" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254." />
   </picture>
   </a>
-  <a href="https://github.com/nipy/nibabel/pull/1573">
+  <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nipy--nibabel-compact-dark.svg?v=b4af4bfcbf1a" />
-    <img src="./assets/contributions/nipy--nibabel-compact-light.svg?v=d95245b235b1" width="250" alt="nipy/nibabel — Report malformed PAR headers with the proper PARREC error. Merged: #1573." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nipy--nibabel-compact-dark.svg?v=a9448ad11ea2" />
+    <img src="./assets/contributions/nipy--nibabel-compact-light.svg?v=ba719d58f583" width="250" alt="nipy/nibabel — Raise PARRECError for an image information line with too few values Merged: #1573, #1574." />
   </picture>
   </a>
   <a href="https://github.com/eea/odfpy/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -99,8 +99,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/flint-fyi/flint/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/flint-fyi--flint-compact-dark.svg?v=2f2742f15a99" />
-    <img src="./assets/contributions/flint-fyi--flint-compact-light.svg?v=cd2d7632c031" width="250" alt="flint-fyi/flint — Bring Node.js and Vue rule catalogs back into sync. Merged: #3709, #3711." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/flint-fyi--flint-compact-dark.svg?v=2bdcbe8d60de" />
+    <img src="./assets/contributions/flint-fyi--flint-compact-light.svg?v=44d5e47303f3" width="250" alt="flint-fyi/flint — fix(rule-data): add missing YAML rule mappings Merged: #3709, #3711, #3712." />
   </picture>
   </a>
   <a href="https://github.com/CallMeJones/blender-agent-bridge/pull/7">
@@ -133,6 +133,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/bitech5--repotrace-compact-light.svg?v=56c8d04fd6f2" width="250" alt="BiTech5/repotrace — Prevent captures from silently overwriting reports Merged: #2." />
   </picture>
   </a>
+  <a href="https://github.com/cantools/cantools/pull/857">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark.svg?v=7ab049fa5b1d" />
+    <img src="./assets/contributions/cantools--cantools-compact-light.svg?v=83a03a3a5180" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857." />
+  </picture>
+  </a>
   <a href="https://github.com/gopherium/gophenberg/pull/491">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark.svg?v=ff6ca5a3b81c" />
@@ -143,6 +149,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oscarbol09--jvm-mcp-compact-dark.svg?v=3f0fbf954c0e" />
     <img src="./assets/contributions/oscarbol09--jvm-mcp-compact-light.svg?v=a72cde635d7f" width="250" alt="oscarbol09/jvm-mcp — fix(core): unwrap optional values during JSON serialization Merged: #96." />
+  </picture>
+  </a>
+  <a href="https://github.com/py-pdf/pypdf/pull/4201">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark.svg?v=a0047c035e83" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light.svg?v=53251bdcda09" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4201." />
   </picture>
   </a>
 </p>

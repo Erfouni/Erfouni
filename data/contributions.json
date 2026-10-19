@@ -74,6 +74,10 @@
         {
           "number": 1573,
           "title": "Raise PARRECError for a general information line without a colon"
+        },
+        {
+          "number": 1574,
+          "title": "Raise PARRECError for an image information line with too few values"
         }
       ]
     },
@@ -121,6 +125,10 @@
         {
           "number": 3711,
           "title": "fix: sync the Node.js rule catalog"
+        },
+        {
+          "number": 3712,
+          "title": "fix(rule-data): add missing YAML rule mappings"
         }
       ]
     },
@@ -170,6 +178,15 @@
       ]
     },
     {
+      "repo": "cantools/cantools",
+      "prs": [
+        {
+          "number": 857,
+          "title": "DBC: don't fail the load when VFrameFormat has no default"
+        }
+      ]
+    },
+    {
       "repo": "gopherium/gophenberg",
       "prs": [
         {
@@ -184,6 +201,15 @@
         {
           "number": 96,
           "title": "fix(core): unwrap optional values during JSON serialization"
+        }
+      ]
+    },
+    {
+      "repo": "py-pdf/pypdf",
+      "prs": [
+        {
+          "number": 4201,
+          "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ]
     }
