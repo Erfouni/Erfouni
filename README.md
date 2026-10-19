@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=a8ffd464150b" />
-    <img src="./assets/contributions/impact-compact-light.svg?v=29e167be1b81" width="758" alt="Open Source Impact — 15 external projects, 19 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=493b3359a982" />
+    <img src="./assets/contributions/impact-compact-light.svg?v=8d020d3f0433" width="758" alt="Open Source Impact — 18 external projects, 24 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -93,8 +93,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/andorthehood/8f4e/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/andorthehood--8f4e-compact-dark.svg?v=c92177e1e471" />
-    <img src="./assets/contributions/andorthehood--8f4e-compact-light.svg?v=6ed8bfb99f4d" width="250" alt="andorthehood/8f4e — fix(wasm-codegen): skip buffers for positive zero array initializers Merged: #1059, #1095." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/andorthehood--8f4e-compact-dark.svg?v=fd467b04fefc" />
+    <img src="./assets/contributions/andorthehood--8f4e-compact-light.svg?v=29238476c525" width="250" alt="andorthehood/8f4e — fix(compiler): allow function names matching object properties Merged: #1059, #1095, #1097, #1099." />
   </picture>
   </a>
   <a href="https://github.com/flint-fyi/flint/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -119,6 +119,24 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark.svg?v=abfed9efaa01" />
     <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light.svg?v=dd86352c979d" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313." />
+  </picture>
+  </a>
+  <a href="https://github.com/Avenx-JS/avenx-js/pull/1506">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/avenx-js--avenx-js-compact-dark.svg?v=47dd29a444a6" />
+    <img src="./assets/contributions/avenx-js--avenx-js-compact-light.svg?v=dc1a0bc0f9b3" width="250" alt="Avenx-JS/avenx-js — Fix scoped slot rendering in compiled builds Merged: #1506." />
+  </picture>
+  </a>
+  <a href="https://github.com/BiTech5/repotrace/pull/2">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/bitech5--repotrace-compact-dark.svg?v=be0564334613" />
+    <img src="./assets/contributions/bitech5--repotrace-compact-light.svg?v=56c8d04fd6f2" width="250" alt="BiTech5/repotrace — Prevent captures from silently overwriting reports Merged: #2." />
+  </picture>
+  </a>
+  <a href="https://github.com/gopherium/gophenberg/pull/491">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark.svg?v=ff6ca5a3b81c" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light.svg?v=b7196ce860f4" width="250" alt="gopherium/gophenberg — Keep root pagination addresses reserved Merged: #491." />
   </picture>
   </a>
   <a href="https://github.com/oscarbol09/jvm-mcp/pull/96">

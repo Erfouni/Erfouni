@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="142" viewBox="0 0 400 142" role="img" aria-labelledby="title desc"><title id="title">avenx-js: 1 merged pull requests</title><desc id="desc">Avenx-JS/avenx-js. Fix scoped slot rendering in compiled builds Merged: #1506.</desc>
+      <defs><linearGradient id="surface" x2="1" y2="1"><stop stop-color="#111F32"/><stop offset="1" stop-color="#0C1727"/></linearGradient></defs>
+      <rect x=".8" y=".8" width="398.4" height="140.4" rx="16" fill="url(#surface)" stroke="#24354C" stroke-width="1.6"/>
+      <rect x="20" y="22" width="4" height="22" rx="2" fill="#33E1C6"/>
+      <text x="34" y="42" fill="#F0F6FC" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="650" letter-spacing="-.6">avenx-js</text>
+      <g fill="#B1BED0" font-family="Segoe UI,Arial,sans-serif" font-size="18"><text x="20" y="72">Fix scoped slot rendering in compiled</text><text x="20" y="94">builds</text></g>
+      <path d="M20 108H380" stroke="#24354C"/>
+      <circle cx="24" cy="126" r="3.5" fill="#33E1C6"/><text x="36" y="131" fill="#B1BED0" font-family="Consolas,Menlo,monospace" font-size="15">#1506</text>
+      <text x="380" y="131" text-anchor="end" fill="#33E1C6" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">MERGED ↗</text></svg>

@@ -100,6 +100,14 @@
         {
           "number": 1095,
           "title": "fix(wasm-codegen): skip buffers for positive zero array initializers"
+        },
+        {
+          "number": 1097,
+          "title": "fix(memory-planner): exclude leading padding from float64 bounds"
+        },
+        {
+          "number": 1099,
+          "title": "fix(compiler): allow function names matching object properties"
         }
       ]
     },
@@ -140,6 +148,33 @@
         {
           "number": 313,
           "title": "Add SolidWorks GPT Plugin"
+        }
+      ]
+    },
+    {
+      "repo": "Avenx-JS/avenx-js",
+      "prs": [
+        {
+          "number": 1506,
+          "title": "Fix scoped slot rendering in compiled builds"
+        }
+      ]
+    },
+    {
+      "repo": "BiTech5/repotrace",
+      "prs": [
+        {
+          "number": 2,
+          "title": "Prevent captures from silently overwriting reports"
+        }
+      ]
+    },
+    {
+      "repo": "gopherium/gophenberg",
+      "prs": [
+        {
+          "number": 491,
+          "title": "Keep root pagination addresses reserved"
         }
       ]
     },
