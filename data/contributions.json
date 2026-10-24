@@ -287,6 +287,15 @@
       ]
     },
     {
+      "repo": "oras-project/oras-go",
+      "prs": [
+        {
+          "number": 1697,
+          "title": "fix(remote): preserve IPv6 brackets in blob upload locations"
+        }
+      ]
+    },
+    {
       "repo": "oscarbol09/jvm-mcp",
       "prs": [
         {

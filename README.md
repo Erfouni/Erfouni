@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=3210f9c6b045" />
-    <img src="./assets/contributions/impact-compact-light.svg?v=980b7975adef" width="758" alt="Open Source Impact — 28 external projects, 43 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=dff7b6460ffc" />
+    <img src="./assets/contributions/impact-compact-light.svg?v=b102056a8aa5" width="758" alt="Open Source Impact — 29 external projects, 44 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -185,6 +185,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nyactl--dok-for-confluence-compact-dark.svg?v=aaa235935867" />
     <img src="./assets/contributions/nyactl--dok-for-confluence-compact-light.svg?v=a94876a6e839" width="250" alt="nyactl/dok-for-confluence — fix(core): decode search excerpts before redaction Merged: #22." />
+  </picture>
+  </a>
+  <a href="https://github.com/oras-project/oras-go/pull/1697">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oras-project--oras-go-compact-dark.svg?v=f5d8cc5ea486" />
+    <img src="./assets/contributions/oras-project--oras-go-compact-light.svg?v=a2bedefeee7a" width="250" alt="oras-project/oras-go — fix(remote): preserve IPv6 brackets in blob upload locations Merged: #1697." />
   </picture>
   </a>
   <a href="https://github.com/oscarbol09/jvm-mcp/pull/96">
