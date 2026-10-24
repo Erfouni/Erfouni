@@ -16,8 +16,11 @@ generates SVGs in light and dark themes. It never adds timestamps. Only changed
 output is committed; an unchanged run makes no commit. Output from an
 incomplete, failed, empty, or truncated search is never published. If previously
 recorded PRs disappear from search, it fails rather than silently reducing the
-counts. Check renamed/deleted/private repositories before manually reconciling
-`data/contributions.json`. Searches above GitHub's 1,000-result limit fail
+counts. For a renamed or transferred repository, it resolves the recorded name
+through GitHub's repository API and still requires every recorded PR in search
+under the current public repository name. Failed lookups and genuinely missing
+PRs preserve all output. Check deleted/private repositories before manually
+reconciling `data/contributions.json`. Searches above GitHub's 1,000-result limit fail
 explicitly and require partitioning before further updates.
 
 Run locally with Node.js 24:

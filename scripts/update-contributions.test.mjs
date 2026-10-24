@@ -48,10 +48,99 @@ for (const [name, fake] of [
 }
 
 const original = 'Keep intro exactly.\r\n<!-- open-source-impact:start -->\r\nold cards\r\n<!-- open-source-impact:end -->\r\nKeep footer exactly.\r\n';
+const repositoryResponse = (full_name, extra = {}) => ({
+  ok: true, status: 200, json: async () => ({ full_name, private: false, ...extra }),
+});
+async function snapshot(root) {
+  const files = (await readdir(root, { recursive: true, withFileTypes: true })).filter(entry => entry.isFile());
+  return Promise.all(files.map(async entry => [join(entry.parentPath, entry.name), await readFile(join(entry.parentPath, entry.name), 'utf8')]));
+}
 async function workspace() {
   const root = await mkdtemp(join(tmpdir(), 'profile-contributions-'));
   await writeFile(join(root, 'README.md'), original);
   return root;
+}
+
+test('reconciles transferred repository names without losing or double-counting PRs', async () => {
+  const root = await workspace();
+  const numbers = [1059, 1095, 1097, 1099];
+  await updateProfile({ ...options, root, fetchImpl: async () => response(numbers.map(number => pr(number, 'andorthehood/8f4e'))) });
+  const calls = [];
+  const result = await updateProfile({ ...options, root, fetchImpl: async (url, init) => {
+    calls.push(new URL(url).pathname);
+    if (new URL(url).pathname === '/search/issues') return response([...numbers, 1120].map(number => pr(number, '8f4e/8f4e')));
+    assert.equal(new URL(url).pathname, '/repos/andorthehood/8f4e');
+    assert.equal(init.headers.Authorization, 'Bearer test-only');
+    return repositoryResponse('8f4e/8f4e');
+  }});
+  assert.equal(result.projects, 1);
+  assert.equal(result.merged, 5);
+  const data = JSON.parse(await readFile(join(root, 'data/contributions.json'), 'utf8'));
+  assert.deepEqual(data.projects.map(project => project.repo), ['8f4e/8f4e']);
+  assert.deepEqual(data.projects[0].prs.map(item => item.number), [1059, 1095, 1097, 1099, 1120]);
+  assert.deepEqual(calls, ['/search/issues', '/repos/andorthehood/8f4e']);
+  const repeated = await updateProfile({ ...options, root, fetchImpl: async url => {
+    assert.equal(new URL(url).pathname, '/search/issues');
+    return response([...numbers, 1120].map(number => pr(number, '8f4e/8f4e')));
+  }});
+  assert.deepEqual(repeated.changed, []);
+});
+
+test('a repository transfer still rejects an actually omitted PR and preserves every output', async () => {
+  const root = await workspace();
+  await updateProfile({ ...options, root, fetchImpl: async () => response([pr(1, 'old/project'), pr(2, 'old/project')]) });
+  const before = await snapshot(root);
+  await assert.rejects(updateProfile({ ...options, root, fetchImpl: async url => {
+    if (new URL(url).pathname === '/search/issues') return response([pr(1, 'new/project'), pr(2, 'unrelated/project')]);
+    assert.equal(new URL(url).pathname, '/repos/old/project');
+    return repositoryResponse('new/project');
+  }}), /Search omitted 1 recorded PR/);
+  assert.deepEqual(await snapshot(root), before);
+});
+
+test('a transferred repository keeps its curated placement and presentation', async () => {
+  const root = await workspace();
+  await updateProfile({ ...options, root, fetchImpl: async () => response([pr(1059, 'andorthehood/8f4e')]) });
+  await updateProfile({ ...options, root, fetchImpl: async url => {
+    if (new URL(url).pathname === '/search/issues') return response([
+      pr(3709, 'flint-fyi/flint'), pr(1059, '8f4e/8f4e', 'An upstream title that should not replace the curated summary'), pr(158, 'eea/odfpy'),
+    ]);
+    assert.equal(new URL(url).pathname, '/repos/andorthehood/8f4e');
+    return repositoryResponse('8f4e/8f4e');
+  }});
+  const readme = await readFile(join(root, 'README.md'), 'utf8');
+  const positions = ['eea/odfpy/pull/158', '8f4e/8f4e/pull/1059', 'flint-fyi/flint/pull/3709']
+    .map(path => readme.indexOf(`href="https://github.com/${path}"`));
+  assert.ok(positions.every(position => position >= 0));
+  assert.ok(positions[0] < positions[1] && positions[1] < positions[2]);
+  for (const theme of ['dark', 'light']) {
+    const card = await readFile(join(root, `assets/contributions/8f4e--8f4e-compact-${theme}.svg`), 'utf8');
+    assert.match(card, /Preserve floating-point precision/);
+    assert.match(card, /in ensureNonZero fallbacks\./);
+    assert.doesNotMatch(card, /An upstream title/);
+  }
+});
+
+for (const [name, repository] of [
+  ['lookup rate limit', { ok: false, status: 403 }],
+  ['missing repository', { ok: false, status: 404 }],
+  ['invalid canonical name', repositoryResponse('../outside')],
+  ['missing canonical name', repositoryResponse(undefined)],
+  ['private repository', repositoryResponse('new/project', { private: true })],
+  ['unknown visibility', repositoryResponse('new/project', { private: undefined })],
+  ['own repository', repositoryResponse('erfouni/project')],
+]) {
+  test(`repository ${name} preserves every output`, async () => {
+    const root = await workspace();
+    await updateProfile({ ...options, root, fetchImpl: async () => response([pr(1, 'old/project')]) });
+    const before = await snapshot(root);
+    await assert.rejects(updateProfile({ ...options, root, fetchImpl: async url => {
+      if (new URL(url).pathname === '/search/issues') return response([pr(1, 'new/project')]);
+      assert.equal(new URL(url).pathname, '/repos/old/project');
+      return repository;
+    }}));
+    assert.deepEqual(await snapshot(root), before);
+  });
 }
 
 test('adds compact new repository cards, escapes titles, and is deterministic', async () => {
