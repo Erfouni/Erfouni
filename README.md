@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=ec27a003a0bf" />
-    <img src="./assets/contributions/impact-compact-light.svg?v=4fa509e83f58" width="758" alt="Open Source Impact — 20 external projects, 28 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=3210f9c6b045" />
+    <img src="./assets/contributions/impact-compact-light.svg?v=980b7975adef" width="758" alt="Open Source Impact — 28 external projects, 43 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -91,10 +91,10 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/eea--odfpy-compact-light.svg?v=bd4ed91317e1" width="250" alt="eea/odfpy — Tolerate malformed numeric fields in text and XHTML extraction. Merged: #158, #159." />
   </picture>
   </a>
-  <a href="https://github.com/andorthehood/8f4e/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
+  <a href="https://github.com/8f4e/8f4e/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/andorthehood--8f4e-compact-dark.svg?v=fd467b04fefc" />
-    <img src="./assets/contributions/andorthehood--8f4e-compact-light.svg?v=29238476c525" width="250" alt="andorthehood/8f4e — fix(compiler): allow function names matching object properties Merged: #1059, #1095, #1097, #1099." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/8f4e--8f4e-compact-dark.svg?v=c4470486c954" />
+    <img src="./assets/contributions/8f4e--8f4e-compact-light.svg?v=1db0ab47e9c5" width="250" alt="8f4e/8f4e — fix(memory-reference-resolver): preserve known pointee counts of one Merged: #1059, #1095, #1097, #1099, #1102, #1120, #1204." />
   </picture>
   </a>
   <a href="https://github.com/flint-fyi/flint/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -121,10 +121,22 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light.svg?v=dd86352c979d" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313." />
   </picture>
   </a>
-  <a href="https://github.com/Avenx-JS/avenx-js/pull/1506">
+  <a href="https://github.com/alessioricco/Certo/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/avenx-js--avenx-js-compact-dark.svg?v=47dd29a444a6" />
-    <img src="./assets/contributions/avenx-js--avenx-js-compact-light.svg?v=dc1a0bc0f9b3" width="250" alt="Avenx-JS/avenx-js — Fix scoped slot rendering in compiled builds Merged: #1506." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/alessioricco--certo-compact-dark.svg?v=3cef0fc3fde7" />
+    <img src="./assets/contributions/alessioricco--certo-compact-light.svg?v=5dce3e32bf58" width="250" alt="alessioricco/Certo — Fix the remaining Windows test-suite failures Merged: #8, #29." />
+  </picture>
+  </a>
+  <a href="https://github.com/Avenx-JS/avenx-js/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/avenx-js--avenx-js-compact-dark.svg?v=33a728f36c47" />
+    <img src="./assets/contributions/avenx-js--avenx-js-compact-light.svg?v=960bbd48ad1d" width="250" alt="Avenx-JS/avenx-js — fix(runtime): run SFC transition hooks  Merged: #1506, #1544, #1545." />
+  </picture>
+  </a>
+  <a href="https://github.com/BistaDinesh03/critique/pull/89">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/bistadinesh03--critique-compact-dark.svg?v=34e29bde7c59" />
+    <img src="./assets/contributions/bistadinesh03--critique-compact-light.svg?v=33089e3cba2d" width="250" alt="BistaDinesh03/critique — fix(auth): honor configured session lifetime Merged: #89." />
   </picture>
   </a>
   <a href="https://github.com/BiTech5/repotrace/pull/2">
@@ -139,10 +151,40 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/cantools--cantools-compact-light.svg?v=83a03a3a5180" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857." />
   </picture>
   </a>
-  <a href="https://github.com/gopherium/gophenberg/pull/491">
+  <a href="https://github.com/deBilla/peek/pull/9">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark.svg?v=ff6ca5a3b81c" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light.svg?v=b7196ce860f4" width="250" alt="gopherium/gophenberg — Keep root pagination addresses reserved Merged: #491." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/debilla--peek-compact-dark.svg?v=bf363387e7b7" />
+    <img src="./assets/contributions/debilla--peek-compact-light.svg?v=c1b4fe30be76" width="250" alt="deBilla/peek — Fix Windows preview cleanup for stale browser PIDs Merged: #9." />
+  </picture>
+  </a>
+  <a href="https://github.com/duramson/eeg-bewegungsdaten/pull/8">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/duramson--eeg-bewegungsdaten-compact-dark.svg?v=d312c8884518" />
+    <img src="./assets/contributions/duramson--eeg-bewegungsdaten-compact-light.svg?v=b78fe148e3e0" width="250" alt="duramson/eeg-bewegungsdaten — fix: reject duplicate ZIP data members  Merged: #8." />
+  </picture>
+  </a>
+  <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark.svg?v=1dbe8148b34a" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light.svg?v=1a27ad339969" width="250" alt="gopherium/gophenberg — Keep the latest definitions file selected for import Merged: #491, #493." />
+  </picture>
+  </a>
+  <a href="https://github.com/GustavoBaranda/chatflow-agent/pull/95">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gustavobaranda--chatflow-agent-compact-dark.svg?v=88ede3fbe5ff" />
+    <img src="./assets/contributions/gustavobaranda--chatflow-agent-compact-light.svg?v=132c35285ea4" width="250" alt="GustavoBaranda/chatflow-agent — fix(runner): persist metadata updates on every turn Merged: #95." />
+  </picture>
+  </a>
+  <a href="https://github.com/Logixia/logixia/pull/50">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/logixia--logixia-compact-dark.svg?v=772e8f958f1b" />
+    <img src="./assets/contributions/logixia--logixia-compact-light.svg?v=3f48c7372e9b" width="250" alt="Logixia/logixia — fix(middleware): apply Fastify logging hooks to parent routes Merged: #50." />
+  </picture>
+  </a>
+  <a href="https://github.com/nyactl/dok-for-confluence/pull/22">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nyactl--dok-for-confluence-compact-dark.svg?v=aaa235935867" />
+    <img src="./assets/contributions/nyactl--dok-for-confluence-compact-light.svg?v=a94876a6e839" width="250" alt="nyactl/dok-for-confluence — fix(core): decode search excerpts before redaction Merged: #22." />
   </picture>
   </a>
   <a href="https://github.com/oscarbol09/jvm-mcp/pull/96">
@@ -155,6 +197,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark.svg?v=a0047c035e83" />
     <img src="./assets/contributions/py-pdf--pypdf-compact-light.svg?v=53251bdcda09" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4201." />
+  </picture>
+  </a>
+  <a href="https://github.com/yangflow/oriel/pull/478">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/yangflow--oriel-compact-dark.svg?v=fc1c09997e9b" />
+    <img src="./assets/contributions/yangflow--oriel-compact-light.svg?v=c6d76855c5ef" width="250" alt="yangflow/oriel — fix(fetch): preserve JSON Feed podcast durations Merged: #478." />
   </picture>
   </a>
 </p>

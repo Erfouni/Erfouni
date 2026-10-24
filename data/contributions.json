@@ -95,7 +95,7 @@
       ]
     },
     {
-      "repo": "andorthehood/8f4e",
+      "repo": "8f4e/8f4e",
       "prs": [
         {
           "number": 1059,
@@ -112,6 +112,18 @@
         {
           "number": 1099,
           "title": "fix(compiler): allow function names matching object properties"
+        },
+        {
+          "number": 1102,
+          "title": "fix(tokenizer): preserve continuation arguments after inline comments"
+        },
+        {
+          "number": 1120,
+          "title": "fix(compiler): support float64 loads through typed pointers"
+        },
+        {
+          "number": 1204,
+          "title": "fix(memory-reference-resolver): preserve known pointee counts of one"
         }
       ]
     },
@@ -160,11 +172,41 @@
       ]
     },
     {
+      "repo": "alessioricco/Certo",
+      "prs": [
+        {
+          "number": 8,
+          "title": "fix: handle Windows Python virtual environment layouts"
+        },
+        {
+          "number": 29,
+          "title": "Fix the remaining Windows test-suite failures"
+        }
+      ]
+    },
+    {
       "repo": "Avenx-JS/avenx-js",
       "prs": [
         {
           "number": 1506,
           "title": "Fix scoped slot rendering in compiled builds"
+        },
+        {
+          "number": 1544,
+          "title": "fix(runtime): respect nested component error handlers"
+        },
+        {
+          "number": 1545,
+          "title": "fix(runtime): run SFC transition hooks"
+        }
+      ]
+    },
+    {
+      "repo": "BistaDinesh03/critique",
+      "prs": [
+        {
+          "number": 89,
+          "title": "fix(auth): honor configured session lifetime"
         }
       ]
     },
@@ -187,11 +229,60 @@
       ]
     },
     {
+      "repo": "deBilla/peek",
+      "prs": [
+        {
+          "number": 9,
+          "title": "Fix Windows preview cleanup for stale browser PIDs"
+        }
+      ]
+    },
+    {
+      "repo": "duramson/eeg-bewegungsdaten",
+      "prs": [
+        {
+          "number": 8,
+          "title": "fix: reject duplicate ZIP data members"
+        }
+      ]
+    },
+    {
       "repo": "gopherium/gophenberg",
       "prs": [
         {
           "number": 491,
           "title": "Keep root pagination addresses reserved"
+        },
+        {
+          "number": 493,
+          "title": "Keep the latest definitions file selected for import"
+        }
+      ]
+    },
+    {
+      "repo": "GustavoBaranda/chatflow-agent",
+      "prs": [
+        {
+          "number": 95,
+          "title": "fix(runner): persist metadata updates on every turn"
+        }
+      ]
+    },
+    {
+      "repo": "Logixia/logixia",
+      "prs": [
+        {
+          "number": 50,
+          "title": "fix(middleware): apply Fastify logging hooks to parent routes"
+        }
+      ]
+    },
+    {
+      "repo": "nyactl/dok-for-confluence",
+      "prs": [
+        {
+          "number": 22,
+          "title": "fix(core): decode search excerpts before redaction"
         }
       ]
     },
@@ -210,6 +301,15 @@
         {
           "number": 4201,
           "title": "ROB: Give a clear error for an out-of-range XMP date"
+        }
+      ]
+    },
+    {
+      "repo": "yangflow/oriel",
+      "prs": [
+        {
+          "number": 478,
+          "title": "fix(fetch): preserve JSON Feed podcast durations"
         }
       ]
     }

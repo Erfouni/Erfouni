@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="142" viewBox="0 0 400 142" role="img" aria-labelledby="title desc"><title id="title">8f4e: 7 merged pull requests</title><desc id="desc">8f4e/8f4e. fix(memory-reference-resolver): preserve known pointee counts of one Merged: #1059, #1095, #1097, #1099, #1102, #1120, #1204.</desc>
+      <defs><linearGradient id="surface" x2="1" y2="1"><stop stop-color="#111F32"/><stop offset="1" stop-color="#0C1727"/></linearGradient></defs>
+      <rect x=".8" y=".8" width="398.4" height="140.4" rx="16" fill="url(#surface)" stroke="#24354C" stroke-width="1.6"/>
+      <rect x="20" y="22" width="4" height="22" rx="2" fill="#33E1C6"/>
+      <text x="34" y="42" fill="#F0F6FC" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="650" letter-spacing="-.6">8f4e</text>
+      <g fill="#B1BED0" font-family="Segoe UI,Arial,sans-serif" font-size="18"><text x="20" y="72">fix(memory-reference-resolver):</text><text x="20" y="94">preserve known pointee counts of one</text></g>
+      <path d="M20 108H380" stroke="#24354C"/>
+      <circle cx="24" cy="126" r="3.5" fill="#33E1C6"/><text x="36" y="131" fill="#B1BED0" font-family="Consolas,Menlo,monospace" font-size="15">#1059 +6 more</text>
+      <text x="380" y="131" text-anchor="end" fill="#33E1C6" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">7 MERGED ↗</text></svg>
