@@ -8,7 +8,7 @@ export const curatedProjects = [
   ['fonttools/fonttools', 'fonttools', 'TYPOGRAPHY & VECTORS', ['Explain truncated SVG commands', 'with a useful validation error.'], [4254], 'purple'],
   ['nipy/nibabel', 'nibabel', 'SCIENTIFIC PYTHON', ['Report malformed PAR headers', 'with the proper PARREC error.'], [1573], 'purple'],
   ['eea/odfpy', 'odfpy', 'DOCUMENT PROCESSING', ['Tolerate malformed numeric fields', 'in text and XHTML extraction.'], [158,159], 'purple'],
-  ['andorthehood/8f4e', '8f4e', 'COMPILERS & WASM', ['Preserve floating-point precision', 'in ensureNonZero fallbacks.'], [1059], 'amber'],
+  ['8f4e/8f4e', '8f4e', 'COMPILERS & WASM', ['Preserve floating-point precision', 'in ensureNonZero fallbacks.'], [1059], 'amber'],
   ['flint-fyi/flint', 'flint', 'DEVELOPER TOOLING', ['Bring Node.js and Vue rule', 'catalogs back into sync.'], [3709,3711], 'amber'],
   ['CallMeJones/blender-agent-bridge', 'blender-agent-bridge', 'AI & BLENDER', ['Add a deterministic tool-registry', 'summary for review and diagnostics.'], [7], 'amber'],
   ['whut09/Awesome-AI-Engineering-Agents', 'AI Engineering Agents', 'OPEN-SOURCE DISCOVERY', ['Contribute the SolidWorks GPT', 'Plugin to the CAD agent catalog.'], [2], 'muted'],

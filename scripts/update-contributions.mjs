@@ -8,6 +8,10 @@ const START = '<!-- open-source-impact:start -->';
 const END = '<!-- open-source-impact:end -->';
 const repoPattern = /^https:\/\/api\.github\.com\/repos\/([A-Za-z0-9_.-]+\/[A-Za-z0-9_.-]+)$/;
 const clean = value => String(value).replace(/[\u0000-\u001f\u007f]/g, ' ').replace(/\s+/g, ' ').trim();
+const githubHeaders = token => ({
+  Accept: 'application/vnd.github+json', 'X-GitHub-Api-Version': '2026-03-10', 'User-Agent': 'profile-contributions',
+  ...(token ? { Authorization: `Bearer ${token}` } : {}),
+});
 
 export async function fetchContributions({ username, token, fetchImpl = fetch }) {
   if (!/^[A-Za-z0-9-]+$/.test(username)) throw Error('Invalid GitHub username');
@@ -19,9 +23,7 @@ export async function fetchContributions({ username, token, fetchImpl = fetch })
       q: `is:pr is:merged author:${username} -user:${username} is:public`,
       per_page: '100', page: String(page), sort: 'created', order: 'asc',
     });
-    const headers = { Accept: 'application/vnd.github+json', 'X-GitHub-Api-Version': '2026-03-10', 'User-Agent': 'profile-contributions' };
-    if (token) headers.Authorization = `Bearer ${token}`;
-    const response = await fetchImpl(url, { headers, signal: AbortSignal.timeout(30_000) });
+    const response = await fetchImpl(url, { headers: githubHeaders(token), signal: AbortSignal.timeout(30_000) });
     if (!response.ok) throw Error(`GitHub search failed (HTTP ${response.status}); existing profile preserved`);
     const data = await response.json();
     if (data.incomplete_results !== false || !Array.isArray(data.items) || !Number.isSafeInteger(data.total_count) || data.total_count < 0) {
@@ -85,7 +87,7 @@ async function readOptional(file) {
   catch (error) { if (error.code === 'ENOENT') return null; throw error; }
 }
 
-export async function updateProfile({ root, username, token, fetchImpl }) {
+export async function updateProfile({ root, username, token, fetchImpl = fetch }) {
   const readme = await readFile(join(root, 'README.md'), 'utf8');
   if (readme.split(START).length !== 2 || readme.split(END).length !== 2 || readme.indexOf(END) < readme.indexOf(START)) {
     throw Error('README must contain one ordered pair of contribution markers');
@@ -96,8 +98,24 @@ export async function updateProfile({ root, username, token, fetchImpl }) {
   const previous = await readOptional(join(root, 'data/contributions.json'));
   if (previous) {
     const current = new Set(groups.flatMap(group => group.prs.map(pr => `${group.repo.toLowerCase()}#${pr.number}`)));
-    const missing = JSON.parse(previous).projects.flatMap(group => group.prs.map(pr => `${group.repo.toLowerCase()}#${pr.number}`)).filter(key => !current.has(key));
-    if (missing.length) throw Error(`Search omitted ${missing.length} recorded PR(s); preserving existing profile`);
+    const missing = [];
+    for (const group of JSON.parse(previous).projects) {
+      if (group.prs.every(pr => current.has(`${group.repo.toLowerCase()}#${pr.number}`))) continue;
+      // GitHub redirects renamed/transferred repositories. Resolve the old path
+      // once, but still require every recorded PR in the complete search result.
+      const url = `https://api.github.com/repos/${group.repo}`;
+      if (!repoPattern.test(url)) throw Error('Invalid recorded repository');
+      const response = await fetchImpl(new URL(url), { headers: githubHeaders(token), signal: AbortSignal.timeout(30_000) });
+      if (!response.ok) throw Error(`GitHub repository lookup failed (HTTP ${response.status}); existing profile preserved`);
+      const repository = await response.json();
+      const canonical = repository.full_name;
+      if (typeof canonical !== 'string' || !repoPattern.test(`https://api.github.com/repos/${canonical}`) ||
+          canonical.split('/').some(part => part === '.' || part === '..') || repository.private !== false ||
+          canonical.split('/')[0].toLowerCase() === username.toLowerCase()) throw Error('Unexpected repository data; existing profile preserved');
+      missing.push(...group.prs.filter(pr => !current.has(`${canonical.toLowerCase()}#${pr.number}`))
+        .map(pr => `${group.repo}#${pr.number}`));
+    }
+    if (missing.length) throw Error(`Search omitted ${missing.length} recorded PR(s): ${missing.join(', ')}; preserving existing profile`);
   }
   const rendered = renderContributions(groups.map(projectStyle), username);
   const newline = readme.slice(readme.indexOf(START) + START.length).startsWith('\r\n') ? '\r\n' : '\n';
