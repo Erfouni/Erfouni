@@ -273,6 +273,15 @@
       ]
     },
     {
+      "repo": "gopherium/gouncer",
+      "prs": [
+        {
+          "number": 105,
+          "title": "fix(gouncer): clean account names before validation"
+        }
+      ]
+    },
+    {
       "repo": "GustavoBaranda/chatflow-agent",
       "prs": [
         {

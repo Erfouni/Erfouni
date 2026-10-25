@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="758" height="96" viewBox="0 0 758 96" role="img" aria-labelledby="title desc"><title id="title">Open Source Impact: 31 projects, 48 merged pull requests</title><desc id="desc">Accepted contributions, linked to their merged pull requests.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="758" height="96" viewBox="0 0 758 96" role="img" aria-labelledby="title desc"><title id="title">Open Source Impact: 32 projects, 49 merged pull requests</title><desc id="desc">Accepted contributions, linked to their merged pull requests.</desc>
     <style>@media(max-width:540px){.impact-title{font-size:36px}.impact-caption{font-size:21px}.impact-value{font-size:40px}.impact-label{font-size:22px}}</style>
     <defs><linearGradient id="surface" x2="1" y2="1"><stop stop-color="#111F32"/><stop offset="1" stop-color="#0C1727"/></linearGradient></defs>
     <rect x=".5" y=".5" width="757" height="95" rx="10" fill="url(#surface)" stroke="#24354C"/>
@@ -7,8 +7,8 @@
       <text class="impact-title" x="32" y="43" fill="#F0F6FC" font-size="24" font-weight="650" letter-spacing="-.6">Open Source Impact</text>
       <text class="impact-caption" x="20" y="69" fill="#B1BED0" font-size="12">Accepted upstream. Linked to proof.</text>
       <path d="M444 23V73M592 23V73" stroke="#24354C"/>
-      <text class="impact-value" x="465" y="45" fill="#33E1C6" font-size="28" font-weight="650" letter-spacing="-.6">31</text>
+      <text class="impact-value" x="465" y="45" fill="#33E1C6" font-size="28" font-weight="650" letter-spacing="-.6">32</text>
       <text class="impact-label" x="465" y="68" fill="#B1BED0" font-size="12">projects</text>
-      <text class="impact-value" x="613" y="45" fill="#33E1C6" font-size="28" font-weight="650" letter-spacing="-.6">48</text>
+      <text class="impact-value" x="613" y="45" fill="#33E1C6" font-size="28" font-weight="650" letter-spacing="-.6">49</text>
       <text class="impact-label" x="613" y="68" fill="#B1BED0" font-size="12">merged PRs</text>
     </g></svg>

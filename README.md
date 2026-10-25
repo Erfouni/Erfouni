@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=e1bedb7a685c" />
-    <img src="./assets/contributions/impact-compact-light.svg?v=48242af7a45c" width="758" alt="Open Source Impact — 31 external projects, 48 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=00a42ac32d7b" />
+    <img src="./assets/contributions/impact-compact-light.svg?v=0180760bd5e0" width="758" alt="Open Source Impact — 32 external projects, 49 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -173,6 +173,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark.svg?v=1dbe8148b34a" />
     <img src="./assets/contributions/gopherium--gophenberg-compact-light.svg?v=1a27ad339969" width="250" alt="gopherium/gophenberg — Keep the latest definitions file selected for import Merged: #491, #493." />
+  </picture>
+  </a>
+  <a href="https://github.com/gopherium/gouncer/pull/105">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gouncer-compact-dark.svg?v=a9ddcb66d3d1" />
+    <img src="./assets/contributions/gopherium--gouncer-compact-light.svg?v=17f8653f6048" width="250" alt="gopherium/gouncer — fix(gouncer): clean account names before validation Merged: #105." />
   </picture>
   </a>
   <a href="https://github.com/GustavoBaranda/chatflow-agent/pull/95">
