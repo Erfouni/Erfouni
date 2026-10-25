@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=7f66f2046856" />
-    <img src="./assets/contributions/impact-compact-light.svg?v=95ba67ad0dcf" width="758" alt="Open Source Impact — 31 external projects, 46 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=e1bedb7a685c" />
+    <img src="./assets/contributions/impact-compact-light.svg?v=48242af7a45c" width="758" alt="Open Source Impact — 31 external projects, 48 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -93,8 +93,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/8f4e/8f4e/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/8f4e--8f4e-compact-dark.svg?v=c4470486c954" />
-    <img src="./assets/contributions/8f4e--8f4e-compact-light.svg?v=1db0ab47e9c5" width="250" alt="8f4e/8f4e — fix(memory-reference-resolver): preserve known pointee counts of one Merged: #1059, #1095, #1097, #1099, #1102, #1120, #1204." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/8f4e--8f4e-compact-dark.svg?v=794bf9972278" />
+    <img src="./assets/contributions/8f4e--8f4e-compact-light.svg?v=334919614ab3" width="250" alt="8f4e/8f4e — refactor(memory-reference-resolver): centralize metadata query resolution Merged: #1059, #1095, #1097, #1099, #1102, #1120, #1204, #1216." />
   </picture>
   </a>
   <a href="https://github.com/flint-fyi/flint/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -199,10 +199,10 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/oras-project--oras-go-compact-light.svg?v=a2bedefeee7a" width="250" alt="oras-project/oras-go — fix(remote): preserve IPv6 brackets in blob upload locations Merged: #1697." />
   </picture>
   </a>
-  <a href="https://github.com/oscarbol09/jvm-mcp/pull/96">
+  <a href="https://github.com/oscarbol09/jvm-mcp/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oscarbol09--jvm-mcp-compact-dark.svg?v=3f0fbf954c0e" />
-    <img src="./assets/contributions/oscarbol09--jvm-mcp-compact-light.svg?v=a72cde635d7f" width="250" alt="oscarbol09/jvm-mcp — fix(core): unwrap optional values during JSON serialization Merged: #96." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oscarbol09--jvm-mcp-compact-dark.svg?v=a69ff5bb7b8f" />
+    <img src="./assets/contributions/oscarbol09--jvm-mcp-compact-light.svg?v=abf972e1cdf9" width="250" alt="oscarbol09/jvm-mcp — fix(core): serialize paths as JSON strings Merged: #96, #228." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pull/4201">

@@ -124,6 +124,10 @@
         {
           "number": 1204,
           "title": "fix(memory-reference-resolver): preserve known pointee counts of one"
+        },
+        {
+          "number": 1216,
+          "title": "refactor(memory-reference-resolver): centralize metadata query resolution"
         }
       ]
     },
@@ -310,6 +314,10 @@
         {
           "number": 96,
           "title": "fix(core): unwrap optional values during JSON serialization"
+        },
+        {
+          "number": 228,
+          "title": "fix(core): serialize paths as JSON strings"
         }
       ]
     },
