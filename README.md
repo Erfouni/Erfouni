@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=dff7b6460ffc" />
-    <img src="./assets/contributions/impact-compact-light.svg?v=b102056a8aa5" width="758" alt="Open Source Impact — 29 external projects, 44 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=7f66f2046856" />
+    <img src="./assets/contributions/impact-compact-light.svg?v=95ba67ad0dcf" width="758" alt="Open Source Impact — 31 external projects, 46 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -121,6 +121,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light.svg?v=dd86352c979d" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313." />
   </picture>
   </a>
+  <a href="https://github.com/agrvasu05/DevCrew/pull/12">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/agrvasu05--devcrew-compact-dark.svg?v=6d68b2b1a4cb" />
+    <img src="./assets/contributions/agrvasu05--devcrew-compact-light.svg?v=d6876ff55e9e" width="250" alt="agrvasu05/DevCrew — Reject blank project ideas before starting the pipeline Merged: #12." />
+  </picture>
+  </a>
   <a href="https://github.com/alessioricco/Certo/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/alessioricco--certo-compact-dark.svg?v=3cef0fc3fde7" />
@@ -203,6 +209,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark.svg?v=a0047c035e83" />
     <img src="./assets/contributions/py-pdf--pypdf-compact-light.svg?v=53251bdcda09" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4201." />
+  </picture>
+  </a>
+  <a href="https://github.com/ryanrosello-og/playwright-slack-report/pull/494">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ryanrosello-og--playwright-slack-report-compact-dark.svg?v=c9df181bfb46" />
+    <img src="./assets/contributions/ryanrosello-og--playwright-slack-report-compact-light.svg?v=62a43f98310b" width="250" alt="ryanrosello-og/playwright-slack-report — Handle run failures in the simple custom layout Merged: #494." />
   </picture>
   </a>
   <a href="https://github.com/yangflow/oriel/pull/478">

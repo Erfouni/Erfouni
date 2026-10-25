@@ -172,6 +172,15 @@
       ]
     },
     {
+      "repo": "agrvasu05/DevCrew",
+      "prs": [
+        {
+          "number": 12,
+          "title": "Reject blank project ideas before starting the pipeline"
+        }
+      ]
+    },
+    {
       "repo": "alessioricco/Certo",
       "prs": [
         {
@@ -310,6 +319,15 @@
         {
           "number": 4201,
           "title": "ROB: Give a clear error for an out-of-range XMP date"
+        }
+      ]
+    },
+    {
+      "repo": "ryanrosello-og/playwright-slack-report",
+      "prs": [
+        {
+          "number": 494,
+          "title": "Handle run failures in the simple custom layout"
         }
       ]
     },
