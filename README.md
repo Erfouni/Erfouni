@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=00a42ac32d7b" />
-    <img src="./assets/contributions/impact-compact-light.svg?v=0180760bd5e0" width="758" alt="Open Source Impact — 32 external projects, 49 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=2c3dcfd90107" />
+    <img src="./assets/contributions/impact-compact-light.svg?v=272cda344477" width="758" alt="Open Source Impact — 33 external projects, 50 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -209,6 +209,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oscarbol09--jvm-mcp-compact-dark.svg?v=a69ff5bb7b8f" />
     <img src="./assets/contributions/oscarbol09--jvm-mcp-compact-light.svg?v=abf972e1cdf9" width="250" alt="oscarbol09/jvm-mcp — fix(core): serialize paths as JSON strings Merged: #96, #228." />
+  </picture>
+  </a>
+  <a href="https://github.com/PicadoLabs/build-with-ai/pull/175">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/picadolabs--build-with-ai-compact-dark.svg?v=aa692758e15f" />
+    <img src="./assets/contributions/picadolabs--build-with-ai-compact-light.svg?v=863aa04bd6ed" width="250" alt="PicadoLabs/build-with-ai — fix(templates): resolve custom templates in the requested workspace Merged: #175." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pull/4201">

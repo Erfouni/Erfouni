@@ -331,6 +331,15 @@
       ]
     },
     {
+      "repo": "PicadoLabs/build-with-ai",
+      "prs": [
+        {
+          "number": 175,
+          "title": "fix(templates): resolve custom templates in the requested workspace"
+        }
+      ]
+    },
+    {
       "repo": "py-pdf/pypdf",
       "prs": [
         {
