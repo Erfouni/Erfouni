@@ -343,6 +343,10 @@
       "repo": "py-pdf/pypdf",
       "prs": [
         {
+          "number": 4199,
+          "title": "ROB: don't raise TypeError on a /Nums with a non-numeric key"
+        },
+        {
           "number": 4201,
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }

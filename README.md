@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=2c3dcfd90107" />
-    <img src="./assets/contributions/impact-compact-light.svg?v=272cda344477" width="758" alt="Open Source Impact — 33 external projects, 50 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=b850f00ec475" />
+    <img src="./assets/contributions/impact-compact-light.svg?v=7cbe139441c3" width="758" alt="Open Source Impact — 33 external projects, 51 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -217,10 +217,10 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/picadolabs--build-with-ai-compact-light.svg?v=863aa04bd6ed" width="250" alt="PicadoLabs/build-with-ai — fix(templates): resolve custom templates in the requested workspace Merged: #175." />
   </picture>
   </a>
-  <a href="https://github.com/py-pdf/pypdf/pull/4201">
+  <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark.svg?v=a0047c035e83" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light.svg?v=53251bdcda09" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4201." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark.svg?v=c60cb9751f12" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light.svg?v=9566155dd21c" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201." />
   </picture>
   </a>
   <a href="https://github.com/ryanrosello-og/playwright-slack-report/pull/494">
