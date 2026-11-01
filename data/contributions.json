@@ -260,6 +260,15 @@
       ]
     },
     {
+      "repo": "erocarrera/pefile",
+      "prs": [
+        {
+          "number": 633,
+          "title": "Fix crash when the dynamic relocation table header is cut short"
+        }
+      ]
+    },
+    {
       "repo": "gopherium/gophenberg",
       "prs": [
         {

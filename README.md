@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=b850f00ec475" />
-    <img src="./assets/contributions/impact-compact-light.svg?v=7cbe139441c3" width="758" alt="Open Source Impact — 33 external projects, 51 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=152161406942" />
+    <img src="./assets/contributions/impact-compact-light.svg?v=41562b039995" width="758" alt="Open Source Impact — 34 external projects, 52 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -167,6 +167,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/duramson--eeg-bewegungsdaten-compact-dark.svg?v=d312c8884518" />
     <img src="./assets/contributions/duramson--eeg-bewegungsdaten-compact-light.svg?v=b78fe148e3e0" width="250" alt="duramson/eeg-bewegungsdaten — fix: reject duplicate ZIP data members  Merged: #8." />
+  </picture>
+  </a>
+  <a href="https://github.com/erocarrera/pefile/pull/633">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark.svg?v=9b2de37ec0a0" />
+    <img src="./assets/contributions/erocarrera--pefile-compact-light.svg?v=06120554939f" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633." />
   </picture>
   </a>
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
