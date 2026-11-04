@@ -211,11 +211,14 @@ test('changed contributions invalidate image caches without timestamps', async (
   await updateProfile({ ...options, root, fetchImpl: async () => response([pr(1)]) });
   const before = await readFile(join(root, 'README.md'), 'utf8');
   const sources = text => [...text.matchAll(/(?:src|srcset)="([^\"]+)"/g)].map(match => match[1]);
-  assert.ok(sources(before).every(source => /\?v=[a-f0-9]{12}$/.test(source)));
+  assert.ok(sources(before).every(source => /-[a-f0-9]{12}\.svg$/.test(source)));
   await updateProfile({ ...options, root, fetchImpl: async () => response([pr(1), pr(2)]) });
   const after = await readFile(join(root, 'README.md'), 'utf8');
   assert.equal(sources(before).length, 4);
   assert.ok(sources(before).every((source, index) => source !== sources(after)[index]));
+  const assets = await readdir(join(root, 'assets/contributions'));
+  assert.equal(assets.filter(name => /-[a-f0-9]{12}\.svg$/.test(name)).length, 4);
+  assert.ok(sources(before).every(source => !assets.includes(source.split('/').at(-1))));
 });
 
 test('features the ten most starred projects and collapses the rest without losing PRs', async () => {

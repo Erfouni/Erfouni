@@ -1,4 +1,4 @@
-import { readFile, writeFile, mkdir } from 'node:fs/promises';
+import { readFile, writeFile, mkdir, readdir, unlink } from 'node:fs/promises';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { curatedProjects } from './contribution-style.mjs';
@@ -152,6 +152,14 @@ export async function updateProfile({ root, username, token, fetchImpl = fetch }
     if (await readOptional(destination) === content) continue;
     await mkdir(dirname(destination), { recursive: true });
     await writeFile(destination, content, 'utf8');
+    changed.push(relative);
+  }
+  // Prune only generated content-versioned SVGs after the replacement set is
+  // complete. Keep legacy stable paths and unrelated assets untouched.
+  for (const name of await readdir(join(root, 'assets/contributions'))) {
+    const relative = `assets/contributions/${name}`;
+    if (!/^[a-z0-9_.-]+-compact-(dark|light)-[a-f0-9]{12}\.svg$/.test(name) || Object.hasOwn(files, relative)) continue;
+    await unlink(join(root, relative));
     changed.push(relative);
   }
   return { changed, projects: rendered.projectCount, merged: rendered.prCount };

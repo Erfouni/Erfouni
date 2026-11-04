@@ -42,11 +42,14 @@ for (const [theme,c] of Object.entries(colors)) {
       <text x="380" y="131" text-anchor="end" fill="${c.mint}" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600"><tspan fill="#E3B341">★</tspan><tspan dx="5">${stars.toLocaleString('en-US')}</tspan></text>`));
   }
 }
-// Stable content versions refresh GitHub's image cache only when an SVG changes.
+// GitHub's raw-image CDN can ignore query strings. Version the actual filename
+// so a changed SVG always has a fresh path after publication.
 const assetUrl = (slug, theme) => {
   const file = `assets/contributions/${slug}-compact-${theme}.svg`;
   const version = createHash('sha256').update(files[file]).digest('hex').slice(0, 12);
-  return `./${file}?v=${version}`;
+  const versioned = file.replace(/\.svg$/, `-${version}.svg`);
+  files[versioned] = files[file];
+  return `./${versioned}`;
 };
 const picture=(slug,width,alt)=>`<picture>\n    <source media="(prefers-color-scheme: dark)" srcset="${assetUrl(slug,'dark')}" />\n    <img src="${assetUrl(slug,'light')}" width="${width}" alt="${esc(alt)}" />\n  </picture>`;
 let section = `<!-- open-source-impact:start -->\n\n## \`> contributions --merged\`\n\n<p align="center">\n<a href="${query}">\n  ${picture('impact',758,`Open Source Impact — ${projectCount} external projects, ${prCount} merged pull requests`)}\n</a>\n</p>\n\n<p align="center">\n`;

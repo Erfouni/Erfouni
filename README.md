@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark.svg?v=152161406942" />
-    <img src="./assets/contributions/impact-compact-light.svg?v=41562b039995" width="758" alt="Open Source Impact — 34 external projects, 52 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark-152161406942.svg" />
+    <img src="./assets/contributions/impact-compact-light-41562b039995.svg" width="758" alt="Open Source Impact — 34 external projects, 52 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -39,62 +39,62 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark.svg?v=64e1bb0e8b12" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light.svg?v=bcee9d3e7d00" width="372" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,284 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-64e1bb0e8b12.svg" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-bcee9d3e7d00.svg" width="372" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,284 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark.svg?v=7dd98c3d082b" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light.svg?v=86e4d0e8e5ed" width="372" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,306 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-7dd98c3d082b.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-86e4d0e8e5ed.svg" width="372" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,306 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark.svg?v=cedffa68a16d" />
-    <img src="./assets/contributions/mikedh--trimesh-compact-light.svg?v=7003faf789d9" width="372" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,715 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-cedffa68a16d.svg" />
+    <img src="./assets/contributions/mikedh--trimesh-compact-light-7003faf789d9.svg" width="372" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,715 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark.svg?v=6127f54e40f9" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light.svg?v=bc73f68eed5c" width="372" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,616 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-6127f54e40f9.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-bc73f68eed5c.svg" width="372" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,616 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark.svg?v=bd12a0ebd221" />
-    <img src="./assets/contributions/cantools--cantools-compact-light.svg?v=64283fc9bc9d" width="372" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,310 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-bd12a0ebd221.svg" />
+    <img src="./assets/contributions/cantools--cantools-compact-light-64283fc9bc9d.svg" width="372" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,310 stars." />
   </picture>
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark.svg?v=1f65d39baaee" />
-    <img src="./assets/contributions/erocarrera--pefile-compact-light.svg?v=100e9424945f" width="372" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,082 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-1f65d39baaee.svg" />
+    <img src="./assets/contributions/erocarrera--pefile-compact-light-100e9424945f.svg" width="372" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,082 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark.svg?v=31378001d568" />
-    <img src="./assets/contributions/mozman--ezdxf-compact-light.svg?v=53a3ae78bcdb" width="372" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,517 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-31378001d568.svg" />
+    <img src="./assets/contributions/mozman--ezdxf-compact-light-53a3ae78bcdb.svg" width="372" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,517 stars." />
   </picture>
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark.svg?v=0f09b6dea320" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light.svg?v=17ae50c2f9a7" width="372" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,502 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-0f09b6dea320.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-17ae50c2f9a7.svg" width="372" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,502 stars." />
   </picture>
   </a>
   <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nipy--nibabel-compact-dark.svg?v=b663350af830" />
-    <img src="./assets/contributions/nipy--nibabel-compact-light.svg?v=f1452d6a0932" width="372" alt="nipy/nibabel — Raise PARRECError for an image information line with too few values Merged: #1573, #1574. 799 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nipy--nibabel-compact-dark-b663350af830.svg" />
+    <img src="./assets/contributions/nipy--nibabel-compact-light-f1452d6a0932.svg" width="372" alt="nipy/nibabel — Raise PARRECError for an image information line with too few values Merged: #1573, #1574. 799 stars." />
   </picture>
   </a>
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark.svg?v=496bf8fcdb22" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light.svg?v=04c1961a43ea" width="372" alt="gopherium/gophenberg — Keep the latest definitions file selected for import Merged: #491, #493. 772 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-496bf8fcdb22.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-04c1961a43ea.svg" width="372" alt="gopherium/gophenberg — Keep the latest definitions file selected for import Merged: #491, #493. 772 stars." />
   </picture>
   </a>
 </p>
@@ -105,146 +105,146 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/mathandy/svgpathtools/pull/253">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mathandy--svgpathtools-compact-dark.svg?v=895c6722084d" />
-    <img src="./assets/contributions/mathandy--svgpathtools-compact-light.svg?v=01e8bf74106a" width="250" alt="mathandy/svgpathtools — Read SVG paths without path data without aborting the document. Merged: #253. 641 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mathandy--svgpathtools-compact-dark-895c6722084d.svg" />
+    <img src="./assets/contributions/mathandy--svgpathtools-compact-light-01e8bf74106a.svg" width="250" alt="mathandy/svgpathtools — Read SVG paths without path data without aborting the document. Merged: #253. 641 stars." />
   </picture>
   </a>
   <a href="https://github.com/dranjan/python-plyfile/pull/91">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/dranjan--python-plyfile-compact-dark.svg?v=448cc3bc1129" />
-    <img src="./assets/contributions/dranjan--python-plyfile-compact-light.svg?v=08f04c87f635" width="250" alt="dranjan/python-plyfile — Handle non-ASCII PLY headers with a clear parsing error. Merged: #91. 515 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/dranjan--python-plyfile-compact-dark-448cc3bc1129.svg" />
+    <img src="./assets/contributions/dranjan--python-plyfile-compact-light-08f04c87f635.svg" width="250" alt="dranjan/python-plyfile — Handle non-ASCII PLY headers with a clear parsing error. Merged: #91. 515 stars." />
   </picture>
   </a>
   <a href="https://github.com/eea/odfpy/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/eea--odfpy-compact-dark.svg?v=fcc4339a2ee6" />
-    <img src="./assets/contributions/eea--odfpy-compact-light.svg?v=868a39d7cfbe" width="250" alt="eea/odfpy — Tolerate malformed numeric fields in text and XHTML extraction. Merged: #158, #159. 368 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/eea--odfpy-compact-dark-fcc4339a2ee6.svg" />
+    <img src="./assets/contributions/eea--odfpy-compact-light-868a39d7cfbe.svg" width="250" alt="eea/odfpy — Tolerate malformed numeric fields in text and XHTML extraction. Merged: #158, #159. 368 stars." />
   </picture>
   </a>
   <a href="https://github.com/flint-fyi/flint/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/flint-fyi--flint-compact-dark.svg?v=b8e77ea8dcda" />
-    <img src="./assets/contributions/flint-fyi--flint-compact-light.svg?v=a13bd0654bc7" width="250" alt="flint-fyi/flint — fix(rule-data): add missing YAML rule mappings Merged: #3709, #3711, #3712. 314 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/flint-fyi--flint-compact-dark-b8e77ea8dcda.svg" />
+    <img src="./assets/contributions/flint-fyi--flint-compact-light-a13bd0654bc7.svg" width="250" alt="flint-fyi/flint — fix(rule-data): add missing YAML rule mappings Merged: #3709, #3711, #3712. 314 stars." />
   </picture>
   </a>
   <a href="https://github.com/oras-project/oras-go/pull/1697">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oras-project--oras-go-compact-dark.svg?v=a8e5aae7b5db" />
-    <img src="./assets/contributions/oras-project--oras-go-compact-light.svg?v=814b8c71be03" width="250" alt="oras-project/oras-go — fix(remote): preserve IPv6 brackets in blob upload locations Merged: #1697. 297 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oras-project--oras-go-compact-dark-a8e5aae7b5db.svg" />
+    <img src="./assets/contributions/oras-project--oras-go-compact-light-814b8c71be03.svg" width="250" alt="oras-project/oras-go — fix(remote): preserve IPv6 brackets in blob upload locations Merged: #1697. 297 stars." />
   </picture>
   </a>
   <a href="https://github.com/pycollada/pycollada/pull/165">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/pycollada--pycollada-compact-dark.svg?v=9dcbe70c7399" />
-    <img src="./assets/contributions/pycollada--pycollada-compact-light.svg?v=42e3fe7b27dc" width="250" alt="pycollada/pycollada — Report missing primitive offsets with the correct parser error. Merged: #165. 251 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/pycollada--pycollada-compact-dark-9dcbe70c7399.svg" />
+    <img src="./assets/contributions/pycollada--pycollada-compact-light-42e3fe7b27dc.svg" width="250" alt="pycollada/pycollada — Report missing primitive offsets with the correct parser error. Merged: #165. 251 stars." />
   </picture>
   </a>
   <a href="https://github.com/ryanrosello-og/playwright-slack-report/pull/494">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ryanrosello-og--playwright-slack-report-compact-dark.svg?v=7c0abb61bb06" />
-    <img src="./assets/contributions/ryanrosello-og--playwright-slack-report-compact-light.svg?v=a6f6790fc9d1" width="250" alt="ryanrosello-og/playwright-slack-report — Handle run failures in the simple custom layout Merged: #494. 149 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ryanrosello-og--playwright-slack-report-compact-dark-7c0abb61bb06.svg" />
+    <img src="./assets/contributions/ryanrosello-og--playwright-slack-report-compact-light-a6f6790fc9d1.svg" width="250" alt="ryanrosello-og/playwright-slack-report — Handle run failures in the simple custom layout Merged: #494. 149 stars." />
   </picture>
   </a>
   <a href="https://github.com/Avenx-JS/avenx-js/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/avenx-js--avenx-js-compact-dark.svg?v=b3cb00e4d4e3" />
-    <img src="./assets/contributions/avenx-js--avenx-js-compact-light.svg?v=b1bf2ee4a1d4" width="250" alt="Avenx-JS/avenx-js — fix(runtime): run SFC transition hooks  Merged: #1506, #1544, #1545. 78 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/avenx-js--avenx-js-compact-dark-b3cb00e4d4e3.svg" />
+    <img src="./assets/contributions/avenx-js--avenx-js-compact-light-b1bf2ee4a1d4.svg" width="250" alt="Avenx-JS/avenx-js — fix(runtime): run SFC transition hooks  Merged: #1506, #1544, #1545. 78 stars." />
   </picture>
   </a>
   <a href="https://github.com/gopherium/gouncer/pull/105">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gouncer-compact-dark.svg?v=c72e96e09aae" />
-    <img src="./assets/contributions/gopherium--gouncer-compact-light.svg?v=b5e109329337" width="250" alt="gopherium/gouncer — fix(gouncer): clean account names before validation Merged: #105. 70 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gouncer-compact-dark-c72e96e09aae.svg" />
+    <img src="./assets/contributions/gopherium--gouncer-compact-light-b5e109329337.svg" width="250" alt="gopherium/gouncer — fix(gouncer): clean account names before validation Merged: #105. 70 stars." />
   </picture>
   </a>
   <a href="https://github.com/8f4e/8f4e/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/8f4e--8f4e-compact-dark.svg?v=66d7ce31e32b" />
-    <img src="./assets/contributions/8f4e--8f4e-compact-light.svg?v=756435cb46bf" width="250" alt="8f4e/8f4e — refactor(memory-reference-resolver): centralize metadata query resolution Merged: #1059, #1095, #1097, #1099, #1102, #1120, #1204, #1216. 40 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/8f4e--8f4e-compact-dark-66d7ce31e32b.svg" />
+    <img src="./assets/contributions/8f4e--8f4e-compact-light-756435cb46bf.svg" width="250" alt="8f4e/8f4e — refactor(memory-reference-resolver): centralize metadata query resolution Merged: #1059, #1095, #1097, #1099, #1102, #1120, #1204, #1216. 40 stars." />
   </picture>
   </a>
   <a href="https://github.com/CallMeJones/blender-agent-bridge/pull/7">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/callmejones--blender-agent-bridge-compact-dark.svg?v=800017640c6f" />
-    <img src="./assets/contributions/callmejones--blender-agent-bridge-compact-light.svg?v=d4f5af82c65d" width="250" alt="CallMeJones/blender-agent-bridge — Add a deterministic tool-registry summary for review and diagnostics. Merged: #7. 25 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/callmejones--blender-agent-bridge-compact-dark-800017640c6f.svg" />
+    <img src="./assets/contributions/callmejones--blender-agent-bridge-compact-light-d4f5af82c65d.svg" width="250" alt="CallMeJones/blender-agent-bridge — Add a deterministic tool-registry summary for review and diagnostics. Merged: #7. 25 stars." />
   </picture>
   </a>
   <a href="https://github.com/GustavoBaranda/chatflow-agent/pull/95">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gustavobaranda--chatflow-agent-compact-dark.svg?v=794905bed9a8" />
-    <img src="./assets/contributions/gustavobaranda--chatflow-agent-compact-light.svg?v=8f6628397a3b" width="250" alt="GustavoBaranda/chatflow-agent — fix(runner): persist metadata updates on every turn Merged: #95. 25 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gustavobaranda--chatflow-agent-compact-dark-794905bed9a8.svg" />
+    <img src="./assets/contributions/gustavobaranda--chatflow-agent-compact-light-8f6628397a3b.svg" width="250" alt="GustavoBaranda/chatflow-agent — fix(runner): persist metadata updates on every turn Merged: #95. 25 stars." />
   </picture>
   </a>
   <a href="https://github.com/BistaDinesh03/critique/pull/89">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/bistadinesh03--critique-compact-dark.svg?v=d6c5c154a65b" />
-    <img src="./assets/contributions/bistadinesh03--critique-compact-light.svg?v=d4e214f70851" width="250" alt="BistaDinesh03/critique — fix(auth): honor configured session lifetime Merged: #89. 12 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/bistadinesh03--critique-compact-dark-d6c5c154a65b.svg" />
+    <img src="./assets/contributions/bistadinesh03--critique-compact-light-d4e214f70851.svg" width="250" alt="BistaDinesh03/critique — fix(auth): honor configured session lifetime Merged: #89. 12 stars." />
   </picture>
   </a>
   <a href="https://github.com/whut09/Awesome-AI-Engineering-Agents/pull/2">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/whut09--awesome-ai-engineering-agents-compact-dark.svg?v=120acb3cb1a8" />
-    <img src="./assets/contributions/whut09--awesome-ai-engineering-agents-compact-light.svg?v=68fed3de1740" width="250" alt="whut09/Awesome-AI-Engineering-Agents — Contribute the SolidWorks GPT Plugin to the CAD agent catalog. Merged: #2. 8 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/whut09--awesome-ai-engineering-agents-compact-dark-120acb3cb1a8.svg" />
+    <img src="./assets/contributions/whut09--awesome-ai-engineering-agents-compact-light-68fed3de1740.svg" width="250" alt="whut09/Awesome-AI-Engineering-Agents — Contribute the SolidWorks GPT Plugin to the CAD agent catalog. Merged: #2. 8 stars." />
   </picture>
   </a>
   <a href="https://github.com/alessioricco/Certo/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/alessioricco--certo-compact-dark.svg?v=4f687834147c" />
-    <img src="./assets/contributions/alessioricco--certo-compact-light.svg?v=5a05cc4f3128" width="250" alt="alessioricco/Certo — Fix the remaining Windows test-suite failures Merged: #8, #29. 8 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/alessioricco--certo-compact-dark-4f687834147c.svg" />
+    <img src="./assets/contributions/alessioricco--certo-compact-light-5a05cc4f3128.svg" width="250" alt="alessioricco/Certo — Fix the remaining Windows test-suite failures Merged: #8, #29. 8 stars." />
   </picture>
   </a>
   <a href="https://github.com/oscarbol09/jvm-mcp/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oscarbol09--jvm-mcp-compact-dark.svg?v=39f47559bcf6" />
-    <img src="./assets/contributions/oscarbol09--jvm-mcp-compact-light.svg?v=4dd664245da2" width="250" alt="oscarbol09/jvm-mcp — fix(core): serialize paths as JSON strings Merged: #96, #228. 6 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oscarbol09--jvm-mcp-compact-dark-39f47559bcf6.svg" />
+    <img src="./assets/contributions/oscarbol09--jvm-mcp-compact-light-4dd664245da2.svg" width="250" alt="oscarbol09/jvm-mcp — fix(core): serialize paths as JSON strings Merged: #96, #228. 6 stars." />
   </picture>
   </a>
   <a href="https://github.com/PicadoLabs/build-with-ai/pull/175">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/picadolabs--build-with-ai-compact-dark.svg?v=f1baca1b491b" />
-    <img src="./assets/contributions/picadolabs--build-with-ai-compact-light.svg?v=1e0c2556f98c" width="250" alt="PicadoLabs/build-with-ai — fix(templates): resolve custom templates in the requested workspace Merged: #175. 5 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/picadolabs--build-with-ai-compact-dark-f1baca1b491b.svg" />
+    <img src="./assets/contributions/picadolabs--build-with-ai-compact-light-1e0c2556f98c.svg" width="250" alt="PicadoLabs/build-with-ai — fix(templates): resolve custom templates in the requested workspace Merged: #175. 5 stars." />
   </picture>
   </a>
   <a href="https://github.com/duramson/eeg-bewegungsdaten/pull/8">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/duramson--eeg-bewegungsdaten-compact-dark.svg?v=1128069a9bf3" />
-    <img src="./assets/contributions/duramson--eeg-bewegungsdaten-compact-light.svg?v=c9b460adb30d" width="250" alt="duramson/eeg-bewegungsdaten — fix: reject duplicate ZIP data members  Merged: #8. 2 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/duramson--eeg-bewegungsdaten-compact-dark-1128069a9bf3.svg" />
+    <img src="./assets/contributions/duramson--eeg-bewegungsdaten-compact-light-c9b460adb30d.svg" width="250" alt="duramson/eeg-bewegungsdaten — fix: reject duplicate ZIP data members  Merged: #8. 2 stars." />
   </picture>
   </a>
   <a href="https://github.com/agrvasu05/DevCrew/pull/12">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/agrvasu05--devcrew-compact-dark.svg?v=e67072dc452f" />
-    <img src="./assets/contributions/agrvasu05--devcrew-compact-light.svg?v=930b9c56b9a6" width="250" alt="agrvasu05/DevCrew — Reject blank project ideas before starting the pipeline Merged: #12. 1 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/agrvasu05--devcrew-compact-dark-e67072dc452f.svg" />
+    <img src="./assets/contributions/agrvasu05--devcrew-compact-light-930b9c56b9a6.svg" width="250" alt="agrvasu05/DevCrew — Reject blank project ideas before starting the pipeline Merged: #12. 1 stars." />
   </picture>
   </a>
   <a href="https://github.com/BiTech5/repotrace/pull/2">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/bitech5--repotrace-compact-dark.svg?v=c0753716a295" />
-    <img src="./assets/contributions/bitech5--repotrace-compact-light.svg?v=d24162db2df3" width="250" alt="BiTech5/repotrace — Prevent captures from silently overwriting reports Merged: #2. 1 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/bitech5--repotrace-compact-dark-c0753716a295.svg" />
+    <img src="./assets/contributions/bitech5--repotrace-compact-light-d24162db2df3.svg" width="250" alt="BiTech5/repotrace — Prevent captures from silently overwriting reports Merged: #2. 1 stars." />
   </picture>
   </a>
   <a href="https://github.com/Logixia/logixia/pull/50">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/logixia--logixia-compact-dark.svg?v=448f6f7ed017" />
-    <img src="./assets/contributions/logixia--logixia-compact-light.svg?v=d1cfc998980f" width="250" alt="Logixia/logixia — fix(middleware): apply Fastify logging hooks to parent routes Merged: #50. 1 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/logixia--logixia-compact-dark-448f6f7ed017.svg" />
+    <img src="./assets/contributions/logixia--logixia-compact-light-d1cfc998980f.svg" width="250" alt="Logixia/logixia — fix(middleware): apply Fastify logging hooks to parent routes Merged: #50. 1 stars." />
   </picture>
   </a>
   <a href="https://github.com/yangflow/oriel/pull/478">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/yangflow--oriel-compact-dark.svg?v=6f10373367bc" />
-    <img src="./assets/contributions/yangflow--oriel-compact-light.svg?v=7501032aa8ef" width="250" alt="yangflow/oriel — fix(fetch): preserve JSON Feed podcast durations Merged: #478. 1 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/yangflow--oriel-compact-dark-6f10373367bc.svg" />
+    <img src="./assets/contributions/yangflow--oriel-compact-light-7501032aa8ef.svg" width="250" alt="yangflow/oriel — fix(fetch): preserve JSON Feed podcast durations Merged: #478. 1 stars." />
   </picture>
   </a>
   <a href="https://github.com/deBilla/peek/pull/9">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/debilla--peek-compact-dark.svg?v=a8c463ebb6a1" />
-    <img src="./assets/contributions/debilla--peek-compact-light.svg?v=30e1a8d3d3e2" width="250" alt="deBilla/peek — Fix Windows preview cleanup for stale browser PIDs Merged: #9. 0 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/debilla--peek-compact-dark-a8c463ebb6a1.svg" />
+    <img src="./assets/contributions/debilla--peek-compact-light-30e1a8d3d3e2.svg" width="250" alt="deBilla/peek — Fix Windows preview cleanup for stale browser PIDs Merged: #9. 0 stars." />
   </picture>
   </a>
   <a href="https://github.com/nyactl/dok-for-confluence/pull/22">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nyactl--dok-for-confluence-compact-dark.svg?v=9ff4a9197ad4" />
-    <img src="./assets/contributions/nyactl--dok-for-confluence-compact-light.svg?v=6b6b74e1d1ba" width="250" alt="nyactl/dok-for-confluence — fix(core): decode search excerpts before redaction Merged: #22. 0 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nyactl--dok-for-confluence-compact-dark-9ff4a9197ad4.svg" />
+    <img src="./assets/contributions/nyactl--dok-for-confluence-compact-light-6b6b74e1d1ba.svg" width="250" alt="nyactl/dok-for-confluence — fix(core): decode search excerpts before redaction Merged: #22. 0 stars." />
   </picture>
   </a>
 </p>
