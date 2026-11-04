@@ -13,7 +13,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10284
+      "stars": 10286
     },
     {
       "repo": "fonttools/fonttools",
@@ -23,7 +23,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5306
+      "stars": 5307
     },
     {
       "repo": "mikedh/trimesh",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3616
+      "stars": 3622
     },
     {
       "repo": "cantools/cantools",
@@ -63,7 +63,7 @@
           "title": "Fix crash when the dynamic relocation table header is cut short"
         }
       ],
-      "stars": 2082
+      "stars": 2083
     },
     {
       "repo": "mozman/ezdxf",
@@ -87,7 +87,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1502
+      "stars": 1508
     },
     {
       "repo": "nipy/nibabel",
@@ -101,7 +101,7 @@
           "title": "Raise PARRECError for an image information line with too few values"
         }
       ],
-      "stars": 799
+      "stars": 800
     },
     {
       "repo": "gopherium/gophenberg",
@@ -273,7 +273,7 @@
           "title": "Add deterministic registry summary report"
         }
       ],
-      "stars": 25
+      "stars": 26
     },
     {
       "repo": "GustavoBaranda/chatflow-agent",
@@ -293,7 +293,7 @@
           "title": "fix(auth): honor configured session lifetime"
         }
       ],
-      "stars": 12
+      "stars": 13
     },
     {
       "repo": "whut09/Awesome-AI-Engineering-Agents",
@@ -369,6 +369,16 @@
         {
           "number": 2,
           "title": "Prevent captures from silently overwriting reports"
+        }
+      ],
+      "stars": 1
+    },
+    {
+      "repo": "layer8labs8/quantpreflight",
+      "prs": [
+        {
+          "number": 18,
+          "title": "fix: count global layers in hybrid KV-cache estimates"
         }
       ],
       "stars": 1
