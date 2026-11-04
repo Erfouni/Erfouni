@@ -54,11 +54,11 @@ const assetUrl = (slug, theme) => {
 const picture=(slug,width,alt)=>`<picture>\n    <source media="(prefers-color-scheme: dark)" srcset="${assetUrl(slug,'dark')}" />\n    <img src="${assetUrl(slug,'light')}" width="${width}" alt="${esc(alt)}" />\n  </picture>`;
 let section = `<!-- open-source-impact:start -->\n\n## \`> contributions --merged\`\n\n<p align="center">\n<a href="${query}">\n  ${picture('impact',758,`Open Source Impact — ${projectCount} external projects, ${prCount} merged pull requests`)}\n</a>\n</p>\n\n<p align="center">\n`;
 for(const [index, [repo,name,cat,lines,prs,accent,stars]] of projects.entries()){
-  if (index === 10) section += `</p>\n\n<details>\n<summary>Show ${projectCount - 10} more projects</summary>\n\n<p align="center">\n`;
+  if (index === 9) section += `</p>\n\n<details>\n<summary>Show ${projectCount - 9} more projects</summary>\n\n<p align="center">\n`;
   const href=prs.length===1?`https://github.com/${repo}/pull/${prs[0]}`:`https://github.com/${repo}/pulls?q=is%3Apr+is%3Amerged+author%3A${encodeURIComponent(username)}`;
-  section+=`  <a href="${href}">\n    ${picture(repo.toLowerCase().replaceAll('/','--'),index < 10 ? 372 : 250,`${repo} — ${lines.join(' ')} Merged: ${prs.map(x=>'#'+x).join(', ')}. ${stars.toLocaleString('en-US')} stars.`)}\n  </a>\n`;
+  section+=`  <a href="${href}">\n    ${picture(repo.toLowerCase().replaceAll('/','--'),250,`${repo} — ${lines.join(' ')} Merged: ${prs.map(x=>'#'+x).join(', ')}. ${stars.toLocaleString('en-US')} stars.`)}\n  </a>\n`;
 }
-section+=`</p>\n${projectCount > 10 ? '\n</details>\n' : ''}\n<p align="center"><a href="${query}">Explore all merged contributions ↗</a></p>\n\n<!-- open-source-impact:end -->`;
+section+=`</p>\n${projectCount > 9 ? '\n</details>\n' : ''}\n<p align="center"><a href="${query}">Explore all merged contributions ↗</a></p>\n\n<!-- open-source-impact:end -->`;
 
 function save(name, content) { files[`assets/contributions/${name}`] = content; }
 return { files, section, projectCount, prCount };

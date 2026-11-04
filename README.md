@@ -40,69 +40,69 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-64e1bb0e8b12.svg" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light-bcee9d3e7d00.svg" width="372" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,284 stars." />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-bcee9d3e7d00.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,284 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-7dd98c3d082b.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-86e4d0e8e5ed.svg" width="372" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,306 stars." />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-86e4d0e8e5ed.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,306 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-cedffa68a16d.svg" />
-    <img src="./assets/contributions/mikedh--trimesh-compact-light-7003faf789d9.svg" width="372" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,715 stars." />
+    <img src="./assets/contributions/mikedh--trimesh-compact-light-7003faf789d9.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,715 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-6127f54e40f9.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-bc73f68eed5c.svg" width="372" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,616 stars." />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-bc73f68eed5c.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,616 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-bd12a0ebd221.svg" />
-    <img src="./assets/contributions/cantools--cantools-compact-light-64283fc9bc9d.svg" width="372" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,310 stars." />
+    <img src="./assets/contributions/cantools--cantools-compact-light-64283fc9bc9d.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,310 stars." />
   </picture>
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-1f65d39baaee.svg" />
-    <img src="./assets/contributions/erocarrera--pefile-compact-light-100e9424945f.svg" width="372" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,082 stars." />
+    <img src="./assets/contributions/erocarrera--pefile-compact-light-100e9424945f.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,082 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-31378001d568.svg" />
-    <img src="./assets/contributions/mozman--ezdxf-compact-light-53a3ae78bcdb.svg" width="372" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,517 stars." />
+    <img src="./assets/contributions/mozman--ezdxf-compact-light-53a3ae78bcdb.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,517 stars." />
   </picture>
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-0f09b6dea320.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-17ae50c2f9a7.svg" width="372" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,502 stars." />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-17ae50c2f9a7.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,502 stars." />
   </picture>
   </a>
   <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nipy--nibabel-compact-dark-b663350af830.svg" />
-    <img src="./assets/contributions/nipy--nibabel-compact-light-f1452d6a0932.svg" width="372" alt="nipy/nibabel — Raise PARRECError for an image information line with too few values Merged: #1573, #1574. 799 stars." />
-  </picture>
-  </a>
-  <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-496bf8fcdb22.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-04c1961a43ea.svg" width="372" alt="gopherium/gophenberg — Keep the latest definitions file selected for import Merged: #491, #493. 772 stars." />
+    <img src="./assets/contributions/nipy--nibabel-compact-light-f1452d6a0932.svg" width="250" alt="nipy/nibabel — Raise PARRECError for an image information line with too few values Merged: #1573, #1574. 799 stars." />
   </picture>
   </a>
 </p>
 
 <details>
-<summary>Show 24 more projects</summary>
+<summary>Show 25 more projects</summary>
 
 <p align="center">
+  <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-496bf8fcdb22.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-04c1961a43ea.svg" width="250" alt="gopherium/gophenberg — Keep the latest definitions file selected for import Merged: #491, #493. 772 stars." />
+  </picture>
+  </a>
   <a href="https://github.com/mathandy/svgpathtools/pull/253">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mathandy--svgpathtools-compact-dark-895c6722084d.svg" />

@@ -166,7 +166,7 @@ test('adds compact new repository cards, escapes titles, and is deterministic', 
   assert.ok(first.startsWith('Keep intro exactly.\r\n'));
   assert.ok(first.endsWith('\r\nKeep footer exactly.\r\n'));
   assert.match(first, /1 external projects, 1 merged pull requests/);
-  assert.match(first, /width="372"/);
+  assert.match(first, /width="250"/);
   assert.doesNotMatch(first, /2026-10|verify --shipped/);
   const card = await readFile(join(root, 'assets/contributions/new--project-compact-dark.svg'), 'utf8');
   assert.match(card, /viewBox="0 0 400 142"/);
@@ -221,7 +221,7 @@ test('changed contributions invalidate image caches without timestamps', async (
   assert.ok(sources(before).every(source => !assets.includes(source.split('/').at(-1))));
 });
 
-test('features the ten most starred projects and collapses the rest without losing PRs', async () => {
+test('features nine compact projects and collapses the rest without losing PRs', async () => {
   const root = await workspace();
   const items = Array.from({ length: 12 }, (_, index) => pr(index + 1, `upstream/project${index + 1}`));
   const calls = [];
@@ -235,9 +235,9 @@ test('features the ten most starred projects and collapses the rest without losi
   const result = await runUpdateProfile({ ...options, root, fetchImpl });
   const readme = await readFile(join(root, 'README.md'), 'utf8');
   const [featured, remaining] = readme.split('<details>');
-  assert.equal((featured.match(/width="372"/g) || []).length, 10);
-  assert.equal((remaining.match(/width="250"/g) || []).length, 2);
-  assert.match(remaining, /<summary>Show 2 more projects<\/summary>/);
+  assert.equal((featured.match(/width="250"/g) || []).length, 9);
+  assert.equal((remaining.match(/width="250"/g) || []).length, 3);
+  assert.match(remaining, /<summary>Show 3 more projects<\/summary>/);
   assert.doesNotMatch(remaining, /<details open/);
   const data = JSON.parse(await readFile(join(root, 'data/contributions.json'), 'utf8'));
   assert.deepEqual(data.projects.map(project => project.stars), Array.from({ length: 12 }, (_, i) => (12 - i) * 1000));

@@ -134,7 +134,7 @@ export async function updateProfile({ root, username, token, fetchImpl = fetch }
     group.stars = repository.stargazers_count;
   }
   // Stable ties retain curated placement. All contributions stay in the data;
-  // only the first ten cards are expanded by default.
+  // only the first nine cards are expanded by default.
   groups.sort((a, b) => b.stars - a.stars);
   const rendered = renderContributions(groups.map(projectStyle), username);
   const newline = readme.slice(readme.indexOf(START) + START.length).startsWith('\r\n') ? '\r\n' : '\n';
