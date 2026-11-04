@@ -87,7 +87,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1508
+      "stars": 1509
     },
     {
       "repo": "nipy/nibabel",
@@ -419,6 +419,16 @@
         {
           "number": 22,
           "title": "fix(core): decode search excerpts before redaction"
+        }
+      ],
+      "stars": 0
+    },
+    {
+      "repo": "Sh1n1230/SpotifyEmbedded",
+      "prs": [
+        {
+          "number": 384,
+          "title": "fix: preserve spotify_url when a track has no Spotify link"
         }
       ],
       "stars": 0

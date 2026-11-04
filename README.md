@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark-9a9410c57cb3.svg" />
-    <img src="./assets/contributions/impact-compact-light-8399db24f869.svg" width="758" alt="Open Source Impact — 35 external projects, 53 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark-71e19ec837aa.svg" />
+    <img src="./assets/contributions/impact-compact-light-c0fb0d7afb5e.svg" width="758" alt="Open Source Impact — 36 external projects, 54 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -81,8 +81,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-9531ac5f344a.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-29a7eb8156fc.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,508 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-ac376cfbf54c.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-f0788028a1f0.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,509 stars." />
   </picture>
   </a>
   <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -94,7 +94,7 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 </p>
 
 <details>
-<summary>Show 26 more projects</summary>
+<summary>Show 27 more projects</summary>
 
 <p align="center">
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -251,6 +251,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nyactl--dok-for-confluence-compact-dark-9ff4a9197ad4.svg" />
     <img src="./assets/contributions/nyactl--dok-for-confluence-compact-light-6b6b74e1d1ba.svg" width="250" alt="nyactl/dok-for-confluence — fix(core): decode search excerpts before redaction Merged: #22. 0 stars." />
+  </picture>
+  </a>
+  <a href="https://github.com/Sh1n1230/SpotifyEmbedded/pull/384">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/sh1n1230--spotifyembedded-compact-dark-1524ba182a82.svg" />
+    <img src="./assets/contributions/sh1n1230--spotifyembedded-compact-light-c3771e67a85e.svg" width="250" alt="Sh1n1230/SpotifyEmbedded — fix: preserve spotify_url when a track has no Spotify link Merged: #384. 0 stars." />
   </picture>
   </a>
 </p>
