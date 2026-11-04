@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { mkdtemp, readFile, writeFile, readdir } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
-import { fetchContributions, groupContributions, updateProfile } from './update-contributions.mjs';
+import { fetchContributions, groupContributions, updateProfile as runUpdateProfile } from './update-contributions.mjs';
 
 const pr = (number, repo = 'upstream/project', title = 'Fix parser validation') => ({
   id: number, number, title, repository_url: `https://api.github.com/repos/${repo}`,
@@ -49,8 +49,23 @@ for (const [name, fake] of [
 
 const original = 'Keep intro exactly.\r\n<!-- open-source-impact:start -->\r\nold cards\r\n<!-- open-source-impact:end -->\r\nKeep footer exactly.\r\n';
 const repositoryResponse = (full_name, extra = {}) => ({
-  ok: true, status: 200, json: async () => ({ full_name, private: false, ...extra }),
+  ok: true, status: 200, json: async () => ({ full_name, private: false, stargazers_count: 0, ...extra }),
 });
+// Existing search/transfer fixtures use zero stars unless a test supplies real
+// metadata explicitly through runUpdateProfile.
+async function updateProfile({ fetchImpl, ...config }) {
+  let repositories = new Set();
+  return runUpdateProfile({ ...config, fetchImpl: async (url, init) => {
+    const path = new URL(url).pathname;
+    if (path.startsWith('/repos/') && repositories.has(path.slice(7))) return repositoryResponse(path.slice(7));
+    const result = await fetchImpl(url, init);
+    if (path === '/search/issues' && result.ok) {
+      const data = await result.json();
+      repositories = new Set(data.items.map(item => item.repository_url.split('/repos/')[1]));
+    }
+    return result;
+  }});
+}
 async function snapshot(root) {
   const files = (await readdir(root, { recursive: true, withFileTypes: true })).filter(entry => entry.isFile());
   return Promise.all(files.map(async entry => [join(entry.parentPath, entry.name), await readFile(join(entry.parentPath, entry.name), 'utf8')]));
@@ -151,7 +166,7 @@ test('adds compact new repository cards, escapes titles, and is deterministic', 
   assert.ok(first.startsWith('Keep intro exactly.\r\n'));
   assert.ok(first.endsWith('\r\nKeep footer exactly.\r\n'));
   assert.match(first, /1 external projects, 1 merged pull requests/);
-  assert.match(first, /width="250"/);
+  assert.match(first, /width="372"/);
   assert.doesNotMatch(first, /2026-10|verify --shipped/);
   const card = await readFile(join(root, 'assets/contributions/new--project-compact-dark.svg'), 'utf8');
   assert.match(card, /viewBox="0 0 400 142"/);
@@ -202,3 +217,63 @@ test('changed contributions invalidate image caches without timestamps', async (
   assert.equal(sources(before).length, 4);
   assert.ok(sources(before).every((source, index) => source !== sources(after)[index]));
 });
+
+test('features the ten most starred projects and collapses the rest without losing PRs', async () => {
+  const root = await workspace();
+  const items = Array.from({ length: 12 }, (_, index) => pr(index + 1, `upstream/project${index + 1}`));
+  const calls = [];
+  const fetchImpl = async url => {
+    const path = new URL(url).pathname;
+    calls.push(path);
+    if (path === '/search/issues') return response(items);
+    const repo = path.slice(7);
+    return repositoryResponse(repo, { stargazers_count: Number(repo.match(/\d+$/)[0]) * 1000 });
+  };
+  const result = await runUpdateProfile({ ...options, root, fetchImpl });
+  const readme = await readFile(join(root, 'README.md'), 'utf8');
+  const [featured, remaining] = readme.split('<details>');
+  assert.equal((featured.match(/width="372"/g) || []).length, 10);
+  assert.equal((remaining.match(/width="250"/g) || []).length, 2);
+  assert.match(remaining, /<summary>Show 2 more projects<\/summary>/);
+  assert.doesNotMatch(remaining, /<details open/);
+  const data = JSON.parse(await readFile(join(root, 'data/contributions.json'), 'utf8'));
+  assert.deepEqual(data.projects.map(project => project.stars), Array.from({ length: 12 }, (_, i) => (12 - i) * 1000));
+  const positions = data.projects.map(project => readme.indexOf(`href="https://github.com/${project.repo}/pull/`));
+  assert.ok(positions.every((position, i) => position >= 0 && (i === 0 || position > positions[i - 1])));
+  for (const theme of ['dark', 'light']) {
+    const svg = await readFile(join(root, `assets/contributions/upstream--project12-compact-${theme}.svg`), 'utf8');
+    assert.match(svg, /12,000 stars/);
+  }
+  assert.equal(result.merged, 12);
+  assert.equal(new Set(calls).size, 13);
+  assert.equal(calls.length, 13);
+  assert.deepEqual((await runUpdateProfile({ ...options, root, fetchImpl })).changed, []);
+});
+
+test('updates star counts and rankings on the next refresh and hides no small collection', async () => {
+  const root = await workspace();
+  let firstStars = 10;
+  const fetchImpl = async url => {
+    const path = new URL(url).pathname;
+    if (path === '/search/issues') return response([pr(1, 'upstream/first'), pr(2, 'upstream/second')]);
+    return repositoryResponse(path.slice(7), { stargazers_count: path.endsWith('/first') ? firstStars : 20 });
+  };
+  await runUpdateProfile({ ...options, root, fetchImpl });
+  firstStars = 30;
+  await runUpdateProfile({ ...options, root, fetchImpl });
+  const data = JSON.parse(await readFile(join(root, 'data/contributions.json'), 'utf8'));
+  assert.deepEqual(data.projects.map(project => project.repo), ['upstream/first', 'upstream/second']);
+  assert.doesNotMatch(await readFile(join(root, 'README.md'), 'utf8'), /<details>/);
+  assert.match(await readFile(join(root, 'assets/contributions/upstream--first-compact-dark.svg'), 'utf8'), /30 stars/);
+});
+
+for (const metadata of [undefined, -1, 1.5, '100']) {
+  test(`invalid star count ${metadata} preserves all existing output`, async () => {
+    const root = await workspace();
+    await updateProfile({ ...options, root, fetchImpl: async () => response([pr(1)]) });
+    const before = await snapshot(root);
+    await assert.rejects(runUpdateProfile({ ...options, root, fetchImpl: async url =>
+      new URL(url).pathname === '/search/issues' ? response([pr(1)]) : repositoryResponse('upstream/project', { stargazers_count: metadata }) }));
+    assert.deepEqual(await snapshot(root), before);
+  });
+}

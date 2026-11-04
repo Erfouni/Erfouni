@@ -79,7 +79,7 @@ function projectStyle(group) {
   const numbers = group.prs.map(pr => pr.number);
   const unchanged = curated && numbers.length === curated[4].length && numbers.every(number => curated[4].includes(number));
   return [group.repo, curated?.[1] ?? truncate(group.repo.split('/')[1], 25), '',
-    unchanged ? curated[3] : summary(group.prs.at(-1).title), numbers, curated?.[5] ?? 'blue'];
+    unchanged ? curated[3] : summary(group.prs.at(-1).title), numbers, curated?.[5] ?? 'blue', group.stars];
 }
 
 async function readOptional(file) {
@@ -95,6 +95,25 @@ export async function updateProfile({ root, username, token, fetchImpl = fetch }
   const items = await fetchContributions({ username, token, fetchImpl });
   const groups = groupContributions(items, username);
   if (!groups.length) throw Error('Empty contribution result; preserving existing profile');
+  const repositories = new Map();
+  async function repositoryInfo(repo) {
+    if (repositories.has(repo.toLowerCase())) return repositories.get(repo.toLowerCase());
+    const url = `https://api.github.com/repos/${repo}`;
+    if (!repoPattern.test(url)) throw Error('Invalid recorded repository');
+    const response = await fetchImpl(new URL(url), { headers: githubHeaders(token), signal: AbortSignal.timeout(30_000) });
+    if (!response.ok) throw Error(`GitHub repository lookup failed (HTTP ${response.status}); existing profile preserved`);
+    const repository = await response.json();
+    const canonical = repository.full_name;
+    if (typeof canonical !== 'string' || !repoPattern.test(`https://api.github.com/repos/${canonical}`) ||
+        canonical.split('/').some(part => part === '.' || part === '..') || repository.private !== false ||
+        canonical.split('/')[0].toLowerCase() === username.toLowerCase() ||
+        !Number.isSafeInteger(repository.stargazers_count) || repository.stargazers_count < 0) {
+      throw Error('Unexpected repository data; existing profile preserved');
+    }
+    repositories.set(repo.toLowerCase(), repository);
+    repositories.set(canonical.toLowerCase(), repository);
+    return repository;
+  }
   const previous = await readOptional(join(root, 'data/contributions.json'));
   if (previous) {
     const current = new Set(groups.flatMap(group => group.prs.map(pr => `${group.repo.toLowerCase()}#${pr.number}`)));
@@ -103,20 +122,20 @@ export async function updateProfile({ root, username, token, fetchImpl = fetch }
       if (group.prs.every(pr => current.has(`${group.repo.toLowerCase()}#${pr.number}`))) continue;
       // GitHub redirects renamed/transferred repositories. Resolve the old path
       // once, but still require every recorded PR in the complete search result.
-      const url = `https://api.github.com/repos/${group.repo}`;
-      if (!repoPattern.test(url)) throw Error('Invalid recorded repository');
-      const response = await fetchImpl(new URL(url), { headers: githubHeaders(token), signal: AbortSignal.timeout(30_000) });
-      if (!response.ok) throw Error(`GitHub repository lookup failed (HTTP ${response.status}); existing profile preserved`);
-      const repository = await response.json();
-      const canonical = repository.full_name;
-      if (typeof canonical !== 'string' || !repoPattern.test(`https://api.github.com/repos/${canonical}`) ||
-          canonical.split('/').some(part => part === '.' || part === '..') || repository.private !== false ||
-          canonical.split('/')[0].toLowerCase() === username.toLowerCase()) throw Error('Unexpected repository data; existing profile preserved');
+      const { full_name: canonical } = await repositoryInfo(group.repo);
       missing.push(...group.prs.filter(pr => !current.has(`${canonical.toLowerCase()}#${pr.number}`))
         .map(pr => `${group.repo}#${pr.number}`));
     }
     if (missing.length) throw Error(`Search omitted ${missing.length} recorded PR(s): ${missing.join(', ')}; preserving existing profile`);
   }
+  for (const group of groups) {
+    const repository = await repositoryInfo(group.repo);
+    if (repository.full_name.toLowerCase() !== group.repo.toLowerCase()) throw Error('Repository changed during refresh; retry before publishing');
+    group.stars = repository.stargazers_count;
+  }
+  // Stable ties retain curated placement. All contributions stay in the data;
+  // only the first ten cards are expanded by default.
+  groups.sort((a, b) => b.stars - a.stars);
   const rendered = renderContributions(groups.map(projectStyle), username);
   const newline = readme.slice(readme.indexOf(START) + START.length).startsWith('\r\n') ? '\r\n' : '\n';
   const updated = readme.slice(0, readme.indexOf(START)) + rendered.section.replaceAll('\n', newline) + readme.slice(readme.indexOf(END) + END.length);

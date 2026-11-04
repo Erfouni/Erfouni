@@ -28,10 +28,10 @@ for (const [theme,c] of Object.entries(colors)) {
       <text class="impact-value" x="613" y="45" fill="${c.mint}" font-size="28" font-weight="650" letter-spacing="-.6">${prCount}</text>
       <text class="impact-label" x="613" y="68" fill="${c.secondary}" font-size="12">merged PRs</text>
     </g>`));
-  for (const [repo,name,category,lines,prs,accent] of projects) {
+  for (const [repo,name,category,lines,prs,accent,stars] of projects) {
     const slug=repo.toLowerCase().replaceAll('/','--');
-    const count=prs.length>1?`${prs.length} MERGED`:'MERGED';
-    save(`${slug}-compact-${theme}.svg`,svg(400,142,`${name}: ${prs.length} merged pull requests`,`${repo}. ${lines.join(' ')} Merged: ${prs.map(x=>'#'+x).join(', ')}.`,`
+    const starLabel = `${stars.toLocaleString('en-US')} stars`;
+    save(`${slug}-compact-${theme}.svg`,svg(400,142,`${name}: ${prs.length} merged pull requests, ${starLabel}`,`${repo}. ${lines.join(' ')} Merged: ${prs.map(x=>'#'+x).join(', ')}. ${starLabel}.`,`
       <defs><linearGradient id="surface" x2="1" y2="1"><stop stop-color="${c.panel}"/><stop offset="1" stop-color="${c.bg}"/></linearGradient></defs>
       <rect x=".8" y=".8" width="398.4" height="140.4" rx="16" fill="url(#surface)" stroke="${c.line}" stroke-width="1.6"/>
       <rect x="20" y="22" width="4" height="22" rx="2" fill="${c.mint}"/>
@@ -39,7 +39,7 @@ for (const [theme,c] of Object.entries(colors)) {
       <g fill="${c.secondary}" font-family="Segoe UI,Arial,sans-serif" font-size="18"><text x="20" y="72">${esc(lines[0])}</text><text x="20" y="94">${esc(lines[1])}</text></g>
       <path d="M20 108H380" stroke="${c.line}"/>
       <circle cx="24" cy="126" r="3.5" fill="${c.mint}"/><text x="36" y="131" fill="${c.secondary}" font-family="Consolas,Menlo,monospace" font-size="15">${esc(prLabel(prs))}</text>
-      <text x="380" y="131" text-anchor="end" fill="${c.mint}" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">${count} ↗</text>`));
+      <text x="380" y="131" text-anchor="end" fill="${c.mint}" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600"><tspan fill="#E3B341">★</tspan><tspan dx="5">${stars.toLocaleString('en-US')}</tspan></text>`));
   }
 }
 // Stable content versions refresh GitHub's image cache only when an SVG changes.
@@ -50,11 +50,12 @@ const assetUrl = (slug, theme) => {
 };
 const picture=(slug,width,alt)=>`<picture>\n    <source media="(prefers-color-scheme: dark)" srcset="${assetUrl(slug,'dark')}" />\n    <img src="${assetUrl(slug,'light')}" width="${width}" alt="${esc(alt)}" />\n  </picture>`;
 let section = `<!-- open-source-impact:start -->\n\n## \`> contributions --merged\`\n\n<p align="center">\n<a href="${query}">\n  ${picture('impact',758,`Open Source Impact — ${projectCount} external projects, ${prCount} merged pull requests`)}\n</a>\n</p>\n\n<p align="center">\n`;
-for(const [repo,name,cat,lines,prs] of projects){
+for(const [index, [repo,name,cat,lines,prs,accent,stars]] of projects.entries()){
+  if (index === 10) section += `</p>\n\n<details>\n<summary>Show ${projectCount - 10} more projects</summary>\n\n<p align="center">\n`;
   const href=prs.length===1?`https://github.com/${repo}/pull/${prs[0]}`:`https://github.com/${repo}/pulls?q=is%3Apr+is%3Amerged+author%3A${encodeURIComponent(username)}`;
-  section+=`  <a href="${href}">\n    ${picture(repo.toLowerCase().replaceAll('/','--'),250,`${repo} — ${lines.join(' ')} Merged: ${prs.map(x=>'#'+x).join(', ')}.`)}\n  </a>\n`;
+  section+=`  <a href="${href}">\n    ${picture(repo.toLowerCase().replaceAll('/','--'),index < 10 ? 372 : 250,`${repo} — ${lines.join(' ')} Merged: ${prs.map(x=>'#'+x).join(', ')}. ${stars.toLocaleString('en-US')} stars.`)}\n  </a>\n`;
 }
-section+=`</p>\n\n<p align="center"><a href="${query}">Explore all merged contributions ↗</a></p>\n\n<!-- open-source-impact:end -->`;
+section+=`</p>\n${projectCount > 10 ? '\n</details>\n' : ''}\n<p align="center"><a href="${query}">Explore all merged contributions ↗</a></p>\n\n<!-- open-source-impact:end -->`;
 
 function save(name, content) { files[`assets/contributions/${name}`] = content; }
 return { files, section, projectCount, prCount };

@@ -11,6 +11,12 @@ New repositories get cards automatically. Existing curated styling is kept in
 `contribution-style.mjs`; new PRs update each card's summary from its latest PR
 number. Titles are escaped, wrapped, and truncated for the compact layout.
 
+Each refresh also reads the public repository star counts. The ten most starred
+projects appear first, with exact star counts inside their cards. The remaining
+projects stay in a closed details section, ordered by stars too. Ties retain
+curated placement. All merged PRs are still counted. Repository metadata failures
+leave existing output untouched rather than displaying zero or outdated stars.
+
 The script replaces only the marked contribution section in README.md and
 generates SVGs in light and dark themes. It never adds timestamps. Only changed
 output is committed; an unchanged run makes no commit. Output from an
