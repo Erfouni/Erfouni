@@ -57,8 +57,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-fffee670c8b6.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-3ab7bc21b734.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,631 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-82792ffb484a.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-d8f7db952eca.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,633 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -81,14 +81,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-d61d701a78e7.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-e50a506a84f7.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,515 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-b41adb779dc1.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-5be21b49e6e8.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,517 stars." />
   </picture>
   </a>
   <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nipy--nibabel-compact-dark-6a317ebdcb16.svg" />
-    <img src="./assets/contributions/nipy--nibabel-compact-light-3d76b1f8f6c9.svg" width="250" alt="nipy/nibabel — Raise PARRECError for an image information line with too few values Merged: #1573, #1574. 800 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nipy--nibabel-compact-dark-ef7654f3bf44.svg" />
+    <img src="./assets/contributions/nipy--nibabel-compact-light-b1f8b4c5561d.svg" width="250" alt="nipy/nibabel — Raise PARRECError for an image information line with too few values Merged: #1573, #1574. 801 stars." />
   </picture>
   </a>
 </p>
