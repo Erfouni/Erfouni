@@ -45,8 +45,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-f2213a54a47f.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-07ff2d8ffc7a.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,307 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-474f6a882b08.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-a33df69caaf9.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,308 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -57,8 +57,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-4a75afd51600.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-197f89c2db0b.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,628 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-fffee670c8b6.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-3ab7bc21b734.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,631 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -75,14 +75,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-2a170399253b.svg" />
-    <img src="./assets/contributions/mozman--ezdxf-compact-light-099c307eec4f.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,519 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-801880171b5f.svg" />
+    <img src="./assets/contributions/mozman--ezdxf-compact-light-e72b4495961a.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,520 stars." />
   </picture>
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-d9bc28731d7c.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-b8464661232a.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,513 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-d61d701a78e7.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-e50a506a84f7.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,515 stars." />
   </picture>
   </a>
   <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -99,8 +99,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-7d5e30f6dc72.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-d768a7b01b16.svg" width="250" alt="gopherium/gophenberg — Keep the latest definitions file selected for import Merged: #491, #493. 771 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-5bd4f1b22a13.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-742b1e847ad0.svg" width="250" alt="gopherium/gophenberg — Keep the latest definitions file selected for import Merged: #491, #493. 764 stars." />
   </picture>
   </a>
   <a href="https://github.com/mathandy/svgpathtools/pull/253">
@@ -153,8 +153,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gopherium/gouncer/pull/105">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gouncer-compact-dark-c72e96e09aae.svg" />
-    <img src="./assets/contributions/gopherium--gouncer-compact-light-b5e109329337.svg" width="250" alt="gopherium/gouncer — fix(gouncer): clean account names before validation Merged: #105. 70 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gouncer-compact-dark-61502e32d54c.svg" />
+    <img src="./assets/contributions/gopherium--gouncer-compact-light-ae1cd62e3846.svg" width="250" alt="gopherium/gouncer — fix(gouncer): clean account names before validation Merged: #105. 69 stars." />
   </picture>
   </a>
   <a href="https://github.com/8f4e/8f4e/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -235,6 +235,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/logixia--logixia-compact-light-d1cfc998980f.svg" width="250" alt="Logixia/logixia — fix(middleware): apply Fastify logging hooks to parent routes Merged: #50. 1 stars." />
   </picture>
   </a>
+  <a href="https://github.com/Sh1n1230/SpotifyEmbedded/pull/384">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/sh1n1230--spotifyembedded-compact-dark-8eeb9e187a56.svg" />
+    <img src="./assets/contributions/sh1n1230--spotifyembedded-compact-light-7891fac9cf6a.svg" width="250" alt="Sh1n1230/SpotifyEmbedded — fix: preserve spotify_url when a track has no Spotify link Merged: #384. 1 stars." />
+  </picture>
+  </a>
   <a href="https://github.com/yangflow/oriel/pull/478">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/yangflow--oriel-compact-dark-6f10373367bc.svg" />
@@ -251,12 +257,6 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nyactl--dok-for-confluence-compact-dark-9ff4a9197ad4.svg" />
     <img src="./assets/contributions/nyactl--dok-for-confluence-compact-light-6b6b74e1d1ba.svg" width="250" alt="nyactl/dok-for-confluence — fix(core): decode search excerpts before redaction Merged: #22. 0 stars." />
-  </picture>
-  </a>
-  <a href="https://github.com/Sh1n1230/SpotifyEmbedded/pull/384">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/sh1n1230--spotifyembedded-compact-dark-1524ba182a82.svg" />
-    <img src="./assets/contributions/sh1n1230--spotifyembedded-compact-light-c3771e67a85e.svg" width="250" alt="Sh1n1230/SpotifyEmbedded — fix: preserve spotify_url when a track has no Spotify link Merged: #384. 0 stars." />
   </picture>
   </a>
 </p>

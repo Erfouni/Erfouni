@@ -23,7 +23,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5307
+      "stars": 5308
     },
     {
       "repo": "mikedh/trimesh",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3628
+      "stars": 3631
     },
     {
       "repo": "cantools/cantools",
@@ -77,7 +77,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1519
+      "stars": 1520
     },
     {
       "repo": "hashgraph-online/awesome-codex-plugins",
@@ -87,7 +87,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1513
+      "stars": 1515
     },
     {
       "repo": "nipy/nibabel",
@@ -115,7 +115,7 @@
           "title": "Keep the latest definitions file selected for import"
         }
       ],
-      "stars": 771
+      "stars": 764
     },
     {
       "repo": "mathandy/svgpathtools",
@@ -225,7 +225,7 @@
           "title": "fix(gouncer): clean account names before validation"
         }
       ],
-      "stars": 70
+      "stars": 69
     },
     {
       "repo": "8f4e/8f4e",
@@ -394,6 +394,16 @@
       "stars": 1
     },
     {
+      "repo": "Sh1n1230/SpotifyEmbedded",
+      "prs": [
+        {
+          "number": 384,
+          "title": "fix: preserve spotify_url when a track has no Spotify link"
+        }
+      ],
+      "stars": 1
+    },
+    {
       "repo": "yangflow/oriel",
       "prs": [
         {
@@ -419,16 +429,6 @@
         {
           "number": 22,
           "title": "fix(core): decode search excerpts before redaction"
-        }
-      ],
-      "stars": 0
-    },
-    {
-      "repo": "Sh1n1230/SpotifyEmbedded",
-      "prs": [
-        {
-          "number": 384,
-          "title": "fix: preserve spotify_url when a track has no Spotify link"
         }
       ],
       "stars": 0
