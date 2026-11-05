@@ -13,7 +13,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10286
+      "stars": 10287
     },
     {
       "repo": "fonttools/fonttools",
@@ -33,7 +33,7 @@
           "title": "Raise a clear error for out-of-range face indices in OFF files"
         }
       ],
-      "stars": 3715
+      "stars": 3716
     },
     {
       "repo": "gumyr/build123d",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3622
+      "stars": 3628
     },
     {
       "repo": "cantools/cantools",
@@ -77,7 +77,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1518
+      "stars": 1519
     },
     {
       "repo": "hashgraph-online/awesome-codex-plugins",
@@ -87,7 +87,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1510
+      "stars": 1513
     },
     {
       "repo": "nipy/nibabel",
@@ -115,7 +115,7 @@
           "title": "Keep the latest definitions file selected for import"
         }
       ],
-      "stars": 772
+      "stars": 771
     },
     {
       "repo": "mathandy/svgpathtools",
@@ -341,7 +341,7 @@
           "title": "fix(templates): resolve custom templates in the requested workspace"
         }
       ],
-      "stars": 5
+      "stars": 6
     },
     {
       "repo": "duramson/eeg-bewegungsdaten",
