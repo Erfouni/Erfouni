@@ -75,14 +75,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-31378001d568.svg" />
-    <img src="./assets/contributions/mozman--ezdxf-compact-light-53a3ae78bcdb.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,517 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-e5a22a279d31.svg" />
+    <img src="./assets/contributions/mozman--ezdxf-compact-light-dcad8064a82e.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,518 stars." />
   </picture>
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-ac376cfbf54c.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-f0788028a1f0.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,509 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-b257136834b8.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-ee19847c4c92.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,510 stars." />
   </picture>
   </a>
   <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">

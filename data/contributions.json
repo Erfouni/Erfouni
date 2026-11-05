@@ -77,7 +77,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1517
+      "stars": 1518
     },
     {
       "repo": "hashgraph-online/awesome-codex-plugins",
@@ -87,7 +87,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1509
+      "stars": 1510
     },
     {
       "repo": "nipy/nibabel",
