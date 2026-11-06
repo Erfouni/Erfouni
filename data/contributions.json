@@ -87,7 +87,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1517
+      "stars": 1518
     },
     {
       "repo": "nipy/nibabel",
@@ -101,7 +101,7 @@
           "title": "Raise PARRECError for an image information line with too few values"
         }
       ],
-      "stars": 801
+      "stars": 802
     },
     {
       "repo": "gopherium/gophenberg",
