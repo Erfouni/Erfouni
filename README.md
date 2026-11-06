@@ -39,8 +39,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-43747869a537.svg" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light-3fe8e197fce3.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,289 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-c61954e9cbc4.svg" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-a72902d6bdb3.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,290 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
@@ -57,8 +57,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-f655fb631796.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-5f20fa09567b.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,641 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-fee6341711b0.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-dc09ccee140b.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,642 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -73,16 +73,16 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/erocarrera--pefile-compact-light-100e9424945f.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,082 stars." />
   </picture>
   </a>
+  <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-f7f6bcc8f579.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-8bde3908d9d7.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,522 stars." />
+  </picture>
+  </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-801880171b5f.svg" />
     <img src="./assets/contributions/mozman--ezdxf-compact-light-e72b4495961a.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,520 stars." />
-  </picture>
-  </a>
-  <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-b904d3025390.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-438bbe858b20.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,519 stars." />
   </picture>
   </a>
   <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -97,12 +97,6 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <summary>Show 27 more projects</summary>
 
 <p align="center">
-  <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-5bd4f1b22a13.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-742b1e847ad0.svg" width="250" alt="gopherium/gophenberg — Keep the latest definitions file selected for import Merged: #491, #493. 764 stars." />
-  </picture>
-  </a>
   <a href="https://github.com/mathandy/svgpathtools/pull/253">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mathandy--svgpathtools-compact-dark-895c6722084d.svg" />
@@ -113,6 +107,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/dranjan--python-plyfile-compact-dark-448cc3bc1129.svg" />
     <img src="./assets/contributions/dranjan--python-plyfile-compact-light-08f04c87f635.svg" width="250" alt="dranjan/python-plyfile — Handle non-ASCII PLY headers with a clear parsing error. Merged: #91. 515 stars." />
+  </picture>
+  </a>
+  <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-f6fc9e0fdf7e.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-bb76d2b00ca8.svg" width="250" alt="gopherium/gophenberg — Keep the latest definitions file selected for import Merged: #491, #493. 507 stars." />
   </picture>
   </a>
   <a href="https://github.com/eea/odfpy/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -129,8 +129,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/oras-project/oras-go/pull/1697">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oras-project--oras-go-compact-dark-4425e5fb8248.svg" />
-    <img src="./assets/contributions/oras-project--oras-go-compact-light-c9c352e19951.svg" width="250" alt="oras-project/oras-go — fix(remote): preserve IPv6 brackets in blob upload locations Merged: #1697. 298 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oras-project--oras-go-compact-dark-005d0fe4009d.svg" />
+    <img src="./assets/contributions/oras-project--oras-go-compact-light-bac0d05c3548.svg" width="250" alt="oras-project/oras-go — fix(remote): preserve IPv6 brackets in blob upload locations Merged: #1697. 299 stars." />
   </picture>
   </a>
   <a href="https://github.com/pycollada/pycollada/pull/165">

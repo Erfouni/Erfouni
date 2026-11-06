@@ -13,7 +13,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10289
+      "stars": 10290
     },
     {
       "repo": "fonttools/fonttools",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3641
+      "stars": 3642
     },
     {
       "repo": "cantools/cantools",
@@ -66,6 +66,16 @@
       "stars": 2082
     },
     {
+      "repo": "hashgraph-online/awesome-codex-plugins",
+      "prs": [
+        {
+          "number": 313,
+          "title": "Add SolidWorks GPT Plugin"
+        }
+      ],
+      "stars": 1522
+    },
+    {
       "repo": "mozman/ezdxf",
       "prs": [
         {
@@ -80,16 +90,6 @@
       "stars": 1520
     },
     {
-      "repo": "hashgraph-online/awesome-codex-plugins",
-      "prs": [
-        {
-          "number": 313,
-          "title": "Add SolidWorks GPT Plugin"
-        }
-      ],
-      "stars": 1519
-    },
-    {
       "repo": "nipy/nibabel",
       "prs": [
         {
@@ -102,20 +102,6 @@
         }
       ],
       "stars": 802
-    },
-    {
-      "repo": "gopherium/gophenberg",
-      "prs": [
-        {
-          "number": 491,
-          "title": "Keep root pagination addresses reserved"
-        },
-        {
-          "number": 493,
-          "title": "Keep the latest definitions file selected for import"
-        }
-      ],
-      "stars": 764
     },
     {
       "repo": "mathandy/svgpathtools",
@@ -136,6 +122,20 @@
         }
       ],
       "stars": 515
+    },
+    {
+      "repo": "gopherium/gophenberg",
+      "prs": [
+        {
+          "number": 491,
+          "title": "Keep root pagination addresses reserved"
+        },
+        {
+          "number": 493,
+          "title": "Keep the latest definitions file selected for import"
+        }
+      ],
+      "stars": 507
     },
     {
       "repo": "eea/odfpy",
@@ -177,7 +177,7 @@
           "title": "fix(remote): preserve IPv6 brackets in blob upload locations"
         }
       ],
-      "stars": 298
+      "stars": 299
     },
     {
       "repo": "pycollada/pycollada",
