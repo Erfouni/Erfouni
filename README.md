@@ -39,26 +39,26 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-76632b38d871.svg" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light-1e118eb8d8aa.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,287 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-a719e1c223c4.svg" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-88b63d19ea15.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,288 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-474f6a882b08.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-a33df69caaf9.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,308 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-4c5c0e5da8b0.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-721c4dce75db.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,309 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-fb93bde81894.svg" />
-    <img src="./assets/contributions/mikedh--trimesh-compact-light-287d49bf8bfe.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,716 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-3785b7cef68e.svg" />
+    <img src="./assets/contributions/mikedh--trimesh-compact-light-1a53d6536b76.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,717 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-82792ffb484a.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-d8f7db952eca.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,633 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-80c9b6a92e7c.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-02224de3a455.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,637 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -81,8 +81,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-0b213799a819.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-b5c398a00251.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,518 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-b904d3025390.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-438bbe858b20.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,519 stars." />
   </picture>
   </a>
   <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">

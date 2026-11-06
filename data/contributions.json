@@ -13,7 +13,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10287
+      "stars": 10288
     },
     {
       "repo": "fonttools/fonttools",
@@ -23,7 +23,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5308
+      "stars": 5309
     },
     {
       "repo": "mikedh/trimesh",
@@ -33,7 +33,7 @@
           "title": "Raise a clear error for out-of-range face indices in OFF files"
         }
       ],
-      "stars": 3716
+      "stars": 3717
     },
     {
       "repo": "gumyr/build123d",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3633
+      "stars": 3637
     },
     {
       "repo": "cantools/cantools",
@@ -87,7 +87,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1518
+      "stars": 1519
     },
     {
       "repo": "nipy/nibabel",
