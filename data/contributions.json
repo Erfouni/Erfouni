@@ -13,7 +13,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10288
+      "stars": 10289
     },
     {
       "repo": "fonttools/fonttools",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3637
+      "stars": 3641
     },
     {
       "repo": "cantools/cantools",
@@ -63,7 +63,7 @@
           "title": "Fix crash when the dynamic relocation table header is cut short"
         }
       ],
-      "stars": 2083
+      "stars": 2082
     },
     {
       "repo": "mozman/ezdxf",
@@ -177,7 +177,7 @@
           "title": "fix(remote): preserve IPv6 brackets in blob upload locations"
         }
       ],
-      "stars": 297
+      "stars": 298
     },
     {
       "repo": "pycollada/pycollada",
