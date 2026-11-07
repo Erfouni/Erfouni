@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3650
+      "stars": 3653
     },
     {
       "repo": "cantools/cantools",

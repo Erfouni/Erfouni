@@ -57,8 +57,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-be0e63cbe7a0.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-9aad8e618da7.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,650 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-1776293928ea.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-c193310dc2cd.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,653 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
