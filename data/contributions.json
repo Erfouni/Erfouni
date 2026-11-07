@@ -13,7 +13,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10290
+      "stars": 10291
     },
     {
       "repo": "fonttools/fonttools",
@@ -23,7 +23,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5310
+      "stars": 5311
     },
     {
       "repo": "mikedh/trimesh",
@@ -33,7 +33,7 @@
           "title": "Raise a clear error for out-of-range face indices in OFF files"
         }
       ],
-      "stars": 3718
+      "stars": 3719
     },
     {
       "repo": "gumyr/build123d",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3645
+      "stars": 3648
     },
     {
       "repo": "cantools/cantools",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1530
+      "stars": 1532
     },
     {
       "repo": "mozman/ezdxf",
@@ -101,7 +101,7 @@
           "title": "Raise PARRECError for an image information line with too few values"
         }
       ],
-      "stars": 803
+      "stars": 807
     },
     {
       "repo": "mathandy/svgpathtools",
@@ -133,6 +133,10 @@
         {
           "number": 493,
           "title": "Keep the latest definitions file selected for import"
+        },
+        {
+          "number": 618,
+          "title": "Clarify when long jump updates take the site down."
         }
       ],
       "stars": 507
@@ -149,7 +153,7 @@
           "title": "odf2xhtml: don't crash on a malformed numeric attribute"
         }
       ],
-      "stars": 368
+      "stars": 367
     },
     {
       "repo": "flint-fyi/flint",
@@ -167,7 +171,7 @@
           "title": "fix(rule-data): add missing YAML rule mappings"
         }
       ],
-      "stars": 314
+      "stars": 315
     },
     {
       "repo": "oras-project/oras-go",
@@ -263,7 +267,7 @@
           "title": "refactor(memory-reference-resolver): centralize metadata query resolution"
         }
       ],
-      "stars": 40
+      "stars": 41
     },
     {
       "repo": "CallMeJones/blender-agent-bridge",

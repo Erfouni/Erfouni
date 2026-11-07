@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark-71e19ec837aa.svg" />
-    <img src="./assets/contributions/impact-compact-light-c0fb0d7afb5e.svg" width="758" alt="Open Source Impact — 36 external projects, 54 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark-6002d08b0960.svg" />
+    <img src="./assets/contributions/impact-compact-light-342fedab15cc.svg" width="758" alt="Open Source Impact — 36 external projects, 55 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -39,26 +39,26 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-c61954e9cbc4.svg" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light-a72902d6bdb3.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,290 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-cc76f125dc7f.svg" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-4b312197afdd.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,291 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-2daa1b301f83.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-84cd65942577.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,310 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-866842dd57a7.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-ef0749c94e3c.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,311 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-5a1156483caf.svg" />
-    <img src="./assets/contributions/mikedh--trimesh-compact-light-71d586275923.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,718 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-9d78a878173f.svg" />
+    <img src="./assets/contributions/mikedh--trimesh-compact-light-57a701541afa.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,719 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-430fa674f599.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-c675138270c4.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,645 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-fbe94a3e7070.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-7047069af119.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,648 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -75,8 +75,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-4efab74ddb17.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-8081f7a86369.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,530 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-18e8575056fa.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-82a8f77d33c0.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,532 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -87,8 +87,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nipy--nibabel-compact-dark-15990fbb38ac.svg" />
-    <img src="./assets/contributions/nipy--nibabel-compact-light-3804fc645099.svg" width="250" alt="nipy/nibabel — Raise PARRECError for an image information line with too few values Merged: #1573, #1574. 803 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nipy--nibabel-compact-dark-d2ff17a22f84.svg" />
+    <img src="./assets/contributions/nipy--nibabel-compact-light-9dbdac108d05.svg" width="250" alt="nipy/nibabel — Raise PARRECError for an image information line with too few values Merged: #1573, #1574. 807 stars." />
   </picture>
   </a>
 </p>
@@ -111,20 +111,20 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-f6fc9e0fdf7e.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-bb76d2b00ca8.svg" width="250" alt="gopherium/gophenberg — Keep the latest definitions file selected for import Merged: #491, #493. 507 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-c46b0b305773.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-0617e9a2ba48.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 507 stars." />
   </picture>
   </a>
   <a href="https://github.com/eea/odfpy/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/eea--odfpy-compact-dark-fcc4339a2ee6.svg" />
-    <img src="./assets/contributions/eea--odfpy-compact-light-868a39d7cfbe.svg" width="250" alt="eea/odfpy — Tolerate malformed numeric fields in text and XHTML extraction. Merged: #158, #159. 368 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/eea--odfpy-compact-dark-5273199a414e.svg" />
+    <img src="./assets/contributions/eea--odfpy-compact-light-aaee6ba3d978.svg" width="250" alt="eea/odfpy — Tolerate malformed numeric fields in text and XHTML extraction. Merged: #158, #159. 367 stars." />
   </picture>
   </a>
   <a href="https://github.com/flint-fyi/flint/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/flint-fyi--flint-compact-dark-b8e77ea8dcda.svg" />
-    <img src="./assets/contributions/flint-fyi--flint-compact-light-a13bd0654bc7.svg" width="250" alt="flint-fyi/flint — fix(rule-data): add missing YAML rule mappings Merged: #3709, #3711, #3712. 314 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/flint-fyi--flint-compact-dark-e5808ac61b6a.svg" />
+    <img src="./assets/contributions/flint-fyi--flint-compact-light-2b056808b74d.svg" width="250" alt="flint-fyi/flint — fix(rule-data): add missing YAML rule mappings Merged: #3709, #3711, #3712. 315 stars." />
   </picture>
   </a>
   <a href="https://github.com/oras-project/oras-go/pull/1697">
@@ -159,8 +159,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/8f4e/8f4e/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/8f4e--8f4e-compact-dark-66d7ce31e32b.svg" />
-    <img src="./assets/contributions/8f4e--8f4e-compact-light-756435cb46bf.svg" width="250" alt="8f4e/8f4e — refactor(memory-reference-resolver): centralize metadata query resolution Merged: #1059, #1095, #1097, #1099, #1102, #1120, #1204, #1216. 40 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/8f4e--8f4e-compact-dark-ef1ca34a39f1.svg" />
+    <img src="./assets/contributions/8f4e--8f4e-compact-light-85a4f61d1fb1.svg" width="250" alt="8f4e/8f4e — refactor(memory-reference-resolver): centralize metadata query resolution Merged: #1059, #1095, #1097, #1099, #1102, #1120, #1204, #1216. 41 stars." />
   </picture>
   </a>
   <a href="https://github.com/CallMeJones/blender-agent-bridge/pull/7">
