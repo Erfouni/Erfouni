@@ -23,7 +23,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5309
+      "stars": 5310
     },
     {
       "repo": "mikedh/trimesh",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3642
+      "stars": 3645
     },
     {
       "repo": "cantools/cantools",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1523
+      "stars": 1530
     },
     {
       "repo": "mozman/ezdxf",
@@ -101,7 +101,7 @@
           "title": "Raise PARRECError for an image information line with too few values"
         }
       ],
-      "stars": 802
+      "stars": 803
     },
     {
       "repo": "mathandy/svgpathtools",
