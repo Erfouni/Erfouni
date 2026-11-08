@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3662
+      "stars": 3661
     },
     {
       "repo": "cantools/cantools",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1538
+      "stars": 1539
     },
     {
       "repo": "mozman/ezdxf",
@@ -129,7 +129,7 @@
           "title": "Clarify when long jump updates take the site down."
         }
       ],
-      "stars": 530
+      "stars": 570
     },
     {
       "repo": "dranjan/python-plyfile",
@@ -171,7 +171,7 @@
           "title": "fix(rule-data): add missing YAML rule mappings"
         }
       ],
-      "stars": 315
+      "stars": 314
     },
     {
       "repo": "oras-project/oras-go",

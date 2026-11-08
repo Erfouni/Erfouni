@@ -57,8 +57,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-a32f9219e10d.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-367c86a3d535.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,662 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-062a63e2618b.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-2808c6c9e8d8.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,661 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -75,8 +75,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-0eab9287cb07.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-3e366664d09c.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,538 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-896d9161556a.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-a585d0d7c3d6.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,539 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -105,8 +105,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-510ea971e211.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-8a070b171ad3.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 530 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-7f6a1bd04111.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-b211e5f2a2c2.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 570 stars." />
   </picture>
   </a>
   <a href="https://github.com/dranjan/python-plyfile/pull/91">
@@ -123,8 +123,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/flint-fyi/flint/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/flint-fyi--flint-compact-dark-e5808ac61b6a.svg" />
-    <img src="./assets/contributions/flint-fyi--flint-compact-light-2b056808b74d.svg" width="250" alt="flint-fyi/flint — fix(rule-data): add missing YAML rule mappings Merged: #3709, #3711, #3712. 315 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/flint-fyi--flint-compact-dark-b8e77ea8dcda.svg" />
+    <img src="./assets/contributions/flint-fyi--flint-compact-light-a13bd0654bc7.svg" width="250" alt="flint-fyi/flint — fix(rule-data): add missing YAML rule mappings Merged: #3709, #3711, #3712. 314 stars." />
   </picture>
   </a>
   <a href="https://github.com/oras-project/oras-go/pull/1697">
