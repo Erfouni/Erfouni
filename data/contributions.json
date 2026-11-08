@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3656
+      "stars": 3659
     },
     {
       "repo": "cantools/cantools",
@@ -63,7 +63,7 @@
           "title": "Fix crash when the dynamic relocation table header is cut short"
         }
       ],
-      "stars": 2082
+      "stars": 2083
     },
     {
       "repo": "hashgraph-online/awesome-codex-plugins",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1534
+      "stars": 1537
     },
     {
       "repo": "mozman/ezdxf",
@@ -87,7 +87,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1520
+      "stars": 1522
     },
     {
       "repo": "nipy/nibabel",
@@ -101,7 +101,7 @@
           "title": "Raise PARRECError for an image information line with too few values"
         }
       ],
-      "stars": 807
+      "stars": 808
     },
     {
       "repo": "mathandy/svgpathtools",
@@ -297,7 +297,7 @@
           "title": "fix(auth): honor configured session lifetime"
         }
       ],
-      "stars": 13
+      "stars": 14
     },
     {
       "repo": "whut09/Awesome-AI-Engineering-Agents",
