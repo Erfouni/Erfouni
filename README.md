@@ -45,8 +45,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-866842dd57a7.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-ef0749c94e3c.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,311 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-30992f1c990f.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-62eb06ed4ba5.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,312 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -57,8 +57,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-bc65bd9ae776.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-50f201b323ff.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,659 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-a32f9219e10d.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-367c86a3d535.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,662 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -75,8 +75,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-5777e969a062.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-55698915146f.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,537 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-0eab9287cb07.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-3e366664d09c.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,538 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -103,16 +103,16 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/mathandy--svgpathtools-compact-light-01e8bf74106a.svg" width="250" alt="mathandy/svgpathtools — Read SVG paths without path data without aborting the document. Merged: #253. 641 stars." />
   </picture>
   </a>
+  <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-510ea971e211.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-8a070b171ad3.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 530 stars." />
+  </picture>
+  </a>
   <a href="https://github.com/dranjan/python-plyfile/pull/91">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/dranjan--python-plyfile-compact-dark-448cc3bc1129.svg" />
     <img src="./assets/contributions/dranjan--python-plyfile-compact-light-08f04c87f635.svg" width="250" alt="dranjan/python-plyfile — Handle non-ASCII PLY headers with a clear parsing error. Merged: #91. 515 stars." />
-  </picture>
-  </a>
-  <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-c46b0b305773.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-0617e9a2ba48.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 507 stars." />
   </picture>
   </a>
   <a href="https://github.com/eea/odfpy/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">

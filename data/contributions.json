@@ -23,7 +23,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5311
+      "stars": 5312
     },
     {
       "repo": "mikedh/trimesh",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3659
+      "stars": 3662
     },
     {
       "repo": "cantools/cantools",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1537
+      "stars": 1538
     },
     {
       "repo": "mozman/ezdxf",
@@ -114,16 +114,6 @@
       "stars": 641
     },
     {
-      "repo": "dranjan/python-plyfile",
-      "prs": [
-        {
-          "number": 91,
-          "title": "Raise PlyHeaderParseError instead of UnicodeDecodeError on a non-ASCII header"
-        }
-      ],
-      "stars": 515
-    },
-    {
       "repo": "gopherium/gophenberg",
       "prs": [
         {
@@ -139,7 +129,17 @@
           "title": "Clarify when long jump updates take the site down."
         }
       ],
-      "stars": 507
+      "stars": 530
+    },
+    {
+      "repo": "dranjan/python-plyfile",
+      "prs": [
+        {
+          "number": 91,
+          "title": "Raise PlyHeaderParseError instead of UnicodeDecodeError on a non-ASCII header"
+        }
+      ],
+      "stars": 515
     },
     {
       "repo": "eea/odfpy",
