@@ -57,8 +57,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-1776293928ea.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-c193310dc2cd.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,653 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-b6f236bb046e.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-a3e3e516806b.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,656 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -75,8 +75,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-18e8575056fa.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-82a8f77d33c0.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,532 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-e187ee445e90.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-a22e59ebebf3.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,534 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -147,8 +147,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/Avenx-JS/avenx-js/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/avenx-js--avenx-js-compact-dark-b3cb00e4d4e3.svg" />
-    <img src="./assets/contributions/avenx-js--avenx-js-compact-light-b1bf2ee4a1d4.svg" width="250" alt="Avenx-JS/avenx-js — fix(runtime): run SFC transition hooks  Merged: #1506, #1544, #1545. 78 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/avenx-js--avenx-js-compact-dark-aca9b77c32b7.svg" />
+    <img src="./assets/contributions/avenx-js--avenx-js-compact-light-85323a7be710.svg" width="250" alt="Avenx-JS/avenx-js — fix(runtime): run SFC transition hooks  Merged: #1506, #1544, #1545. 79 stars." />
   </picture>
   </a>
   <a href="https://github.com/gopherium/gouncer/pull/105">
@@ -165,8 +165,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/CallMeJones/blender-agent-bridge/pull/7">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/callmejones--blender-agent-bridge-compact-dark-570275da38d4.svg" />
-    <img src="./assets/contributions/callmejones--blender-agent-bridge-compact-light-0305ac41b2f1.svg" width="250" alt="CallMeJones/blender-agent-bridge — Add a deterministic tool-registry summary for review and diagnostics. Merged: #7. 26 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/callmejones--blender-agent-bridge-compact-dark-cc4e13731446.svg" />
+    <img src="./assets/contributions/callmejones--blender-agent-bridge-compact-light-1164f1697d7e.svg" width="250" alt="CallMeJones/blender-agent-bridge — Add a deterministic tool-registry summary for review and diagnostics. Merged: #7. 27 stars." />
   </picture>
   </a>
   <a href="https://github.com/GustavoBaranda/chatflow-agent/pull/95">
