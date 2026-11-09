@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3661
+      "stars": 3663
     },
     {
       "repo": "cantools/cantools",
@@ -53,7 +53,7 @@
           "title": "DBC: don't fail the load when VFrameFormat has no default"
         }
       ],
-      "stars": 2310
+      "stars": 2311
     },
     {
       "repo": "erocarrera/pefile",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1539
+      "stars": 1540
     },
     {
       "repo": "mozman/ezdxf",
@@ -87,7 +87,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1522
+      "stars": 1523
     },
     {
       "repo": "nipy/nibabel",

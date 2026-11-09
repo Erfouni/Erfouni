@@ -57,14 +57,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-062a63e2618b.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-2808c6c9e8d8.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,661 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-ac7a6a2ee4ce.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-d599416d3d1f.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,663 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-bd12a0ebd221.svg" />
-    <img src="./assets/contributions/cantools--cantools-compact-light-64283fc9bc9d.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,310 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-9d628aea33b2.svg" />
+    <img src="./assets/contributions/cantools--cantools-compact-light-7e169783e5e1.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,311 stars." />
   </picture>
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
@@ -75,14 +75,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-896d9161556a.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-a585d0d7c3d6.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,539 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-e0a871bdeb13.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-54ec8abbdb25.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,540 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-911c91f65a03.svg" />
-    <img src="./assets/contributions/mozman--ezdxf-compact-light-6f38b16e4474.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,522 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-eb24c1bd6c8c.svg" />
+    <img src="./assets/contributions/mozman--ezdxf-compact-light-e961780880dc.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,523 stars." />
   </picture>
   </a>
   <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
