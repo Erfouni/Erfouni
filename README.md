@@ -45,8 +45,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-30992f1c990f.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-62eb06ed4ba5.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,312 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-71b9ea327a88.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-e6ccadd1324d.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,313 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -57,8 +57,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-ac7a6a2ee4ce.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-d599416d3d1f.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,663 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-99c1fb6bc806.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-e9ce008e16b2.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,666 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -69,14 +69,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-6392e0c12653.svg" />
-    <img src="./assets/contributions/erocarrera--pefile-compact-light-5b1c450305f9.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,083 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-b1c7d50848bc.svg" />
+    <img src="./assets/contributions/erocarrera--pefile-compact-light-6cb225135bba.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,085 stars." />
   </picture>
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-e0a871bdeb13.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-54ec8abbdb25.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,540 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-9a9cb55fe711.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-55d7d36677bd.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,541 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">

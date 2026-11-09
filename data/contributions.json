@@ -23,7 +23,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5312
+      "stars": 5313
     },
     {
       "repo": "mikedh/trimesh",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3663
+      "stars": 3666
     },
     {
       "repo": "cantools/cantools",
@@ -63,7 +63,7 @@
           "title": "Fix crash when the dynamic relocation table header is cut short"
         }
       ],
-      "stars": 2083
+      "stars": 2085
     },
     {
       "repo": "hashgraph-online/awesome-codex-plugins",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1540
+      "stars": 1541
     },
     {
       "repo": "mozman/ezdxf",
