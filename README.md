@@ -57,8 +57,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-4daa06aaa084.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-feea0c7828f5.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,672 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-10321e91bfdb.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-1543be1e06e1.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,676 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -75,8 +75,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-6e08da7a9541.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-7c11d601ae15.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,546 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-6a3335b351e2.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-69d8179a97bd.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,548 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -105,8 +105,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-7f6a1bd04111.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-b211e5f2a2c2.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 570 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-e816096cde1d.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-b0cb4e6bb2f6.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 592 stars." />
   </picture>
   </a>
   <a href="https://github.com/dranjan/python-plyfile/pull/91">

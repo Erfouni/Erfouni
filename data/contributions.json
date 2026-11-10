@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3672
+      "stars": 3676
     },
     {
       "repo": "cantools/cantools",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1546
+      "stars": 1548
     },
     {
       "repo": "mozman/ezdxf",
@@ -129,7 +129,7 @@
           "title": "Clarify when long jump updates take the site down."
         }
       ],
-      "stars": 570
+      "stars": 592
     },
     {
       "repo": "dranjan/python-plyfile",
