@@ -23,7 +23,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5314
+      "stars": 5315
     },
     {
       "repo": "mikedh/trimesh",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3676
+      "stars": 3679
     },
     {
       "repo": "cantools/cantools",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1548
+      "stars": 1552
     },
     {
       "repo": "mozman/ezdxf",
@@ -87,7 +87,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1523
+      "stars": 1524
     },
     {
       "repo": "nipy/nibabel",
@@ -101,17 +101,7 @@
           "title": "Raise PARRECError for an image information line with too few values"
         }
       ],
-      "stars": 808
-    },
-    {
-      "repo": "mathandy/svgpathtools",
-      "prs": [
-        {
-          "number": 253,
-          "title": "svg2paths: don't crash on a <path> with no d attribute"
-        }
-      ],
-      "stars": 641
+      "stars": 809
     },
     {
       "repo": "gopherium/gophenberg",
@@ -129,7 +119,17 @@
           "title": "Clarify when long jump updates take the site down."
         }
       ],
-      "stars": 592
+      "stars": 644
+    },
+    {
+      "repo": "mathandy/svgpathtools",
+      "prs": [
+        {
+          "number": 253,
+          "title": "svg2paths: don't crash on a <path> with no d attribute"
+        }
+      ],
+      "stars": 641
     },
     {
       "repo": "dranjan/python-plyfile",
@@ -139,7 +139,7 @@
           "title": "Raise PlyHeaderParseError instead of UnicodeDecodeError on a non-ASCII header"
         }
       ],
-      "stars": 515
+      "stars": 516
     },
     {
       "repo": "eea/odfpy",
@@ -153,7 +153,7 @@
           "title": "odf2xhtml: don't crash on a malformed numeric attribute"
         }
       ],
-      "stars": 367
+      "stars": 368
     },
     {
       "repo": "flint-fyi/flint",
@@ -171,7 +171,7 @@
           "title": "fix(rule-data): add missing YAML rule mappings"
         }
       ],
-      "stars": 314
+      "stars": 315
     },
     {
       "repo": "oras-project/oras-go",
@@ -219,7 +219,7 @@
           "title": "fix(runtime): run SFC transition hooks"
         }
       ],
-      "stars": 79
+      "stars": 80
     },
     {
       "repo": "gopherium/gouncer",
@@ -297,7 +297,7 @@
           "title": "fix(auth): honor configured session lifetime"
         }
       ],
-      "stars": 14
+      "stars": 15
     },
     {
       "repo": "whut09/Awesome-AI-Engineering-Agents",
