@@ -39,14 +39,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-cc76f125dc7f.svg" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light-4b312197afdd.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,291 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-65ef1d5ff19e.svg" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-62c4a4231494.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,293 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-9dcc06ad9018.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-34674fc6f478.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,315 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-1f2faaa6be0a.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-75af32f97d8c.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,316 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -69,14 +69,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-b1c7d50848bc.svg" />
-    <img src="./assets/contributions/erocarrera--pefile-compact-light-6cb225135bba.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,085 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-54ff774a3a77.svg" />
+    <img src="./assets/contributions/erocarrera--pefile-compact-light-aef8b1e99b68.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,086 stars." />
   </picture>
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-9fe613d90d61.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-92531b70a077.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,552 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-31cb7b08e276.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-19a0f81522e3.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,554 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -99,14 +99,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-e81b60270159.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-a0f22965c262.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 644 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-531936ea24ee.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-09efbb4db353.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 701 stars." />
   </picture>
   </a>
   <a href="https://github.com/mathandy/svgpathtools/pull/253">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mathandy--svgpathtools-compact-dark-895c6722084d.svg" />
-    <img src="./assets/contributions/mathandy--svgpathtools-compact-light-01e8bf74106a.svg" width="250" alt="mathandy/svgpathtools — Read SVG paths without path data without aborting the document. Merged: #253. 641 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mathandy--svgpathtools-compact-dark-53b3de66f342.svg" />
+    <img src="./assets/contributions/mathandy--svgpathtools-compact-light-4c319e44815a.svg" width="250" alt="mathandy/svgpathtools — Read SVG paths without path data without aborting the document. Merged: #253. 642 stars." />
   </picture>
   </a>
   <a href="https://github.com/dranjan/python-plyfile/pull/91">
@@ -123,8 +123,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/flint-fyi/flint/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/flint-fyi--flint-compact-dark-e5808ac61b6a.svg" />
-    <img src="./assets/contributions/flint-fyi--flint-compact-light-2b056808b74d.svg" width="250" alt="flint-fyi/flint — fix(rule-data): add missing YAML rule mappings Merged: #3709, #3711, #3712. 315 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/flint-fyi--flint-compact-dark-fd032585bcb5.svg" />
+    <img src="./assets/contributions/flint-fyi--flint-compact-light-7e8b42e94969.svg" width="250" alt="flint-fyi/flint — fix(rule-data): add missing YAML rule mappings Merged: #3709, #3711, #3712. 316 stars." />
   </picture>
   </a>
   <a href="https://github.com/oras-project/oras-go/pull/1697">
@@ -183,8 +183,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/whut09/Awesome-AI-Engineering-Agents/pull/2">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/whut09--awesome-ai-engineering-agents-compact-dark-120acb3cb1a8.svg" />
-    <img src="./assets/contributions/whut09--awesome-ai-engineering-agents-compact-light-68fed3de1740.svg" width="250" alt="whut09/Awesome-AI-Engineering-Agents — Contribute the SolidWorks GPT Plugin to the CAD agent catalog. Merged: #2. 8 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/whut09--awesome-ai-engineering-agents-compact-dark-527146d8ee4e.svg" />
+    <img src="./assets/contributions/whut09--awesome-ai-engineering-agents-compact-light-d0a2e5e42b30.svg" width="250" alt="whut09/Awesome-AI-Engineering-Agents — Contribute the SolidWorks GPT Plugin to the CAD agent catalog. Merged: #2. 9 stars." />
   </picture>
   </a>
   <a href="https://github.com/alessioricco/Certo/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -209,6 +209,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/duramson--eeg-bewegungsdaten-compact-dark-1128069a9bf3.svg" />
     <img src="./assets/contributions/duramson--eeg-bewegungsdaten-compact-light-c9b460adb30d.svg" width="250" alt="duramson/eeg-bewegungsdaten — fix: reject duplicate ZIP data members  Merged: #8. 2 stars." />
+  </picture>
+  </a>
+  <a href="https://github.com/yangflow/oriel/pull/478">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/yangflow--oriel-compact-dark-6237a3c12a1d.svg" />
+    <img src="./assets/contributions/yangflow--oriel-compact-light-bf6a1a5ad6bf.svg" width="250" alt="yangflow/oriel — fix(fetch): preserve JSON Feed podcast durations Merged: #478. 2 stars." />
   </picture>
   </a>
   <a href="https://github.com/agrvasu05/DevCrew/pull/12">
@@ -239,12 +245,6 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/sh1n1230--spotifyembedded-compact-dark-8eeb9e187a56.svg" />
     <img src="./assets/contributions/sh1n1230--spotifyembedded-compact-light-7891fac9cf6a.svg" width="250" alt="Sh1n1230/SpotifyEmbedded — fix: preserve spotify_url when a track has no Spotify link Merged: #384. 1 stars." />
-  </picture>
-  </a>
-  <a href="https://github.com/yangflow/oriel/pull/478">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/yangflow--oriel-compact-dark-6f10373367bc.svg" />
-    <img src="./assets/contributions/yangflow--oriel-compact-light-7501032aa8ef.svg" width="250" alt="yangflow/oriel — fix(fetch): preserve JSON Feed podcast durations Merged: #478. 1 stars." />
   </picture>
   </a>
   <a href="https://github.com/deBilla/peek/pull/9">

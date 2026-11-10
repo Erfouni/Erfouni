@@ -13,7 +13,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10291
+      "stars": 10293
     },
     {
       "repo": "fonttools/fonttools",
@@ -23,7 +23,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5315
+      "stars": 5316
     },
     {
       "repo": "mikedh/trimesh",
@@ -63,7 +63,7 @@
           "title": "Fix crash when the dynamic relocation table header is cut short"
         }
       ],
-      "stars": 2085
+      "stars": 2086
     },
     {
       "repo": "hashgraph-online/awesome-codex-plugins",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1552
+      "stars": 1554
     },
     {
       "repo": "mozman/ezdxf",
@@ -119,7 +119,7 @@
           "title": "Clarify when long jump updates take the site down."
         }
       ],
-      "stars": 644
+      "stars": 701
     },
     {
       "repo": "mathandy/svgpathtools",
@@ -129,7 +129,7 @@
           "title": "svg2paths: don't crash on a <path> with no d attribute"
         }
       ],
-      "stars": 641
+      "stars": 642
     },
     {
       "repo": "dranjan/python-plyfile",
@@ -171,7 +171,7 @@
           "title": "fix(rule-data): add missing YAML rule mappings"
         }
       ],
-      "stars": 315
+      "stars": 316
     },
     {
       "repo": "oras-project/oras-go",
@@ -307,7 +307,7 @@
           "title": "Add SolidWorks GPT Plugin to Structural and CAD Engineering"
         }
       ],
-      "stars": 8
+      "stars": 9
     },
     {
       "repo": "alessioricco/Certo",
@@ -358,6 +358,16 @@
       "stars": 2
     },
     {
+      "repo": "yangflow/oriel",
+      "prs": [
+        {
+          "number": 478,
+          "title": "fix(fetch): preserve JSON Feed podcast durations"
+        }
+      ],
+      "stars": 2
+    },
+    {
       "repo": "agrvasu05/DevCrew",
       "prs": [
         {
@@ -403,16 +413,6 @@
         {
           "number": 384,
           "title": "fix: preserve spotify_url when a track has no Spotify link"
-        }
-      ],
-      "stars": 1
-    },
-    {
-      "repo": "yangflow/oriel",
-      "prs": [
-        {
-          "number": 478,
-          "title": "fix(fetch): preserve JSON Feed podcast durations"
         }
       ],
       "stars": 1

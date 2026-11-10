@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="142" viewBox="0 0 400 142" role="img" aria-labelledby="title desc"><title id="title">svgpathtools: 1 merged pull requests, 641 stars</title><desc id="desc">mathandy/svgpathtools. Read SVG paths without path data without aborting the document. Merged: #253. 641 stars.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="142" viewBox="0 0 400 142" role="img" aria-labelledby="title desc"><title id="title">svgpathtools: 1 merged pull requests, 642 stars</title><desc id="desc">mathandy/svgpathtools. Read SVG paths without path data without aborting the document. Merged: #253. 642 stars.</desc>
       <defs><linearGradient id="surface" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F5F8FC"/></linearGradient></defs>
       <rect x=".8" y=".8" width="398.4" height="140.4" rx="16" fill="url(#surface)" stroke="#D5E0EB" stroke-width="1.6"/>
       <rect x="20" y="22" width="4" height="22" rx="2" fill="#087F72"/>
@@ -6,4 +6,4 @@
       <g fill="#3D536D" font-family="Segoe UI,Arial,sans-serif" font-size="18"><text x="20" y="72">Read SVG paths without path data</text><text x="20" y="94">without aborting the document.</text></g>
       <path d="M20 108H380" stroke="#D5E0EB"/>
       <circle cx="24" cy="126" r="3.5" fill="#087F72"/><text x="36" y="131" fill="#3D536D" font-family="Consolas,Menlo,monospace" font-size="15">#253</text>
-      <text x="380" y="131" text-anchor="end" fill="#087F72" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600"><tspan fill="#E3B341">★</tspan><tspan dx="5">641</tspan></text></svg>
+      <text x="380" y="131" text-anchor="end" fill="#087F72" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600"><tspan fill="#E3B341">★</tspan><tspan dx="5">642</tspan></text></svg>
