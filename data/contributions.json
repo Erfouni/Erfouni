@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3680
+      "stars": 3684
     },
     {
       "repo": "cantools/cantools",
@@ -101,7 +101,7 @@
           "title": "Raise PARRECError for an image information line with too few values"
         }
       ],
-      "stars": 809
+      "stars": 810
     },
     {
       "repo": "gopherium/gophenberg",
@@ -119,7 +119,7 @@
           "title": "Clarify when long jump updates take the site down."
         }
       ],
-      "stars": 716
+      "stars": 728
     },
     {
       "repo": "mathandy/svgpathtools",

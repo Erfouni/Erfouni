@@ -57,8 +57,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-c776264cb755.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-2e07dde9b18e.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,680 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-dba19c520d0d.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-468146c44b2d.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,684 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -87,8 +87,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nipy--nibabel-compact-dark-3cf31558d3b0.svg" />
-    <img src="./assets/contributions/nipy--nibabel-compact-light-27bba7e2dc03.svg" width="250" alt="nipy/nibabel — Raise PARRECError for an image information line with too few values Merged: #1573, #1574. 809 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nipy--nibabel-compact-dark-76ffa76ce337.svg" />
+    <img src="./assets/contributions/nipy--nibabel-compact-light-1044107bee91.svg" width="250" alt="nipy/nibabel — Raise PARRECError for an image information line with too few values Merged: #1573, #1574. 810 stars." />
   </picture>
   </a>
 </p>
@@ -99,8 +99,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-386d9be19fa8.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-954106ff3948.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 716 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-83d482dded5d.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-dee831ac89d8.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 728 stars." />
   </picture>
   </a>
   <a href="https://github.com/mathandy/svgpathtools/pull/253">
