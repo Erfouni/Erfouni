@@ -13,7 +13,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10297
+      "stars": 10298
     },
     {
       "repo": "fonttools/fonttools",
@@ -33,7 +33,7 @@
           "title": "Raise a clear error for out-of-range face indices in OFF files"
         }
       ],
-      "stars": 3720
+      "stars": 3722
     },
     {
       "repo": "gumyr/build123d",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3689
+      "stars": 3690
     },
     {
       "repo": "cantools/cantools",
@@ -53,7 +53,7 @@
           "title": "DBC: don't fail the load when VFrameFormat has no default"
         }
       ],
-      "stars": 2312
+      "stars": 2313
     },
     {
       "repo": "erocarrera/pefile",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1556
+      "stars": 1558
     },
     {
       "repo": "mozman/ezdxf",
@@ -119,7 +119,7 @@
           "title": "Clarify when long jump updates take the site down."
         }
       ],
-      "stars": 748
+      "stars": 778
     },
     {
       "repo": "mathandy/svgpathtools",
