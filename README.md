@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark-627e4e34d650.svg" />
-    <img src="./assets/contributions/impact-compact-light-f707649d02a8.svg" width="758" alt="Open Source Impact — 37 external projects, 56 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark-5ec1efe91df0.svg" />
+    <img src="./assets/contributions/impact-compact-light-c47bd8bd651a.svg" width="758" alt="Open Source Impact — 37 external projects, 57 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -45,20 +45,20 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-494f313999cb.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-6f1d64f0fb8d.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,317 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-eabaf2f96b1d.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-b96a4a44a87b.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,319 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-0bafe4e00caa.svg" />
-    <img src="./assets/contributions/mikedh--trimesh-compact-light-171f969cd0cb.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,722 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-dd57c17efa2c.svg" />
+    <img src="./assets/contributions/mikedh--trimesh-compact-light-dc764092e754.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,723 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-c547af529402.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-a710d46f644f.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,690 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-a4c3b81e5fa8.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-ae0b7761a447.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,694 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -75,8 +75,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-4996972d19a2.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-c532a98a3f43.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,558 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-e1151fda408d.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-58c8633f6d72.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,560 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -99,8 +99,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-b61955921df2.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-e2614ba2e4ee.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 778 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-96be505ce336.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-dbd929abe92e.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 793 stars." />
   </picture>
   </a>
   <a href="https://github.com/mathandy/svgpathtools/pull/253">
@@ -175,10 +175,10 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/gustavobaranda--chatflow-agent-compact-light-8f6628397a3b.svg" width="250" alt="GustavoBaranda/chatflow-agent — fix(runner): persist metadata updates on every turn Merged: #95. 25 stars." />
   </picture>
   </a>
-  <a href="https://github.com/rajfirke/provena/pull/235">
+  <a href="https://github.com/rajfirke/provena/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/rajfirke--provena-compact-dark-33dccc1e8b0d.svg" />
-    <img src="./assets/contributions/rajfirke--provena-compact-light-8e4039ae0178.svg" width="250" alt="rajfirke/provena — fix: reject PostgreSQL annotations for missing records Merged: #235. 19 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/rajfirke--provena-compact-dark-788a423e512e.svg" />
+    <img src="./assets/contributions/rajfirke--provena-compact-light-14dfde97a9ee.svg" width="250" alt="rajfirke/provena — fix: normalize query timestamp bounds to UTC Merged: #235, #245. 19 stars." />
   </picture>
   </a>
   <a href="https://github.com/BistaDinesh03/critique/pull/89">

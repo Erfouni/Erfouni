@@ -23,7 +23,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5317
+      "stars": 5319
     },
     {
       "repo": "mikedh/trimesh",
@@ -33,7 +33,7 @@
           "title": "Raise a clear error for out-of-range face indices in OFF files"
         }
       ],
-      "stars": 3722
+      "stars": 3723
     },
     {
       "repo": "gumyr/build123d",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3690
+      "stars": 3694
     },
     {
       "repo": "cantools/cantools",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1558
+      "stars": 1560
     },
     {
       "repo": "mozman/ezdxf",
@@ -119,7 +119,7 @@
           "title": "Clarify when long jump updates take the site down."
         }
       ],
-      "stars": 778
+      "stars": 793
     },
     {
       "repo": "mathandy/svgpathtools",
@@ -295,6 +295,10 @@
         {
           "number": 235,
           "title": "fix: reject PostgreSQL annotations for missing records"
+        },
+        {
+          "number": 245,
+          "title": "fix: normalize query timestamp bounds to UTC"
         }
       ],
       "stars": 19
