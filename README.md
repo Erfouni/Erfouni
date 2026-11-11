@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark-6002d08b0960.svg" />
-    <img src="./assets/contributions/impact-compact-light-342fedab15cc.svg" width="758" alt="Open Source Impact — 36 external projects, 55 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark-627e4e34d650.svg" />
+    <img src="./assets/contributions/impact-compact-light-f707649d02a8.svg" width="758" alt="Open Source Impact — 37 external projects, 56 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -39,8 +39,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-754ecc0c4dc6.svg" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light-71ff50414c49.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,295 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-f0c906fc7465.svg" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-9e4cd5498c85.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,297 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
@@ -51,14 +51,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-9d78a878173f.svg" />
-    <img src="./assets/contributions/mikedh--trimesh-compact-light-57a701541afa.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,719 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-6ff81bd69608.svg" />
+    <img src="./assets/contributions/mikedh--trimesh-compact-light-71f7f6adcfc2.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,720 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-dba19c520d0d.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-468146c44b2d.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,684 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-21aa5a3583fd.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-fec4d8754627.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,689 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -75,8 +75,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-31cb7b08e276.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-19a0f81522e3.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,554 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-802b9a02829d.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-c89e2ac9d633.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,556 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -94,13 +94,13 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 </p>
 
 <details>
-<summary>Show 27 more projects</summary>
+<summary>Show 28 more projects</summary>
 
 <p align="center">
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-83d482dded5d.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-dee831ac89d8.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 728 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-6a54e92618f2.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-022bd43105e3.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 748 stars." />
   </picture>
   </a>
   <a href="https://github.com/mathandy/svgpathtools/pull/253">
@@ -173,6 +173,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gustavobaranda--chatflow-agent-compact-dark-794905bed9a8.svg" />
     <img src="./assets/contributions/gustavobaranda--chatflow-agent-compact-light-8f6628397a3b.svg" width="250" alt="GustavoBaranda/chatflow-agent — fix(runner): persist metadata updates on every turn Merged: #95. 25 stars." />
+  </picture>
+  </a>
+  <a href="https://github.com/rajfirke/provena/pull/235">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/rajfirke--provena-compact-dark-33dccc1e8b0d.svg" />
+    <img src="./assets/contributions/rajfirke--provena-compact-light-8e4039ae0178.svg" width="250" alt="rajfirke/provena — fix: reject PostgreSQL annotations for missing records Merged: #235. 19 stars." />
   </picture>
   </a>
   <a href="https://github.com/BistaDinesh03/critique/pull/89">
