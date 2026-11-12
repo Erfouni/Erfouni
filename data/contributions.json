@@ -33,7 +33,7 @@
           "title": "Raise a clear error for out-of-range face indices in OFF files"
         }
       ],
-      "stars": 3723
+      "stars": 3724
     },
     {
       "repo": "gumyr/build123d",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3696
+      "stars": 3700
     },
     {
       "repo": "cantools/cantools",
@@ -63,7 +63,7 @@
           "title": "Fix crash when the dynamic relocation table header is cut short"
         }
       ],
-      "stars": 2086
+      "stars": 2085
     },
     {
       "repo": "hashgraph-online/awesome-codex-plugins",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1563
+      "stars": 1566
     },
     {
       "repo": "mozman/ezdxf",
@@ -87,7 +87,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1528
+      "stars": 1529
     },
     {
       "repo": "gopherium/gophenberg",
@@ -105,7 +105,7 @@
           "title": "Clarify when long jump updates take the site down."
         }
       ],
-      "stars": 864
+      "stars": 895
     },
     {
       "repo": "nipy/nibabel",
@@ -267,7 +267,7 @@
           "title": "refactor(memory-reference-resolver): centralize metadata query resolution"
         }
       ],
-      "stars": 41
+      "stars": 42
     },
     {
       "repo": "CallMeJones/blender-agent-bridge",

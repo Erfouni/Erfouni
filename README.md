@@ -51,14 +51,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-dd57c17efa2c.svg" />
-    <img src="./assets/contributions/mikedh--trimesh-compact-light-dc764092e754.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,723 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-fd8febcaae40.svg" />
+    <img src="./assets/contributions/mikedh--trimesh-compact-light-d8cf2b4aef5c.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,724 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-c448cda423c1.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-c3c72c75de8b.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,696 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-de7c955a643f.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-6cec4e633ddb.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,700 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -69,26 +69,26 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-54ff774a3a77.svg" />
-    <img src="./assets/contributions/erocarrera--pefile-compact-light-aef8b1e99b68.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,086 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-b1c7d50848bc.svg" />
+    <img src="./assets/contributions/erocarrera--pefile-compact-light-6cb225135bba.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,085 stars." />
   </picture>
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-7ebba988b2f7.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-f4d5a2278fd7.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,563 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-1f8f25ada13a.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-1a2fa3ed0260.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,566 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-822a1b5a0b0a.svg" />
-    <img src="./assets/contributions/mozman--ezdxf-compact-light-b603dff4bb46.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,528 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-b889a5273ffd.svg" />
+    <img src="./assets/contributions/mozman--ezdxf-compact-light-b84fe8f34ff5.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,529 stars." />
   </picture>
   </a>
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-cf17560fba26.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-f2a417041e7a.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 864 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-0c62034b9ddc.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-c22a5cd57023.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 895 stars." />
   </picture>
   </a>
 </p>
@@ -159,8 +159,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/8f4e/8f4e/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/8f4e--8f4e-compact-dark-ef1ca34a39f1.svg" />
-    <img src="./assets/contributions/8f4e--8f4e-compact-light-85a4f61d1fb1.svg" width="250" alt="8f4e/8f4e — refactor(memory-reference-resolver): centralize metadata query resolution Merged: #1059, #1095, #1097, #1099, #1102, #1120, #1204, #1216. 41 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/8f4e--8f4e-compact-dark-c5fff69ebaae.svg" />
+    <img src="./assets/contributions/8f4e--8f4e-compact-light-e1a93e6d5ba3.svg" width="250" alt="8f4e/8f4e — refactor(memory-reference-resolver): centralize metadata query resolution Merged: #1059, #1095, #1097, #1099, #1102, #1120, #1204, #1216. 42 stars." />
   </picture>
   </a>
   <a href="https://github.com/CallMeJones/blender-agent-bridge/pull/7">
