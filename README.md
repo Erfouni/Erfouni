@@ -39,14 +39,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-c9af1a499dcd.svg" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light-1b7d4d9a8b9d.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,298 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-76127176051f.svg" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-a62cec3c73c2.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,299 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-eabaf2f96b1d.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-b96a4a44a87b.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,319 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-0a2eba73283e.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-a60e4c7a2b56.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,318 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -57,8 +57,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-a4c3b81e5fa8.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-ae0b7761a447.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,694 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-c448cda423c1.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-c3c72c75de8b.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,696 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -75,14 +75,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-e1151fda408d.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-58c8633f6d72.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,560 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-84a34cf6a9ed.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-105608f088ea.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,561 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-c7c257cdb494.svg" />
-    <img src="./assets/contributions/mozman--ezdxf-compact-light-710adc82b174.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,524 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-e49f77681cd6.svg" />
+    <img src="./assets/contributions/mozman--ezdxf-compact-light-a3d9b58bcb3d.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,526 stars." />
   </picture>
   </a>
   <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -99,8 +99,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-96be505ce336.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-dbd929abe92e.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 793 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-3a7581ccccb6.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-3992f7d5291a.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 809 stars." />
   </picture>
   </a>
   <a href="https://github.com/mathandy/svgpathtools/pull/253">

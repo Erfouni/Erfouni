@@ -13,7 +13,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10298
+      "stars": 10299
     },
     {
       "repo": "fonttools/fonttools",
@@ -23,7 +23,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5319
+      "stars": 5318
     },
     {
       "repo": "mikedh/trimesh",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3694
+      "stars": 3696
     },
     {
       "repo": "cantools/cantools",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1560
+      "stars": 1561
     },
     {
       "repo": "mozman/ezdxf",
@@ -87,7 +87,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1524
+      "stars": 1526
     },
     {
       "repo": "nipy/nibabel",
@@ -119,7 +119,7 @@
           "title": "Clarify when long jump updates take the site down."
         }
       ],
-      "stars": 793
+      "stars": 809
     },
     {
       "repo": "mathandy/svgpathtools",
