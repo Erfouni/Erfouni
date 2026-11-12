@@ -23,7 +23,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5318
+      "stars": 5319
     },
     {
       "repo": "mikedh/trimesh",
@@ -53,7 +53,7 @@
           "title": "DBC: don't fail the load when VFrameFormat has no default"
         }
       ],
-      "stars": 2313
+      "stars": 2315
     },
     {
       "repo": "erocarrera/pefile",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1561
+      "stars": 1563
     },
     {
       "repo": "mozman/ezdxf",
@@ -87,21 +87,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1526
-    },
-    {
-      "repo": "nipy/nibabel",
-      "prs": [
-        {
-          "number": 1573,
-          "title": "Raise PARRECError for a general information line without a colon"
-        },
-        {
-          "number": 1574,
-          "title": "Raise PARRECError for an image information line with too few values"
-        }
-      ],
-      "stars": 810
+      "stars": 1528
     },
     {
       "repo": "gopherium/gophenberg",
@@ -119,7 +105,21 @@
           "title": "Clarify when long jump updates take the site down."
         }
       ],
-      "stars": 809
+      "stars": 864
+    },
+    {
+      "repo": "nipy/nibabel",
+      "prs": [
+        {
+          "number": 1573,
+          "title": "Raise PARRECError for a general information line without a colon"
+        },
+        {
+          "number": 1574,
+          "title": "Raise PARRECError for an image information line with too few values"
+        }
+      ],
+      "stars": 810
     },
     {
       "repo": "mathandy/svgpathtools",

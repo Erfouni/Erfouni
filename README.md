@@ -45,8 +45,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-0a2eba73283e.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-a60e4c7a2b56.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,318 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-eabaf2f96b1d.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-b96a4a44a87b.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,319 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -63,8 +63,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-17d410eac1b9.svg" />
-    <img src="./assets/contributions/cantools--cantools-compact-light-f2bc9e6dfcac.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,313 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-fe40473037d5.svg" />
+    <img src="./assets/contributions/cantools--cantools-compact-light-760144d4d496.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,315 stars." />
   </picture>
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
@@ -75,20 +75,20 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-84a34cf6a9ed.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-105608f088ea.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,561 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-7ebba988b2f7.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-f4d5a2278fd7.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,563 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-e49f77681cd6.svg" />
-    <img src="./assets/contributions/mozman--ezdxf-compact-light-a3d9b58bcb3d.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,526 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-822a1b5a0b0a.svg" />
+    <img src="./assets/contributions/mozman--ezdxf-compact-light-b603dff4bb46.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,528 stars." />
   </picture>
   </a>
-  <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
+  <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nipy--nibabel-compact-dark-76ffa76ce337.svg" />
-    <img src="./assets/contributions/nipy--nibabel-compact-light-1044107bee91.svg" width="250" alt="nipy/nibabel — Raise PARRECError for an image information line with too few values Merged: #1573, #1574. 810 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-cf17560fba26.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-f2a417041e7a.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 864 stars." />
   </picture>
   </a>
 </p>
@@ -97,10 +97,10 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <summary>Show 28 more projects</summary>
 
 <p align="center">
-  <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
+  <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-3a7581ccccb6.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-3992f7d5291a.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 809 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nipy--nibabel-compact-dark-76ffa76ce337.svg" />
+    <img src="./assets/contributions/nipy--nibabel-compact-light-1044107bee91.svg" width="250" alt="nipy/nibabel — Raise PARRECError for an image information line with too few values Merged: #1573, #1574. 810 stars." />
   </picture>
   </a>
   <a href="https://github.com/mathandy/svgpathtools/pull/253">
