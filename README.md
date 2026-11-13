@@ -45,20 +45,20 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-ee9cb23e7863.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-6afdb09a5f6d.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,320 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-a92d6d932fd4.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-b23c49d8410b.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,321 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-fd8febcaae40.svg" />
-    <img src="./assets/contributions/mikedh--trimesh-compact-light-d8cf2b4aef5c.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,724 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-0bafe4e00caa.svg" />
+    <img src="./assets/contributions/mikedh--trimesh-compact-light-171f969cd0cb.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,722 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-3d42178e1109.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-b11c439e0466.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,711 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-a59405aa840d.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-f1ad8154c62f.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,714 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -75,8 +75,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-e0a93844c8ff.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-67cf4570b9d2.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,570 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-901f20f2bf15.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-52e009e1fd31.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,572 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -87,8 +87,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-b84ee660ccef.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-15b8a02c7917.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 945 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-ae7e8f3c2636.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-d1eb17ae2b3d.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 953 stars." />
   </picture>
   </a>
 </p>
@@ -129,8 +129,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/oras-project/oras-go/pull/1697">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oras-project--oras-go-compact-dark-005d0fe4009d.svg" />
-    <img src="./assets/contributions/oras-project--oras-go-compact-light-bac0d05c3548.svg" width="250" alt="oras-project/oras-go — fix(remote): preserve IPv6 brackets in blob upload locations Merged: #1697. 299 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oras-project--oras-go-compact-dark-01e92668f3d9.svg" />
+    <img src="./assets/contributions/oras-project--oras-go-compact-light-d094640ffe49.svg" width="250" alt="oras-project/oras-go — fix(remote): preserve IPv6 brackets in blob upload locations Merged: #1697. 300 stars." />
   </picture>
   </a>
   <a href="https://github.com/pycollada/pycollada/pull/165">

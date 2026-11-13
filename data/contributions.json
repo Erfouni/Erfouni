@@ -23,7 +23,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5320
+      "stars": 5321
     },
     {
       "repo": "mikedh/trimesh",
@@ -33,7 +33,7 @@
           "title": "Raise a clear error for out-of-range face indices in OFF files"
         }
       ],
-      "stars": 3724
+      "stars": 3722
     },
     {
       "repo": "gumyr/build123d",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3711
+      "stars": 3714
     },
     {
       "repo": "cantools/cantools",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1570
+      "stars": 1572
     },
     {
       "repo": "mozman/ezdxf",
@@ -105,7 +105,7 @@
           "title": "Clarify when long jump updates take the site down."
         }
       ],
-      "stars": 945
+      "stars": 953
     },
     {
       "repo": "nipy/nibabel",
@@ -181,7 +181,7 @@
           "title": "fix(remote): preserve IPv6 brackets in blob upload locations"
         }
       ],
-      "stars": 299
+      "stars": 300
     },
     {
       "repo": "pycollada/pycollada",
