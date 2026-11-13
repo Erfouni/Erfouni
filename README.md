@@ -45,8 +45,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-eabaf2f96b1d.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-b96a4a44a87b.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,319 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-ee9cb23e7863.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-6afdb09a5f6d.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,320 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -57,8 +57,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-98a264e72a73.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-0697c02860a5.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,703 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-01c81986ea7a.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-40efd119dd13.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,705 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -75,8 +75,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-1f8f25ada13a.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-1a2fa3ed0260.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,566 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-b11b18ffa00b.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-82a3b316fa4d.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,567 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -87,8 +87,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-aacc81d76218.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-efcb7b01c4aa.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 903 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-8c5531761967.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-d5d12745c55a.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 939 stars." />
   </picture>
   </a>
 </p>
