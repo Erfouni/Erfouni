@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3700
+      "stars": 3703
     },
     {
       "repo": "cantools/cantools",
@@ -105,7 +105,7 @@
           "title": "Clarify when long jump updates take the site down."
         }
       ],
-      "stars": 895
+      "stars": 903
     },
     {
       "repo": "nipy/nibabel",
