@@ -51,8 +51,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-0bafe4e00caa.svg" />
-    <img src="./assets/contributions/mikedh--trimesh-compact-light-171f969cd0cb.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,722 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-458c0ca6ff92.svg" />
+    <img src="./assets/contributions/mikedh--trimesh-compact-light-0c99c6b6d711.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,721 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
@@ -87,8 +87,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-ae7e8f3c2636.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-d1eb17ae2b3d.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 953 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-d2dab0f69121.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-0e5e1d03ba33.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 960 stars." />
   </picture>
   </a>
 </p>
@@ -201,8 +201,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/oscarbol09/jvm-mcp/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oscarbol09--jvm-mcp-compact-dark-39f47559bcf6.svg" />
-    <img src="./assets/contributions/oscarbol09--jvm-mcp-compact-light-4dd664245da2.svg" width="250" alt="oscarbol09/jvm-mcp — fix(core): serialize paths as JSON strings Merged: #96, #228. 6 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oscarbol09--jvm-mcp-compact-dark-f35dff245503.svg" />
+    <img src="./assets/contributions/oscarbol09--jvm-mcp-compact-light-99980e496dfd.svg" width="250" alt="oscarbol09/jvm-mcp — fix(core): serialize paths as JSON strings Merged: #96, #228. 7 stars." />
   </picture>
   </a>
   <a href="https://github.com/PicadoLabs/build-with-ai/pull/175">

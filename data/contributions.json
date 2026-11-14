@@ -33,7 +33,7 @@
           "title": "Raise a clear error for out-of-range face indices in OFF files"
         }
       ],
-      "stars": 3722
+      "stars": 3721
     },
     {
       "repo": "gumyr/build123d",
@@ -105,7 +105,7 @@
           "title": "Clarify when long jump updates take the site down."
         }
       ],
-      "stars": 953
+      "stars": 960
     },
     {
       "repo": "nipy/nibabel",
@@ -349,7 +349,7 @@
           "title": "fix(core): serialize paths as JSON strings"
         }
       ],
-      "stars": 6
+      "stars": 7
     },
     {
       "repo": "PicadoLabs/build-with-ai",
