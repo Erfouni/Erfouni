@@ -26,6 +26,16 @@
       "stars": 5322
     },
     {
+      "repo": "gumyr/build123d",
+      "prs": [
+        {
+          "number": 1489,
+          "title": "Make ShapeList set de-duplication order deterministic"
+        }
+      ],
+      "stars": 3724
+    },
+    {
       "repo": "mikedh/trimesh",
       "prs": [
         {
@@ -36,16 +46,6 @@
       "stars": 3721
     },
     {
-      "repo": "gumyr/build123d",
-      "prs": [
-        {
-          "number": 1489,
-          "title": "Make ShapeList set de-duplication order deterministic"
-        }
-      ],
-      "stars": 3717
-    },
-    {
       "repo": "cantools/cantools",
       "prs": [
         {
@@ -53,7 +53,7 @@
           "title": "DBC: don't fail the load when VFrameFormat has no default"
         }
       ],
-      "stars": 2316
+      "stars": 2317
     },
     {
       "repo": "erocarrera/pefile",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1574
+      "stars": 1576
     },
     {
       "repo": "mozman/ezdxf",
@@ -267,7 +267,7 @@
           "title": "refactor(memory-reference-resolver): centralize metadata query resolution"
         }
       ],
-      "stars": 42
+      "stars": 43
     },
     {
       "repo": "CallMeJones/blender-agent-bridge",

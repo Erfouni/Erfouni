@@ -49,22 +49,22 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/fonttools--fonttools-compact-light-edcca55fa028.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,322 stars." />
   </picture>
   </a>
+  <a href="https://github.com/gumyr/build123d/pull/1489">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-1cad4082e181.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-a783a769308c.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,724 stars." />
+  </picture>
+  </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-458c0ca6ff92.svg" />
     <img src="./assets/contributions/mikedh--trimesh-compact-light-0c99c6b6d711.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,721 stars." />
   </picture>
   </a>
-  <a href="https://github.com/gumyr/build123d/pull/1489">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-c838c0973b5d.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-e4dc3c5d483a.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,717 stars." />
-  </picture>
-  </a>
   <a href="https://github.com/cantools/cantools/pull/857">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-a777d46aa8d0.svg" />
-    <img src="./assets/contributions/cantools--cantools-compact-light-ebcc6e4e979a.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,316 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-337192524330.svg" />
+    <img src="./assets/contributions/cantools--cantools-compact-light-9409e044a3b3.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,317 stars." />
   </picture>
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
@@ -75,8 +75,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-7014f7ef1043.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-95f426ee3734.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,574 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-3de98fcf6925.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-40c1e6ef0176.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,576 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -159,8 +159,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/8f4e/8f4e/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/8f4e--8f4e-compact-dark-c5fff69ebaae.svg" />
-    <img src="./assets/contributions/8f4e--8f4e-compact-light-e1a93e6d5ba3.svg" width="250" alt="8f4e/8f4e — refactor(memory-reference-resolver): centralize metadata query resolution Merged: #1059, #1095, #1097, #1099, #1102, #1120, #1204, #1216. 42 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/8f4e--8f4e-compact-dark-d9de04f38d43.svg" />
+    <img src="./assets/contributions/8f4e--8f4e-compact-light-111ac42c710e.svg" width="250" alt="8f4e/8f4e — refactor(memory-reference-resolver): centralize metadata query resolution Merged: #1059, #1095, #1097, #1099, #1102, #1120, #1204, #1216. 43 stars." />
   </picture>
   </a>
   <a href="https://github.com/CallMeJones/blender-agent-bridge/pull/7">
