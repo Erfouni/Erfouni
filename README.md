@@ -57,8 +57,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-a59405aa840d.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-f1ad8154c62f.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,714 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-216afdaa9809.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-4d39d6560e01.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,715 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -87,8 +87,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-d2dab0f69121.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-0e5e1d03ba33.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 960 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-72c52f663eb2.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-4acbfc643c5a.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 999 stars." />
   </picture>
   </a>
 </p>
