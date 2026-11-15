@@ -33,7 +33,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3732
+      "stars": 3733
     },
     {
       "repo": "mikedh/trimesh",
@@ -63,7 +63,7 @@
           "title": "Fix crash when the dynamic relocation table header is cut short"
         }
       ],
-      "stars": 2086
+      "stars": 2087
     },
     {
       "repo": "hashgraph-online/awesome-codex-plugins",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1578
+      "stars": 1577
     },
     {
       "repo": "mozman/ezdxf",
