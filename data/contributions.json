@@ -33,7 +33,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3730
+      "stars": 3732
     },
     {
       "repo": "mikedh/trimesh",
@@ -53,7 +53,7 @@
           "title": "DBC: don't fail the load when VFrameFormat has no default"
         }
       ],
-      "stars": 2318
+      "stars": 2319
     },
     {
       "repo": "erocarrera/pefile",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1577
+      "stars": 1578
     },
     {
       "repo": "mozman/ezdxf",
@@ -181,7 +181,7 @@
           "title": "fix(remote): preserve IPv6 brackets in blob upload locations"
         }
       ],
-      "stars": 300
+      "stars": 301
     },
     {
       "repo": "pycollada/pycollada",

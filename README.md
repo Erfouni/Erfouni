@@ -51,8 +51,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-7bda2b47a5ee.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-4aaa0dc147c1.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,730 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-ab18e04d0085.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-26f74a38d90b.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,732 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -63,8 +63,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-c7e17c03c825.svg" />
-    <img src="./assets/contributions/cantools--cantools-compact-light-cd31ca65ba46.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,318 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-ebc7da9c3c31.svg" />
+    <img src="./assets/contributions/cantools--cantools-compact-light-cd508fe7ade0.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,319 stars." />
   </picture>
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
@@ -75,8 +75,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-0a86e562822c.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-3118f32dc97d.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,577 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-4780f065e7ab.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-fb5b47042f4a.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,578 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -129,8 +129,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/oras-project/oras-go/pull/1697">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oras-project--oras-go-compact-dark-01e92668f3d9.svg" />
-    <img src="./assets/contributions/oras-project--oras-go-compact-light-d094640ffe49.svg" width="250" alt="oras-project/oras-go — fix(remote): preserve IPv6 brackets in blob upload locations Merged: #1697. 300 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oras-project--oras-go-compact-dark-b4986cc8cac7.svg" />
+    <img src="./assets/contributions/oras-project--oras-go-compact-light-3cbdf4999b03.svg" width="250" alt="oras-project/oras-go — fix(remote): preserve IPv6 brackets in blob upload locations Merged: #1697. 301 stars." />
   </picture>
   </a>
   <a href="https://github.com/pycollada/pycollada/pull/165">
