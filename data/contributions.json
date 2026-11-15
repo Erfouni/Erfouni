@@ -33,7 +33,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3725
+      "stars": 3726
     },
     {
       "repo": "mikedh/trimesh",
@@ -53,7 +53,7 @@
           "title": "DBC: don't fail the load when VFrameFormat has no default"
         }
       ],
-      "stars": 2317
+      "stars": 2318
     },
     {
       "repo": "erocarrera/pefile",
@@ -105,7 +105,7 @@
           "title": "Clarify when long jump updates take the site down."
         }
       ],
-      "stars": 1012
+      "stars": 1011
     },
     {
       "repo": "nipy/nibabel",
@@ -267,7 +267,7 @@
           "title": "refactor(memory-reference-resolver): centralize metadata query resolution"
         }
       ],
-      "stars": 43
+      "stars": 44
     },
     {
       "repo": "CallMeJones/blender-agent-bridge",

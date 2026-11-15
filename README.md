@@ -51,8 +51,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-b7b63e401c97.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-55835b6550cd.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,725 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-c0012a5c65e0.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-a0ad46bd94ba.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,726 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -63,8 +63,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-337192524330.svg" />
-    <img src="./assets/contributions/cantools--cantools-compact-light-9409e044a3b3.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,317 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-c7e17c03c825.svg" />
+    <img src="./assets/contributions/cantools--cantools-compact-light-cd31ca65ba46.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,318 stars." />
   </picture>
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
@@ -87,8 +87,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-b2da8925a234.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-5f7665e93004.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 1,012 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-4c3ab6e4d5e8.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-fd01e9abf5d8.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 1,011 stars." />
   </picture>
   </a>
 </p>
@@ -159,8 +159,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/8f4e/8f4e/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/8f4e--8f4e-compact-dark-d9de04f38d43.svg" />
-    <img src="./assets/contributions/8f4e--8f4e-compact-light-111ac42c710e.svg" width="250" alt="8f4e/8f4e — refactor(memory-reference-resolver): centralize metadata query resolution Merged: #1059, #1095, #1097, #1099, #1102, #1120, #1204, #1216. 43 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/8f4e--8f4e-compact-dark-9c63b5d639dd.svg" />
+    <img src="./assets/contributions/8f4e--8f4e-compact-light-4ea2ec47cb6f.svg" width="250" alt="8f4e/8f4e — refactor(memory-reference-resolver): centralize metadata query resolution Merged: #1059, #1095, #1097, #1099, #1102, #1120, #1204, #1216. 44 stars." />
   </picture>
   </a>
   <a href="https://github.com/CallMeJones/blender-agent-bridge/pull/7">
