@@ -33,7 +33,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3733
+      "stars": 3734
     },
     {
       "repo": "mikedh/trimesh",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1577
+      "stars": 1578
     },
     {
       "repo": "mozman/ezdxf",
@@ -87,7 +87,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1529
+      "stars": 1530
     },
     {
       "repo": "gopherium/gophenberg",
