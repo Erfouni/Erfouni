@@ -23,7 +23,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5325
+      "stars": 5327
     },
     {
       "repo": "gumyr/build123d",
@@ -33,7 +33,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3741
+      "stars": 3743
     },
     {
       "repo": "mikedh/trimesh",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1583
+      "stars": 1584
     },
     {
       "repo": "mozman/ezdxf",
@@ -311,7 +311,7 @@
           "title": "fix(auth): honor configured session lifetime"
         }
       ],
-      "stars": 15
+      "stars": 16
     },
     {
       "repo": "whut09/Awesome-AI-Engineering-Agents",

@@ -45,14 +45,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-259180384c86.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-9a5d8e0669ec.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,325 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-666050fdf705.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-baabb692e586.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,327 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-635bbbc99111.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-1fa451eba4f7.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,741 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-9f72c23f8c47.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-bb9ca513f74a.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,743 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -75,8 +75,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-1826154fdfed.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-7a064603379f.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,583 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-160d3873d53e.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-1a71c568ccb1.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,584 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -183,8 +183,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/BistaDinesh03/critique/pull/89">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/bistadinesh03--critique-compact-dark-4b04e4c3cd28.svg" />
-    <img src="./assets/contributions/bistadinesh03--critique-compact-light-e0295e1c77e6.svg" width="250" alt="BistaDinesh03/critique — fix(auth): honor configured session lifetime Merged: #89. 15 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/bistadinesh03--critique-compact-dark-6580ea126c04.svg" />
+    <img src="./assets/contributions/bistadinesh03--critique-compact-light-410eb66a5cfa.svg" width="250" alt="BistaDinesh03/critique — fix(auth): honor configured session lifetime Merged: #89. 16 stars." />
   </picture>
   </a>
   <a href="https://github.com/whut09/Awesome-AI-Engineering-Agents/pull/2">
