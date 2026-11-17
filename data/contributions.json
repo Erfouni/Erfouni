@@ -13,7 +13,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10302
+      "stars": 10303
     },
     {
       "repo": "fonttools/fonttools",
@@ -23,7 +23,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5327
+      "stars": 5328
     },
     {
       "repo": "gumyr/build123d",
@@ -53,7 +53,7 @@
           "title": "DBC: don't fail the load when VFrameFormat has no default"
         }
       ],
-      "stars": 2320
+      "stars": 2321
     },
     {
       "repo": "erocarrera/pefile",
@@ -87,7 +87,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1533
+      "stars": 1535
     },
     {
       "repo": "gopherium/gophenberg",
@@ -311,7 +311,7 @@
           "title": "fix(auth): honor configured session lifetime"
         }
       ],
-      "stars": 16
+      "stars": 17
     },
     {
       "repo": "whut09/Awesome-AI-Engineering-Agents",
@@ -359,7 +359,7 @@
           "title": "fix(templates): resolve custom templates in the requested workspace"
         }
       ],
-      "stars": 6
+      "stars": 7
     },
     {
       "repo": "duramson/eeg-bewegungsdaten",

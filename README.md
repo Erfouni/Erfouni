@@ -39,14 +39,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-a1ab3675b075.svg" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light-b66bc69d0036.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,302 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-b660edd91d02.svg" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-ef55cf672ed3.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,303 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-666050fdf705.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-baabb692e586.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,327 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-d93fe0f1942e.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-71a3aba37415.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,328 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
@@ -63,8 +63,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-6ea56f6a2e6a.svg" />
-    <img src="./assets/contributions/cantools--cantools-compact-light-aa907a7cc174.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,320 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-1928de1e1bb7.svg" />
+    <img src="./assets/contributions/cantools--cantools-compact-light-a2fa5513df6e.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,321 stars." />
   </picture>
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
@@ -81,8 +81,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-96d015f52b2d.svg" />
-    <img src="./assets/contributions/mozman--ezdxf-compact-light-ac7a5bcdacb4.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,533 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-f1f022c6498e.svg" />
+    <img src="./assets/contributions/mozman--ezdxf-compact-light-e562eac35a69.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,535 stars." />
   </picture>
   </a>
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -183,8 +183,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/BistaDinesh03/critique/pull/89">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/bistadinesh03--critique-compact-dark-6580ea126c04.svg" />
-    <img src="./assets/contributions/bistadinesh03--critique-compact-light-410eb66a5cfa.svg" width="250" alt="BistaDinesh03/critique — fix(auth): honor configured session lifetime Merged: #89. 16 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/bistadinesh03--critique-compact-dark-5aa114597347.svg" />
+    <img src="./assets/contributions/bistadinesh03--critique-compact-light-5330b946f70b.svg" width="250" alt="BistaDinesh03/critique — fix(auth): honor configured session lifetime Merged: #89. 17 stars." />
   </picture>
   </a>
   <a href="https://github.com/whut09/Awesome-AI-Engineering-Agents/pull/2">
@@ -207,8 +207,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/PicadoLabs/build-with-ai/pull/175">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/picadolabs--build-with-ai-compact-dark-233622b8deb3.svg" />
-    <img src="./assets/contributions/picadolabs--build-with-ai-compact-light-7b37724e95e8.svg" width="250" alt="PicadoLabs/build-with-ai — fix(templates): resolve custom templates in the requested workspace Merged: #175. 6 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/picadolabs--build-with-ai-compact-dark-42b56ae15ad8.svg" />
+    <img src="./assets/contributions/picadolabs--build-with-ai-compact-light-7eac1c954821.svg" width="250" alt="PicadoLabs/build-with-ai — fix(templates): resolve custom templates in the requested workspace Merged: #175. 7 stars." />
   </picture>
   </a>
   <a href="https://github.com/duramson/eeg-bewegungsdaten/pull/8">
