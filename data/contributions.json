@@ -13,7 +13,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10300
+      "stars": 10302
     },
     {
       "repo": "fonttools/fonttools",
@@ -33,7 +33,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3738
+      "stars": 3741
     },
     {
       "repo": "mikedh/trimesh",
@@ -43,7 +43,7 @@
           "title": "Raise a clear error for out-of-range face indices in OFF files"
         }
       ],
-      "stars": 3723
+      "stars": 3724
     },
     {
       "repo": "cantools/cantools",
@@ -73,7 +73,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1581
+      "stars": 1583
     },
     {
       "repo": "mozman/ezdxf",
@@ -87,7 +87,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1532
+      "stars": 1533
     },
     {
       "repo": "gopherium/gophenberg",
