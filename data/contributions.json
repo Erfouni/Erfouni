@@ -2,6 +2,16 @@
   "username": "Erfouni",
   "projects": [
     {
+      "repo": "ruvnet/ruflo",
+      "prs": [
+        {
+          "number": 4822,
+          "title": "fix(memory): keep database locks owned during long writes"
+        }
+      ],
+      "stars": 82009
+    },
+    {
       "repo": "py-pdf/pypdf",
       "prs": [
         {
@@ -23,7 +33,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5328
+      "stars": 5329
     },
     {
       "repo": "gumyr/build123d",
@@ -33,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3747
+      "stars": 3749
     },
     {
       "repo": "mikedh/trimesh",
@@ -53,7 +63,7 @@
           "title": "DBC: don't fail the load when VFrameFormat has no default"
         }
       ],
-      "stars": 2322
+      "stars": 2323
     },
     {
       "repo": "erocarrera/pefile",
@@ -73,7 +83,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1584
+      "stars": 1589
     },
     {
       "repo": "mozman/ezdxf",
@@ -87,7 +97,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1535
+      "stars": 1537
     },
     {
       "repo": "gopherium/gophenberg",
@@ -201,7 +211,7 @@
           "title": "Handle run failures in the simple custom layout"
         }
       ],
-      "stars": 149
+      "stars": 150
     },
     {
       "repo": "Avenx-JS/avenx-js",
@@ -338,6 +348,16 @@
       "stars": 8
     },
     {
+      "repo": "PicadoLabs/build-with-ai",
+      "prs": [
+        {
+          "number": 175,
+          "title": "fix(templates): resolve custom templates in the requested workspace"
+        }
+      ],
+      "stars": 8
+    },
+    {
       "repo": "oscarbol09/jvm-mcp",
       "prs": [
         {
@@ -347,16 +367,6 @@
         {
           "number": 228,
           "title": "fix(core): serialize paths as JSON strings"
-        }
-      ],
-      "stars": 7
-    },
-    {
-      "repo": "PicadoLabs/build-with-ai",
-      "prs": [
-        {
-          "number": 175,
-          "title": "fix(templates): resolve custom templates in the requested workspace"
         }
       ],
       "stars": 7

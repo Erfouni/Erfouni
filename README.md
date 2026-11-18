@@ -30,13 +30,19 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark-5ec1efe91df0.svg" />
-    <img src="./assets/contributions/impact-compact-light-c47bd8bd651a.svg" width="758" alt="Open Source Impact — 37 external projects, 57 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark-d3f7593f17fc.svg" />
+    <img src="./assets/contributions/impact-compact-light-1c3dd2dc4f77.svg" width="758" alt="Open Source Impact — 38 external projects, 58 merged pull requests" />
   </picture>
 </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/ruvnet/ruflo/pull/4822">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-6c9c0f8283d9.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-3082eaf486b7.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,009 stars." />
+  </picture>
+  </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-b21dbccb5a1d.svg" />
@@ -45,14 +51,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-d93fe0f1942e.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-71a3aba37415.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,328 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-b19fac2e141d.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-95854cfcfba8.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,329 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-959876a518d3.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-a7045745db61.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,747 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-7668844beeec.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-5f1f976f0efa.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,749 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -63,8 +69,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-3b60fbf456ce.svg" />
-    <img src="./assets/contributions/cantools--cantools-compact-light-9a9fbcc999c4.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,322 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-ea78ed6bb0dc.svg" />
+    <img src="./assets/contributions/cantools--cantools-compact-light-dfd667012d52.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,323 stars." />
   </picture>
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
@@ -75,28 +81,28 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-160d3873d53e.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-1a71c568ccb1.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,584 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-366e12521d59.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-9352fc2da0af.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,589 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-f1f022c6498e.svg" />
-    <img src="./assets/contributions/mozman--ezdxf-compact-light-e562eac35a69.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,535 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-7eba1f41de9b.svg" />
+    <img src="./assets/contributions/mozman--ezdxf-compact-light-bb20bf375ff4.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,537 stars." />
   </picture>
   </a>
+</p>
+
+<details>
+<summary>Show 29 more projects</summary>
+
+<p align="center">
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-4c3ab6e4d5e8.svg" />
     <img src="./assets/contributions/gopherium--gophenberg-compact-light-fd01e9abf5d8.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 1,011 stars." />
   </picture>
   </a>
-</p>
-
-<details>
-<summary>Show 28 more projects</summary>
-
-<p align="center">
   <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nipy--nibabel-compact-dark-76ffa76ce337.svg" />
@@ -141,8 +147,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/ryanrosello-og/playwright-slack-report/pull/494">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ryanrosello-og--playwright-slack-report-compact-dark-7c0abb61bb06.svg" />
-    <img src="./assets/contributions/ryanrosello-og--playwright-slack-report-compact-light-a6f6790fc9d1.svg" width="250" alt="ryanrosello-og/playwright-slack-report — Handle run failures in the simple custom layout Merged: #494. 149 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ryanrosello-og--playwright-slack-report-compact-dark-fd0a50210536.svg" />
+    <img src="./assets/contributions/ryanrosello-og--playwright-slack-report-compact-light-d40c09272f8b.svg" width="250" alt="ryanrosello-og/playwright-slack-report — Handle run failures in the simple custom layout Merged: #494. 150 stars." />
   </picture>
   </a>
   <a href="https://github.com/Avenx-JS/avenx-js/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -199,16 +205,16 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/alessioricco--certo-compact-light-5a05cc4f3128.svg" width="250" alt="alessioricco/Certo — Fix the remaining Windows test-suite failures Merged: #8, #29. 8 stars." />
   </picture>
   </a>
+  <a href="https://github.com/PicadoLabs/build-with-ai/pull/175">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/picadolabs--build-with-ai-compact-dark-18a1d20740e9.svg" />
+    <img src="./assets/contributions/picadolabs--build-with-ai-compact-light-98123cd9ca87.svg" width="250" alt="PicadoLabs/build-with-ai — fix(templates): resolve custom templates in the requested workspace Merged: #175. 8 stars." />
+  </picture>
+  </a>
   <a href="https://github.com/oscarbol09/jvm-mcp/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oscarbol09--jvm-mcp-compact-dark-f35dff245503.svg" />
     <img src="./assets/contributions/oscarbol09--jvm-mcp-compact-light-99980e496dfd.svg" width="250" alt="oscarbol09/jvm-mcp — fix(core): serialize paths as JSON strings Merged: #96, #228. 7 stars." />
-  </picture>
-  </a>
-  <a href="https://github.com/PicadoLabs/build-with-ai/pull/175">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/picadolabs--build-with-ai-compact-dark-42b56ae15ad8.svg" />
-    <img src="./assets/contributions/picadolabs--build-with-ai-compact-light-7eac1c954821.svg" width="250" alt="PicadoLabs/build-with-ai — fix(templates): resolve custom templates in the requested workspace Merged: #175. 7 stars." />
   </picture>
   </a>
   <a href="https://github.com/duramson/eeg-bewegungsdaten/pull/8">
