@@ -9,7 +9,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82009
+      "stars": 82037
     },
     {
       "repo": "py-pdf/pypdf",
@@ -23,7 +23,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10304
+      "stars": 10303
     },
     {
       "repo": "fonttools/fonttools",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3749
+      "stars": 3754
     },
     {
       "repo": "mikedh/trimesh",
@@ -53,7 +53,7 @@
           "title": "Raise a clear error for out-of-range face indices in OFF files"
         }
       ],
-      "stars": 3725
+      "stars": 3726
     },
     {
       "repo": "cantools/cantools",
@@ -63,7 +63,7 @@
           "title": "DBC: don't fail the load when VFrameFormat has no default"
         }
       ],
-      "stars": 2323
+      "stars": 2324
     },
     {
       "repo": "erocarrera/pefile",
@@ -83,7 +83,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1589
+      "stars": 1591
     },
     {
       "repo": "mozman/ezdxf",

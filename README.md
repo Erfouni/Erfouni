@@ -39,14 +39,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/ruvnet/ruflo/pull/4822">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-6c9c0f8283d9.svg" />
-    <img src="./assets/contributions/ruvnet--ruflo-compact-light-3082eaf486b7.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,009 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-7543fbbd35a0.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-886604aa93f8.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,037 stars." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-b21dbccb5a1d.svg" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light-f60566d50e5d.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,304 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-b660edd91d02.svg" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-ef55cf672ed3.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,303 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
@@ -57,20 +57,20 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-7668844beeec.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-5f1f976f0efa.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,749 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-8ea8c146bb4a.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-4c5b3f00e3a4.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,754 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-3d2850ac9f1c.svg" />
-    <img src="./assets/contributions/mikedh--trimesh-compact-light-e512b614d92b.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,725 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-53869d6318ed.svg" />
+    <img src="./assets/contributions/mikedh--trimesh-compact-light-74e7a02d41f5.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,726 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-ea78ed6bb0dc.svg" />
-    <img src="./assets/contributions/cantools--cantools-compact-light-dfd667012d52.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,323 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-4cd6ca7975f2.svg" />
+    <img src="./assets/contributions/cantools--cantools-compact-light-b74893552a79.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,324 stars." />
   </picture>
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
@@ -81,8 +81,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-366e12521d59.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-9352fc2da0af.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,589 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-c524ec2baf28.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-752b38aecfa1.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,591 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
