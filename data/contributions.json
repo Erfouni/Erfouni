@@ -9,7 +9,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82071
+      "stars": 82094
     },
     {
       "repo": "py-pdf/pypdf",
@@ -23,7 +23,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10302
+      "stars": 10304
     },
     {
       "repo": "fonttools/fonttools",
@@ -33,7 +33,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5330
+      "stars": 5331
     },
     {
       "repo": "gumyr/build123d",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3768
+      "stars": 3773
     },
     {
       "repo": "mikedh/trimesh",
@@ -63,7 +63,7 @@
           "title": "DBC: don't fail the load when VFrameFormat has no default"
         }
       ],
-      "stars": 2324
+      "stars": 2325
     },
     {
       "repo": "erocarrera/pefile",
@@ -83,7 +83,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1591
+      "stars": 1594
     },
     {
       "repo": "mozman/ezdxf",
@@ -97,25 +97,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1538
-    },
-    {
-      "repo": "gopherium/gophenberg",
-      "prs": [
-        {
-          "number": 491,
-          "title": "Keep root pagination addresses reserved"
-        },
-        {
-          "number": 493,
-          "title": "Keep the latest definitions file selected for import"
-        },
-        {
-          "number": 618,
-          "title": "Clarify when long jump updates take the site down."
-        }
-      ],
-      "stars": 1011
+      "stars": 1540
     },
     {
       "repo": "nipy/nibabel",
@@ -129,7 +111,7 @@
           "title": "Raise PARRECError for an image information line with too few values"
         }
       ],
-      "stars": 810
+      "stars": 809
     },
     {
       "repo": "mathandy/svgpathtools",
@@ -164,6 +146,24 @@
         }
       ],
       "stars": 369
+    },
+    {
+      "repo": "gopherium/gophenberg",
+      "prs": [
+        {
+          "number": 491,
+          "title": "Keep root pagination addresses reserved"
+        },
+        {
+          "number": 493,
+          "title": "Keep the latest definitions file selected for import"
+        },
+        {
+          "number": 618,
+          "title": "Clarify when long jump updates take the site down."
+        }
+      ],
+      "stars": 327
     },
     {
       "repo": "flint-fyi/flint",
@@ -232,16 +232,6 @@
       "stars": 80
     },
     {
-      "repo": "gopherium/gouncer",
-      "prs": [
-        {
-          "number": 105,
-          "title": "fix(gouncer): clean account names before validation"
-        }
-      ],
-      "stars": 69
-    },
-    {
       "repo": "8f4e/8f4e",
       "prs": [
         {
@@ -275,6 +265,16 @@
         {
           "number": 1216,
           "title": "refactor(memory-reference-resolver): centralize metadata query resolution"
+        }
+      ],
+      "stars": 44
+    },
+    {
+      "repo": "gopherium/gouncer",
+      "prs": [
+        {
+          "number": 105,
+          "title": "fix(gouncer): clean account names before validation"
         }
       ],
       "stars": 44
@@ -321,7 +321,7 @@
           "title": "fix(auth): honor configured session lifetime"
         }
       ],
-      "stars": 16
+      "stars": 18
     },
     {
       "repo": "whut09/Awesome-AI-Engineering-Agents",
