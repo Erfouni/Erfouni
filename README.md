@@ -39,8 +39,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/ruvnet/ruflo/pull/4822">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-7543fbbd35a0.svg" />
-    <img src="./assets/contributions/ruvnet--ruflo-compact-light-886604aa93f8.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,037 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-3eda777d6d86.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-d3c4ee7d20f1.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,058 stars." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -51,20 +51,20 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-b19fac2e141d.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-95854cfcfba8.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,329 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-57acd2c5f8ab.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-465fb2a18429.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,330 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-8ea8c146bb4a.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-4c5b3f00e3a4.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,754 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-8e898f8434b8.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-d056a833ecd5.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,759 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-53869d6318ed.svg" />
-    <img src="./assets/contributions/mikedh--trimesh-compact-light-74e7a02d41f5.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,726 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-bcacdbfb35d3.svg" />
+    <img src="./assets/contributions/mikedh--trimesh-compact-light-68afa25fae5a.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,727 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
