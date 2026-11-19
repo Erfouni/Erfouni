@@ -39,14 +39,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/ruvnet/ruflo/pull/4822">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-3eda777d6d86.svg" />
-    <img src="./assets/contributions/ruvnet--ruflo-compact-light-d3c4ee7d20f1.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,058 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-998e92e24fbb.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-896f463e5ec9.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,071 stars." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-b660edd91d02.svg" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light-ef55cf672ed3.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,303 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-a1ab3675b075.svg" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-b66bc69d0036.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,302 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
@@ -57,14 +57,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-8e898f8434b8.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-d056a833ecd5.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,759 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-501ac66e6af3.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-84680be2a99e.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,768 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-bcacdbfb35d3.svg" />
-    <img src="./assets/contributions/mikedh--trimesh-compact-light-68afa25fae5a.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,727 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-527a83cebab7.svg" />
+    <img src="./assets/contributions/mikedh--trimesh-compact-light-9d8788736138.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,728 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -75,8 +75,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-c9e6e7fcbbf2.svg" />
-    <img src="./assets/contributions/erocarrera--pefile-compact-light-232b6d9c3d29.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,087 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-b67b248925f2.svg" />
+    <img src="./assets/contributions/erocarrera--pefile-compact-light-57dccd85ad68.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,088 stars." />
   </picture>
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
@@ -87,8 +87,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-7eba1f41de9b.svg" />
-    <img src="./assets/contributions/mozman--ezdxf-compact-light-bb20bf375ff4.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,537 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-ed0390cf84d7.svg" />
+    <img src="./assets/contributions/mozman--ezdxf-compact-light-b0eb26ff0812.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,538 stars." />
   </picture>
   </a>
 </p>
@@ -189,8 +189,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/BistaDinesh03/critique/pull/89">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/bistadinesh03--critique-compact-dark-5aa114597347.svg" />
-    <img src="./assets/contributions/bistadinesh03--critique-compact-light-5330b946f70b.svg" width="250" alt="BistaDinesh03/critique — fix(auth): honor configured session lifetime Merged: #89. 17 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/bistadinesh03--critique-compact-dark-6580ea126c04.svg" />
+    <img src="./assets/contributions/bistadinesh03--critique-compact-light-410eb66a5cfa.svg" width="250" alt="BistaDinesh03/critique — fix(auth): honor configured session lifetime Merged: #89. 16 stars." />
   </picture>
   </a>
   <a href="https://github.com/whut09/Awesome-AI-Engineering-Agents/pull/2">
