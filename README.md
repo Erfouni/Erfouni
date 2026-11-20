@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark-d3f7593f17fc.svg" />
-    <img src="./assets/contributions/impact-compact-light-1c3dd2dc4f77.svg" width="758" alt="Open Source Impact — 38 external projects, 58 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark-777142b07fb6.svg" />
+    <img src="./assets/contributions/impact-compact-light-4e56775a9e55.svg" width="758" alt="Open Source Impact — 39 external projects, 59 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -39,14 +39,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/ruvnet/ruflo/pull/4822">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-1a6645db10af.svg" />
-    <img src="./assets/contributions/ruvnet--ruflo-compact-light-a88ddac40693.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,109 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-c382eb9f3d2e.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-d096a6a18f24.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,126 stars." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-b21dbccb5a1d.svg" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light-f60566d50e5d.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,304 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-b660edd91d02.svg" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-ef55cf672ed3.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,303 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
@@ -57,8 +57,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-22afa2c9188a.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-b5579ce14a3a.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,774 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-1f1ead7b6c92.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-e2b75146c66d.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,780 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -73,6 +73,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/cantools--cantools-compact-light-dfd667012d52.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,323 stars." />
   </picture>
   </a>
+  <a href="https://github.com/pydicom/pydicom/pull/2394">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/pydicom--pydicom-compact-dark-56f7ed1ac60c.svg" />
+    <img src="./assets/contributions/pydicom--pydicom-compact-light-8dc34096dc64.svg" width="250" alt="pydicom/pydicom — Raise EOFError, not struct.error, for a file cut inside an element length Merged: #2394. 2,238 stars." />
+  </picture>
+  </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-c9e6e7fcbbf2.svg" />
@@ -81,22 +87,22 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-cbc6e942d72a.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-98c7cc724a45.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,597 stars." />
-  </picture>
-  </a>
-  <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-6ec432f81daa.svg" />
-    <img src="./assets/contributions/mozman--ezdxf-compact-light-d44ec36e0562.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,539 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-40aca486d4f8.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-001896c5bea2.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,598 stars." />
   </picture>
   </a>
 </p>
 
 <details>
-<summary>Show 29 more projects</summary>
+<summary>Show 30 more projects</summary>
 
 <p align="center">
+  <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-ff9a02bd095b.svg" />
+    <img src="./assets/contributions/mozman--ezdxf-compact-light-c0e6dccacd27.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,541 stars." />
+  </picture>
+  </a>
   <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/nipy--nibabel-compact-dark-3cf31558d3b0.svg" />
@@ -121,12 +127,6 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/eea--odfpy-compact-light-868a39d7cfbe.svg" width="250" alt="eea/odfpy — Tolerate malformed numeric fields in text and XHTML extraction. Merged: #158, #159. 368 stars." />
   </picture>
   </a>
-  <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-a872530184cb.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-b360f02f5965.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 327 stars." />
-  </picture>
-  </a>
   <a href="https://github.com/flint-fyi/flint/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/flint-fyi--flint-compact-dark-fd032585bcb5.svg" />
@@ -143,6 +143,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/pycollada--pycollada-compact-dark-9dcbe70c7399.svg" />
     <img src="./assets/contributions/pycollada--pycollada-compact-light-42e3fe7b27dc.svg" width="250" alt="pycollada/pycollada — Report missing primitive offsets with the correct parser error. Merged: #165. 251 stars." />
+  </picture>
+  </a>
+  <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-c05b29301133.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-baee18afe264.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 226 stars." />
   </picture>
   </a>
   <a href="https://github.com/ryanrosello-og/playwright-slack-report/pull/494">

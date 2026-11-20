@@ -9,7 +9,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82109
+      "stars": 82126
     },
     {
       "repo": "py-pdf/pypdf",
@@ -23,7 +23,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10304
+      "stars": 10303
     },
     {
       "repo": "fonttools/fonttools",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3774
+      "stars": 3780
     },
     {
       "repo": "mikedh/trimesh",
@@ -66,6 +66,16 @@
       "stars": 2323
     },
     {
+      "repo": "pydicom/pydicom",
+      "prs": [
+        {
+          "number": 2394,
+          "title": "Raise EOFError, not struct.error, for a file cut inside an element length"
+        }
+      ],
+      "stars": 2238
+    },
+    {
       "repo": "erocarrera/pefile",
       "prs": [
         {
@@ -83,7 +93,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1597
+      "stars": 1598
     },
     {
       "repo": "mozman/ezdxf",
@@ -97,7 +107,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1539
+      "stars": 1541
     },
     {
       "repo": "nipy/nibabel",
@@ -148,24 +158,6 @@
       "stars": 368
     },
     {
-      "repo": "gopherium/gophenberg",
-      "prs": [
-        {
-          "number": 491,
-          "title": "Keep root pagination addresses reserved"
-        },
-        {
-          "number": 493,
-          "title": "Keep the latest definitions file selected for import"
-        },
-        {
-          "number": 618,
-          "title": "Clarify when long jump updates take the site down."
-        }
-      ],
-      "stars": 327
-    },
-    {
       "repo": "flint-fyi/flint",
       "prs": [
         {
@@ -202,6 +194,24 @@
         }
       ],
       "stars": 251
+    },
+    {
+      "repo": "gopherium/gophenberg",
+      "prs": [
+        {
+          "number": 491,
+          "title": "Keep root pagination addresses reserved"
+        },
+        {
+          "number": 493,
+          "title": "Keep the latest definitions file selected for import"
+        },
+        {
+          "number": 618,
+          "title": "Clarify when long jump updates take the site down."
+        }
+      ],
+      "stars": 226
     },
     {
       "repo": "ryanrosello-og/playwright-slack-report",
