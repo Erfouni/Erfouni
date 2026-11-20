@@ -9,7 +9,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82126
+      "stars": 82155
     },
     {
       "repo": "py-pdf/pypdf",
@@ -23,7 +23,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10303
+      "stars": 10304
     },
     {
       "repo": "fonttools/fonttools",
@@ -33,7 +33,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5330
+      "stars": 5332
     },
     {
       "repo": "gumyr/build123d",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3780
+      "stars": 3786
     },
     {
       "repo": "mikedh/trimesh",
@@ -107,7 +107,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1541
+      "stars": 1542
     },
     {
       "repo": "nipy/nibabel",
