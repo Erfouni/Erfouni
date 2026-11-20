@@ -39,26 +39,26 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/ruvnet/ruflo/pull/4822">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-afbbeeca7ea4.svg" />
-    <img src="./assets/contributions/ruvnet--ruflo-compact-light-a7ba1fe3bf77.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,155 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-5adeaf875806.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-6e546c52c42a.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,167 stars." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-b21dbccb5a1d.svg" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light-f60566d50e5d.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,304 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-0ff528ad4f9d.svg" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-ea4e113758ce.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,305 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-9cff5de56d57.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-999641e3f903.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,332 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-3c9e5b47a6eb.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-737d85a24d79.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,333 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-db17b80da556.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-761928dfa7d3.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,786 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-b2999df44ce3.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-7b01bdd54833.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,791 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -147,8 +147,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-c05b29301133.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-baee18afe264.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 226 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-11ac31cda264.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-319ad56af60d.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 225 stars." />
   </picture>
   </a>
   <a href="https://github.com/ryanrosello-og/playwright-slack-report/pull/494">
@@ -187,16 +187,16 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/gustavobaranda--chatflow-agent-compact-light-8f6628397a3b.svg" width="250" alt="GustavoBaranda/chatflow-agent — fix(runner): persist metadata updates on every turn Merged: #95. 25 stars." />
   </picture>
   </a>
+  <a href="https://github.com/BistaDinesh03/critique/pull/89">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/bistadinesh03--critique-compact-dark-9c62d1c6aed0.svg" />
+    <img src="./assets/contributions/bistadinesh03--critique-compact-light-33457ca2d194.svg" width="250" alt="BistaDinesh03/critique — fix(auth): honor configured session lifetime Merged: #89. 19 stars." />
+  </picture>
+  </a>
   <a href="https://github.com/rajfirke/provena/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/rajfirke--provena-compact-dark-788a423e512e.svg" />
     <img src="./assets/contributions/rajfirke--provena-compact-light-14dfde97a9ee.svg" width="250" alt="rajfirke/provena — fix: normalize query timestamp bounds to UTC Merged: #235, #245. 19 stars." />
-  </picture>
-  </a>
-  <a href="https://github.com/BistaDinesh03/critique/pull/89">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/bistadinesh03--critique-compact-dark-810c04aed285.svg" />
-    <img src="./assets/contributions/bistadinesh03--critique-compact-light-d502acdff1a4.svg" width="250" alt="BistaDinesh03/critique — fix(auth): honor configured session lifetime Merged: #89. 18 stars." />
   </picture>
   </a>
   <a href="https://github.com/whut09/Awesome-AI-Engineering-Agents/pull/2">
