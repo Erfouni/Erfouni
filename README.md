@@ -39,8 +39,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/ruvnet/ruflo/pull/4822">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-33714546cbbc.svg" />
-    <img src="./assets/contributions/ruvnet--ruflo-compact-light-12b04332be71.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,094 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-1a6645db10af.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-a88ddac40693.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,109 stars." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -51,14 +51,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-3cd0d68156f6.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-81f3c677294a.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,331 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-57acd2c5f8ab.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-465fb2a18429.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,330 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-e308fa0a38ae.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-5e48a78b28c5.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,773 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-22afa2c9188a.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-b5579ce14a3a.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,774 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -69,26 +69,26 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-409864fc4526.svg" />
-    <img src="./assets/contributions/cantools--cantools-compact-light-7b3d7b16d844.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,325 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-ea78ed6bb0dc.svg" />
+    <img src="./assets/contributions/cantools--cantools-compact-light-dfd667012d52.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,323 stars." />
   </picture>
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-b67b248925f2.svg" />
-    <img src="./assets/contributions/erocarrera--pefile-compact-light-57dccd85ad68.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,088 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-c9e6e7fcbbf2.svg" />
+    <img src="./assets/contributions/erocarrera--pefile-compact-light-232b6d9c3d29.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,087 stars." />
   </picture>
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-68b1269388c1.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-f33d4c8fd861.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,594 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-cbc6e942d72a.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-98c7cc724a45.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,597 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-0c391a577228.svg" />
-    <img src="./assets/contributions/mozman--ezdxf-compact-light-b71b1bc82052.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,540 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-6ec432f81daa.svg" />
+    <img src="./assets/contributions/mozman--ezdxf-compact-light-d44ec36e0562.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,539 stars." />
   </picture>
   </a>
 </p>
@@ -111,14 +111,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/dranjan/python-plyfile/pull/91">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/dranjan--python-plyfile-compact-dark-5b3898f2a723.svg" />
-    <img src="./assets/contributions/dranjan--python-plyfile-compact-light-db99369e8b69.svg" width="250" alt="dranjan/python-plyfile — Handle non-ASCII PLY headers with a clear parsing error. Merged: #91. 516 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/dranjan--python-plyfile-compact-dark-448cc3bc1129.svg" />
+    <img src="./assets/contributions/dranjan--python-plyfile-compact-light-08f04c87f635.svg" width="250" alt="dranjan/python-plyfile — Handle non-ASCII PLY headers with a clear parsing error. Merged: #91. 515 stars." />
   </picture>
   </a>
   <a href="https://github.com/eea/odfpy/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/eea--odfpy-compact-dark-0b4b0887af42.svg" />
-    <img src="./assets/contributions/eea--odfpy-compact-light-96fdd7e7ac2d.svg" width="250" alt="eea/odfpy — Tolerate malformed numeric fields in text and XHTML extraction. Merged: #158, #159. 369 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/eea--odfpy-compact-dark-fcc4339a2ee6.svg" />
+    <img src="./assets/contributions/eea--odfpy-compact-light-868a39d7cfbe.svg" width="250" alt="eea/odfpy — Tolerate malformed numeric fields in text and XHTML extraction. Merged: #158, #159. 368 stars." />
   </picture>
   </a>
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">

@@ -9,7 +9,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82094
+      "stars": 82109
     },
     {
       "repo": "py-pdf/pypdf",
@@ -33,7 +33,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5331
+      "stars": 5330
     },
     {
       "repo": "gumyr/build123d",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3773
+      "stars": 3774
     },
     {
       "repo": "mikedh/trimesh",
@@ -63,7 +63,7 @@
           "title": "DBC: don't fail the load when VFrameFormat has no default"
         }
       ],
-      "stars": 2325
+      "stars": 2323
     },
     {
       "repo": "erocarrera/pefile",
@@ -73,7 +73,7 @@
           "title": "Fix crash when the dynamic relocation table header is cut short"
         }
       ],
-      "stars": 2088
+      "stars": 2087
     },
     {
       "repo": "hashgraph-online/awesome-codex-plugins",
@@ -83,7 +83,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1594
+      "stars": 1597
     },
     {
       "repo": "mozman/ezdxf",
@@ -97,7 +97,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1540
+      "stars": 1539
     },
     {
       "repo": "nipy/nibabel",
@@ -131,7 +131,7 @@
           "title": "Raise PlyHeaderParseError instead of UnicodeDecodeError on a non-ASCII header"
         }
       ],
-      "stars": 516
+      "stars": 515
     },
     {
       "repo": "eea/odfpy",
@@ -145,7 +145,7 @@
           "title": "odf2xhtml: don't crash on a malformed numeric attribute"
         }
       ],
-      "stars": 369
+      "stars": 368
     },
     {
       "repo": "gopherium/gophenberg",
