@@ -9,7 +9,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82167
+      "stars": 82172
     },
     {
       "repo": "py-pdf/pypdf",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3791
+      "stars": 3795
     },
     {
       "repo": "mikedh/trimesh",
@@ -93,7 +93,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1598
+      "stars": 1596
     },
     {
       "repo": "mozman/ezdxf",
@@ -107,7 +107,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1542
+      "stars": 1543
     },
     {
       "repo": "nipy/nibabel",

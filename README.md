@@ -39,8 +39,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/ruvnet/ruflo/pull/4822">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-5adeaf875806.svg" />
-    <img src="./assets/contributions/ruvnet--ruflo-compact-light-6e546c52c42a.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,167 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-2afa348d71cb.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-c49da2ef2250.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,172 stars." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -57,8 +57,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-b2999df44ce3.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-7b01bdd54833.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,791 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-8c8d716da04d.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-59599d29442e.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,795 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -87,8 +87,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-40aca486d4f8.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-001896c5bea2.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,598 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-71e1ccf93992.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-e2eefebd4d07.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,596 stars." />
   </picture>
   </a>
 </p>
@@ -99,8 +99,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-ac7f95816b1f.svg" />
-    <img src="./assets/contributions/mozman--ezdxf-compact-light-18722c557bc9.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,542 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-616a01501d43.svg" />
+    <img src="./assets/contributions/mozman--ezdxf-compact-light-b552b0b88803.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,543 stars." />
   </picture>
   </a>
   <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
