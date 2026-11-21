@@ -9,7 +9,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82195
+      "stars": 82213
     },
     {
       "repo": "py-pdf/pypdf",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3804
+      "stars": 3812
     },
     {
       "repo": "mikedh/trimesh",
@@ -107,7 +107,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1543
+      "stars": 1544
     },
     {
       "repo": "nipy/nibabel",
@@ -355,7 +355,7 @@
           "title": "Fix the remaining Windows test-suite failures"
         }
       ],
-      "stars": 8
+      "stars": 9
     },
     {
       "repo": "PicadoLabs/build-with-ai",
