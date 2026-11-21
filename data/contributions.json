@@ -9,7 +9,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82172
+      "stars": 82195
     },
     {
       "repo": "py-pdf/pypdf",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3795
+      "stars": 3804
     },
     {
       "repo": "mikedh/trimesh",
@@ -53,7 +53,7 @@
           "title": "Raise a clear error for out-of-range face indices in OFF files"
         }
       ],
-      "stars": 3728
+      "stars": 3730
     },
     {
       "repo": "cantools/cantools",
@@ -83,7 +83,7 @@
           "title": "Fix crash when the dynamic relocation table header is cut short"
         }
       ],
-      "stars": 2087
+      "stars": 2088
     },
     {
       "repo": "hashgraph-online/awesome-codex-plugins",
