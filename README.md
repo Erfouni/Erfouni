@@ -39,8 +39,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/ruvnet/ruflo/pull/4822">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-9eb9a026876b.svg" />
-    <img src="./assets/contributions/ruvnet--ruflo-compact-light-66d965ab58ce.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,225 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-aff456d21e0c.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-9507baaf38a1.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,239 stars." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -57,8 +57,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-9197dedc35fb.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-2a9aedef0aa7.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,814 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-fbf80eeee575.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-3520eaeb21b2.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,816 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -81,8 +81,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-b67b248925f2.svg" />
-    <img src="./assets/contributions/erocarrera--pefile-compact-light-57dccd85ad68.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,088 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-78d9fb746201.svg" />
+    <img src="./assets/contributions/erocarrera--pefile-compact-light-63ddf27cc8e1.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,090 stars." />
   </picture>
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
