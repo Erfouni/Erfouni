@@ -39,8 +39,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/ruvnet/ruflo/pull/4822">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-aff456d21e0c.svg" />
-    <img src="./assets/contributions/ruvnet--ruflo-compact-light-9507baaf38a1.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,239 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-4c1e841a5455.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-385ad317ed99.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,253 stars." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -51,14 +51,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-02b54e000488.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-7d5cebef32cf.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,334 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-43c13ef5c5ee.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-1d096b699869.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,335 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-fbf80eeee575.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-3520eaeb21b2.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,816 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-8eb393770565.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-e52971487d1d.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,818 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -69,8 +69,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-ea78ed6bb0dc.svg" />
-    <img src="./assets/contributions/cantools--cantools-compact-light-dfd667012d52.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,323 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-409864fc4526.svg" />
+    <img src="./assets/contributions/cantools--cantools-compact-light-7b3d7b16d844.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,325 stars." />
   </picture>
   </a>
   <a href="https://github.com/pydicom/pydicom/pull/2394">
@@ -87,8 +87,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-71e1ccf93992.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-e2eefebd4d07.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,596 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-40aca486d4f8.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-001896c5bea2.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,598 stars." />
   </picture>
   </a>
 </p>

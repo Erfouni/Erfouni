@@ -9,7 +9,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82239
+      "stars": 82253
     },
     {
       "repo": "py-pdf/pypdf",
@@ -33,7 +33,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5334
+      "stars": 5335
     },
     {
       "repo": "gumyr/build123d",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3816
+      "stars": 3818
     },
     {
       "repo": "mikedh/trimesh",
@@ -63,7 +63,7 @@
           "title": "DBC: don't fail the load when VFrameFormat has no default"
         }
       ],
-      "stars": 2323
+      "stars": 2325
     },
     {
       "repo": "pydicom/pydicom",
@@ -93,7 +93,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1596
+      "stars": 1598
     },
     {
       "repo": "mozman/ezdxf",
