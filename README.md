@@ -30,41 +30,47 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark-777142b07fb6.svg" />
-    <img src="./assets/contributions/impact-compact-light-4e56775a9e55.svg" width="758" alt="Open Source Impact — 39 external projects, 59 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark-b21142d01707.svg" />
+    <img src="./assets/contributions/impact-compact-light-02c5065ec48c.svg" width="758" alt="Open Source Impact — 40 external projects, 60 merged pull requests" />
   </picture>
 </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/storybookjs/storybook/pull/37234">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/storybookjs--storybook-compact-dark-8187d39dae66.svg" />
+    <img src="./assets/contributions/storybookjs--storybook-compact-light-7efc8768e05c.svg" width="250" alt="storybookjs/storybook — Core: Keep component icons for components with subcomponents Merged: #37234. 91,696 stars." />
+  </picture>
+  </a>
   <a href="https://github.com/ruvnet/ruflo/pull/4822">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-49db6ccdda90.svg" />
-    <img src="./assets/contributions/ruvnet--ruflo-compact-light-2585ca275ae0.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,302 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-fec7fa71d2a7.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-dc7fed6162d5.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,324 stars." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-ca22fa3e1a37.svg" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light-b53016c7698b.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,306 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-05eb4a06b618.svg" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-29f1feb24218.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,307 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-02b54e000488.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-7d5cebef32cf.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,334 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-d86aff0a4586.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-b4248f1d4722.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,336 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-61b6bd6db2f9.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-731fa710ed80.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,825 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-c4f5e9900f58.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-be4a85c2f08a.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,831 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-b2257b849bb2.svg" />
-    <img src="./assets/contributions/mikedh--trimesh-compact-light-2b491719d55c.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,730 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-b4820f3e5a69.svg" />
+    <img src="./assets/contributions/mikedh--trimesh-compact-light-a904472e6f4a.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,729 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -75,32 +81,32 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/pydicom/pydicom/pull/2394">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/pydicom--pydicom-compact-dark-56f7ed1ac60c.svg" />
-    <img src="./assets/contributions/pydicom--pydicom-compact-light-8dc34096dc64.svg" width="250" alt="pydicom/pydicom — Raise EOFError, not struct.error, for a file cut inside an element length Merged: #2394. 2,238 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/pydicom--pydicom-compact-dark-271a7b15f5b6.svg" />
+    <img src="./assets/contributions/pydicom--pydicom-compact-light-b2ed98a04449.svg" width="250" alt="pydicom/pydicom — Raise EOFError, not struct.error, for a file cut inside an element length Merged: #2394. 2,240 stars." />
   </picture>
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-3cae44fdcf2a.svg" />
-    <img src="./assets/contributions/erocarrera--pefile-compact-light-0c7b573f65dc.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,091 stars." />
-  </picture>
-  </a>
-  <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-21e78e450e4a.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-e1a9a282dedd.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,601 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-a75a7f09a491.svg" />
+    <img src="./assets/contributions/erocarrera--pefile-compact-light-a1eee705ef90.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,092 stars." />
   </picture>
   </a>
 </p>
 
 <details>
-<summary>Show 30 more projects</summary>
+<summary>Show 31 more projects</summary>
 
 <p align="center">
+  <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-b10b4939c580.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-26d91193bba6.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,603 stars." />
+  </picture>
+  </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-39ce79dc54c6.svg" />
-    <img src="./assets/contributions/mozman--ezdxf-compact-light-746a37e92497.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,545 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-8db7de9ece7a.svg" />
+    <img src="./assets/contributions/mozman--ezdxf-compact-light-5fc6cd008ad2.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,546 stars." />
   </picture>
   </a>
   <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -129,8 +135,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/flint-fyi/flint/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/flint-fyi--flint-compact-dark-fd032585bcb5.svg" />
-    <img src="./assets/contributions/flint-fyi--flint-compact-light-7e8b42e94969.svg" width="250" alt="flint-fyi/flint — fix(rule-data): add missing YAML rule mappings Merged: #3709, #3711, #3712. 316 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/flint-fyi--flint-compact-dark-70e26081e7c7.svg" />
+    <img src="./assets/contributions/flint-fyi--flint-compact-light-10c065187e10.svg" width="250" alt="flint-fyi/flint — fix(rule-data): add missing YAML rule mappings Merged: #3709, #3711, #3712. 317 stars." />
   </picture>
   </a>
   <a href="https://github.com/oras-project/oras-go/pull/1697">

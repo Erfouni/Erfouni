@@ -2,6 +2,16 @@
   "username": "Erfouni",
   "projects": [
     {
+      "repo": "storybookjs/storybook",
+      "prs": [
+        {
+          "number": 37234,
+          "title": "Core: Keep component icons for components with subcomponents"
+        }
+      ],
+      "stars": 91696
+    },
+    {
       "repo": "ruvnet/ruflo",
       "prs": [
         {
@@ -9,7 +19,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82302
+      "stars": 82324
     },
     {
       "repo": "py-pdf/pypdf",
@@ -23,7 +33,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10306
+      "stars": 10307
     },
     {
       "repo": "fonttools/fonttools",
@@ -33,7 +43,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5334
+      "stars": 5336
     },
     {
       "repo": "gumyr/build123d",
@@ -43,7 +53,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3825
+      "stars": 3831
     },
     {
       "repo": "mikedh/trimesh",
@@ -53,7 +63,7 @@
           "title": "Raise a clear error for out-of-range face indices in OFF files"
         }
       ],
-      "stars": 3730
+      "stars": 3729
     },
     {
       "repo": "cantools/cantools",
@@ -73,7 +83,7 @@
           "title": "Raise EOFError, not struct.error, for a file cut inside an element length"
         }
       ],
-      "stars": 2238
+      "stars": 2240
     },
     {
       "repo": "erocarrera/pefile",
@@ -83,7 +93,7 @@
           "title": "Fix crash when the dynamic relocation table header is cut short"
         }
       ],
-      "stars": 2091
+      "stars": 2092
     },
     {
       "repo": "hashgraph-online/awesome-codex-plugins",
@@ -93,7 +103,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1601
+      "stars": 1603
     },
     {
       "repo": "mozman/ezdxf",
@@ -107,7 +117,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1545
+      "stars": 1546
     },
     {
       "repo": "nipy/nibabel",
@@ -173,7 +183,7 @@
           "title": "fix(rule-data): add missing YAML rule mappings"
         }
       ],
-      "stars": 316
+      "stars": 317
     },
     {
       "repo": "oras-project/oras-go",
