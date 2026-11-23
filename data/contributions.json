@@ -9,7 +9,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82270
+      "stars": 82281
     },
     {
       "repo": "py-pdf/pypdf",
@@ -23,7 +23,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10305
+      "stars": 10306
     },
     {
       "repo": "fonttools/fonttools",
@@ -43,7 +43,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3820
+      "stars": 3821
     },
     {
       "repo": "mikedh/trimesh",
@@ -93,7 +93,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1598
+      "stars": 1599
     },
     {
       "repo": "mozman/ezdxf",
@@ -358,16 +358,6 @@
       "stars": 9
     },
     {
-      "repo": "PicadoLabs/build-with-ai",
-      "prs": [
-        {
-          "number": 175,
-          "title": "fix(templates): resolve custom templates in the requested workspace"
-        }
-      ],
-      "stars": 8
-    },
-    {
       "repo": "oscarbol09/jvm-mcp",
       "prs": [
         {
@@ -379,7 +369,17 @@
           "title": "fix(core): serialize paths as JSON strings"
         }
       ],
-      "stars": 7
+      "stars": 8
+    },
+    {
+      "repo": "PicadoLabs/build-with-ai",
+      "prs": [
+        {
+          "number": 175,
+          "title": "fix(templates): resolve custom templates in the requested workspace"
+        }
+      ],
+      "stars": 8
     },
     {
       "repo": "duramson/eeg-bewegungsdaten",

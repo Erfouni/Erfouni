@@ -39,14 +39,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/ruvnet/ruflo/pull/4822">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-77d6a5c1a11b.svg" />
-    <img src="./assets/contributions/ruvnet--ruflo-compact-light-fd3da4be834f.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,270 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-352df3e4fe31.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-45caaeb56341.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,281 stars." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-0ff528ad4f9d.svg" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light-ea4e113758ce.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,305 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-ca22fa3e1a37.svg" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-b53016c7698b.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,306 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
@@ -57,8 +57,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-7163fb6f32c8.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-31bb4873ca25.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,820 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-fde9945ce260.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-955774079e96.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,821 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -87,8 +87,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-40aca486d4f8.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-001896c5bea2.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,598 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-ca7085d704f2.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-0f0f4a25c4b0.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,599 stars." />
   </picture>
   </a>
 </p>
@@ -211,16 +211,16 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <img src="./assets/contributions/alessioricco--certo-compact-light-cae1906648de.svg" width="250" alt="alessioricco/Certo — Fix the remaining Windows test-suite failures Merged: #8, #29. 9 stars." />
   </picture>
   </a>
+  <a href="https://github.com/oscarbol09/jvm-mcp/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oscarbol09--jvm-mcp-compact-dark-73781f7778a3.svg" />
+    <img src="./assets/contributions/oscarbol09--jvm-mcp-compact-light-8439d56406b5.svg" width="250" alt="oscarbol09/jvm-mcp — fix(core): serialize paths as JSON strings Merged: #96, #228. 8 stars." />
+  </picture>
+  </a>
   <a href="https://github.com/PicadoLabs/build-with-ai/pull/175">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/picadolabs--build-with-ai-compact-dark-18a1d20740e9.svg" />
     <img src="./assets/contributions/picadolabs--build-with-ai-compact-light-98123cd9ca87.svg" width="250" alt="PicadoLabs/build-with-ai — fix(templates): resolve custom templates in the requested workspace Merged: #175. 8 stars." />
-  </picture>
-  </a>
-  <a href="https://github.com/oscarbol09/jvm-mcp/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/oscarbol09--jvm-mcp-compact-dark-f35dff245503.svg" />
-    <img src="./assets/contributions/oscarbol09--jvm-mcp-compact-light-99980e496dfd.svg" width="250" alt="oscarbol09/jvm-mcp — fix(core): serialize paths as JSON strings Merged: #96, #228. 7 stars." />
   </picture>
   </a>
   <a href="https://github.com/duramson/eeg-bewegungsdaten/pull/8">
