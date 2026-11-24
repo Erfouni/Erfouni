@@ -19,7 +19,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82324
+      "stars": 82336
     },
     {
       "repo": "py-pdf/pypdf",
@@ -53,7 +53,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3831
+      "stars": 3834
     },
     {
       "repo": "mikedh/trimesh",
@@ -83,7 +83,7 @@
           "title": "Raise EOFError, not struct.error, for a file cut inside an element length"
         }
       ],
-      "stars": 2240
+      "stars": 2241
     },
     {
       "repo": "erocarrera/pefile",
@@ -103,7 +103,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1603
+      "stars": 1606
     },
     {
       "repo": "mozman/ezdxf",
@@ -117,7 +117,7 @@
           "title": "meshex.stl_loadb: raise ParsingError, not a raw struct.error, on a too-short buffer"
         }
       ],
-      "stars": 1546
+      "stars": 1547
     },
     {
       "repo": "nipy/nibabel",
@@ -231,7 +231,7 @@
           "title": "Handle run failures in the simple custom layout"
         }
       ],
-      "stars": 150
+      "stars": 151
     },
     {
       "repo": "Avenx-JS/avenx-js",
@@ -317,7 +317,7 @@
           "title": "fix(runner): persist metadata updates on every turn"
         }
       ],
-      "stars": 25
+      "stars": 24
     },
     {
       "repo": "BistaDinesh03/critique",

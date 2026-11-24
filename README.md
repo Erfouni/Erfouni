@@ -45,8 +45,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/ruvnet/ruflo/pull/4822">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-fec7fa71d2a7.svg" />
-    <img src="./assets/contributions/ruvnet--ruflo-compact-light-dc7fed6162d5.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,324 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-f14781ff25c1.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-c41e0c431a21.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,336 stars." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -63,8 +63,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-c4f5e9900f58.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-be4a85c2f08a.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,831 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-1642170674b1.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-5d573b908812.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,834 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -81,8 +81,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/pydicom/pydicom/pull/2394">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/pydicom--pydicom-compact-dark-271a7b15f5b6.svg" />
-    <img src="./assets/contributions/pydicom--pydicom-compact-light-b2ed98a04449.svg" width="250" alt="pydicom/pydicom — Raise EOFError, not struct.error, for a file cut inside an element length Merged: #2394. 2,240 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/pydicom--pydicom-compact-dark-d8791b464374.svg" />
+    <img src="./assets/contributions/pydicom--pydicom-compact-light-cd00930781b8.svg" width="250" alt="pydicom/pydicom — Raise EOFError, not struct.error, for a file cut inside an element length Merged: #2394. 2,241 stars." />
   </picture>
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
@@ -99,14 +99,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-b10b4939c580.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-26d91193bba6.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,603 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-45807db8cfd1.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-f6148e8ad4cb.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,606 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-8db7de9ece7a.svg" />
-    <img src="./assets/contributions/mozman--ezdxf-compact-light-5fc6cd008ad2.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,546 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mozman--ezdxf-compact-dark-b86ab4034f57.svg" />
+    <img src="./assets/contributions/mozman--ezdxf-compact-light-635a64d6ab51.svg" width="250" alt="mozman/ezdxf — Correct OBJ vertex parsing and handle truncated binary STL. Merged: #1423, #1424. 1,547 stars." />
   </picture>
   </a>
   <a href="https://github.com/nipy/nibabel/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -159,8 +159,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/ryanrosello-og/playwright-slack-report/pull/494">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ryanrosello-og--playwright-slack-report-compact-dark-fd0a50210536.svg" />
-    <img src="./assets/contributions/ryanrosello-og--playwright-slack-report-compact-light-d40c09272f8b.svg" width="250" alt="ryanrosello-og/playwright-slack-report — Handle run failures in the simple custom layout Merged: #494. 150 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ryanrosello-og--playwright-slack-report-compact-dark-1253e88091a0.svg" />
+    <img src="./assets/contributions/ryanrosello-og--playwright-slack-report-compact-light-fad71417ad8e.svg" width="250" alt="ryanrosello-og/playwright-slack-report — Handle run failures in the simple custom layout Merged: #494. 151 stars." />
   </picture>
   </a>
   <a href="https://github.com/Avenx-JS/avenx-js/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -189,8 +189,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/GustavoBaranda/chatflow-agent/pull/95">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gustavobaranda--chatflow-agent-compact-dark-794905bed9a8.svg" />
-    <img src="./assets/contributions/gustavobaranda--chatflow-agent-compact-light-8f6628397a3b.svg" width="250" alt="GustavoBaranda/chatflow-agent — fix(runner): persist metadata updates on every turn Merged: #95. 25 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gustavobaranda--chatflow-agent-compact-dark-a97820e2b80e.svg" />
+    <img src="./assets/contributions/gustavobaranda--chatflow-agent-compact-light-c2f1a824d39d.svg" width="250" alt="GustavoBaranda/chatflow-agent — fix(runner): persist metadata updates on every turn Merged: #95. 24 stars." />
   </picture>
   </a>
   <a href="https://github.com/BistaDinesh03/critique/pull/89">
