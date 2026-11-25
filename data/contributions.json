@@ -9,7 +9,7 @@
           "title": "Core: Keep component icons for components with subcomponents"
         }
       ],
-      "stars": 91714
+      "stars": 91715
     },
     {
       "repo": "ruvnet/ruflo",
@@ -19,7 +19,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82376
+      "stars": 82394
     },
     {
       "repo": "py-pdf/pypdf",
@@ -33,7 +33,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10313
+      "stars": 10315
     },
     {
       "repo": "fonttools/fonttools",
@@ -43,7 +43,7 @@
           "title": "svgLib.path: raise a clear ValueError instead of IndexError on a truncated command"
         }
       ],
-      "stars": 5337
+      "stars": 5338
     },
     {
       "repo": "gumyr/build123d",
@@ -53,7 +53,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3842
+      "stars": 3851
     },
     {
       "repo": "mikedh/trimesh",
@@ -63,7 +63,7 @@
           "title": "Raise a clear error for out-of-range face indices in OFF files"
         }
       ],
-      "stars": 3729
+      "stars": 3730
     },
     {
       "repo": "cantools/cantools",
@@ -103,7 +103,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1608
+      "stars": 1611
     },
     {
       "repo": "mozman/ezdxf",
@@ -221,7 +221,7 @@
           "title": "Clarify when long jump updates take the site down."
         }
       ],
-      "stars": 224
+      "stars": 223
     },
     {
       "repo": "ryanrosello-og/playwright-slack-report",
