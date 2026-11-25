@@ -39,20 +39,20 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/storybookjs/storybook/pull/37234">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/storybookjs--storybook-compact-dark-11d15afdd79f.svg" />
-    <img src="./assets/contributions/storybookjs--storybook-compact-light-ba1a2b87afcb.svg" width="250" alt="storybookjs/storybook — Core: Keep component icons for components with subcomponents Merged: #37234. 91,705 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/storybookjs--storybook-compact-dark-3d8049159131.svg" />
+    <img src="./assets/contributions/storybookjs--storybook-compact-light-c773c00b05d8.svg" width="250" alt="storybookjs/storybook — Core: Keep component icons for components with subcomponents Merged: #37234. 91,714 stars." />
   </picture>
   </a>
   <a href="https://github.com/ruvnet/ruflo/pull/4822">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-94c85710f4e4.svg" />
-    <img src="./assets/contributions/ruvnet--ruflo-compact-light-68c624162f17.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,351 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-129c84b23629.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-90377e830c0d.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,376 stars." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-5ec309ce5bbd.svg" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light-8517fb98d26f.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,310 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-a1f44519bd35.svg" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-63b31e2de433.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,313 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
@@ -63,8 +63,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-e2106138e961.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-e1e5f1e0f53a.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,837 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-28fb51c8a2f3.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-7807234316e5.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,842 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -99,8 +99,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-5a65024a48a4.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-be07424a1208.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,607 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-d3934934d5ae.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-c15cb770b9f5.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,608 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -153,8 +153,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-11ac31cda264.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-319ad56af60d.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 225 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-c4b894a07ba5.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-524185634e57.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 224 stars." />
   </picture>
   </a>
   <a href="https://github.com/ryanrosello-og/playwright-slack-report/pull/494">
