@@ -9,7 +9,7 @@
           "title": "Core: Keep component icons for components with subcomponents"
         }
       ],
-      "stars": 91729
+      "stars": 91734
     },
     {
       "repo": "ruvnet/ruflo",
@@ -19,7 +19,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82448
+      "stars": 82493
     },
     {
       "repo": "py-pdf/pypdf",
@@ -53,7 +53,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3863
+      "stars": 3868
     },
     {
       "repo": "mikedh/trimesh",
@@ -73,7 +73,7 @@
           "title": "DBC: don't fail the load when VFrameFormat has no default"
         }
       ],
-      "stars": 2325
+      "stars": 2328
     },
     {
       "repo": "pydicom/pydicom",
