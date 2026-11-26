@@ -39,20 +39,20 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/storybookjs/storybook/pull/37234">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/storybookjs--storybook-compact-dark-fa068332b2be.svg" />
-    <img src="./assets/contributions/storybookjs--storybook-compact-light-d63c0a579f02.svg" width="250" alt="storybookjs/storybook — Core: Keep component icons for components with subcomponents Merged: #37234. 91,727 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/storybookjs--storybook-compact-dark-327b8403db58.svg" />
+    <img src="./assets/contributions/storybookjs--storybook-compact-light-4ee167b7c425.svg" width="250" alt="storybookjs/storybook — Core: Keep component icons for components with subcomponents Merged: #37234. 91,729 stars." />
   </picture>
   </a>
   <a href="https://github.com/ruvnet/ruflo/pull/4822">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-728dd305ee8f.svg" />
-    <img src="./assets/contributions/ruvnet--ruflo-compact-light-0d8168ded40c.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,427 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-a3269cc0d39d.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-7dc139435d26.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,448 stars." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-df560e4d32d8.svg" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light-2f5e9f61ef24.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,317 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-707272148e05.svg" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-0a80d24d81a8.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,319 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
@@ -63,14 +63,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-a00de627ed4d.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-52b694892daa.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,856 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-822c15c8b3d3.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-aaedc7a4f854.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,863 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-b2257b849bb2.svg" />
-    <img src="./assets/contributions/mikedh--trimesh-compact-light-2b491719d55c.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,730 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-74ce50d0d669.svg" />
+    <img src="./assets/contributions/mikedh--trimesh-compact-light-8cc4bd52fb06.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,731 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -117,8 +117,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/mathandy/svgpathtools/pull/253">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mathandy--svgpathtools-compact-dark-53b3de66f342.svg" />
-    <img src="./assets/contributions/mathandy--svgpathtools-compact-light-4c319e44815a.svg" width="250" alt="mathandy/svgpathtools — Read SVG paths without path data without aborting the document. Merged: #253. 642 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mathandy--svgpathtools-compact-dark-6469f9193a9f.svg" />
+    <img src="./assets/contributions/mathandy--svgpathtools-compact-light-b977e3c05735.svg" width="250" alt="mathandy/svgpathtools — Read SVG paths without path data without aborting the document. Merged: #253. 643 stars." />
   </picture>
   </a>
   <a href="https://github.com/dranjan/python-plyfile/pull/91">
@@ -171,8 +171,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/8f4e/8f4e/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/8f4e--8f4e-compact-dark-9c63b5d639dd.svg" />
-    <img src="./assets/contributions/8f4e--8f4e-compact-light-4ea2ec47cb6f.svg" width="250" alt="8f4e/8f4e — refactor(memory-reference-resolver): centralize metadata query resolution Merged: #1059, #1095, #1097, #1099, #1102, #1120, #1204, #1216. 44 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/8f4e--8f4e-compact-dark-ffcdd34224ec.svg" />
+    <img src="./assets/contributions/8f4e--8f4e-compact-light-e0b1a2eb5775.svg" width="250" alt="8f4e/8f4e — refactor(memory-reference-resolver): centralize metadata query resolution Merged: #1059, #1095, #1097, #1099, #1102, #1120, #1204, #1216. 45 stars." />
   </picture>
   </a>
   <a href="https://github.com/gopherium/gouncer/pull/105">

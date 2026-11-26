@@ -9,7 +9,7 @@
           "title": "Core: Keep component icons for components with subcomponents"
         }
       ],
-      "stars": 91727
+      "stars": 91729
     },
     {
       "repo": "ruvnet/ruflo",
@@ -19,7 +19,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82427
+      "stars": 82448
     },
     {
       "repo": "py-pdf/pypdf",
@@ -33,7 +33,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10317
+      "stars": 10319
     },
     {
       "repo": "fonttools/fonttools",
@@ -53,7 +53,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3856
+      "stars": 3863
     },
     {
       "repo": "mikedh/trimesh",
@@ -63,7 +63,7 @@
           "title": "Raise a clear error for out-of-range face indices in OFF files"
         }
       ],
-      "stars": 3730
+      "stars": 3731
     },
     {
       "repo": "cantools/cantools",
@@ -141,7 +141,7 @@
           "title": "svg2paths: don't crash on a <path> with no d attribute"
         }
       ],
-      "stars": 642
+      "stars": 643
     },
     {
       "repo": "dranjan/python-plyfile",
@@ -287,7 +287,7 @@
           "title": "refactor(memory-reference-resolver): centralize metadata query resolution"
         }
       ],
-      "stars": 44
+      "stars": 45
     },
     {
       "repo": "gopherium/gouncer",
