@@ -39,14 +39,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/storybookjs/storybook/pull/37234">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/storybookjs--storybook-compact-dark-1135f44b690f.svg" />
-    <img src="./assets/contributions/storybookjs--storybook-compact-light-0f6fc76a87e3.svg" width="250" alt="storybookjs/storybook — Core: Keep component icons for components with subcomponents Merged: #37234. 91,723 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/storybookjs--storybook-compact-dark-fa068332b2be.svg" />
+    <img src="./assets/contributions/storybookjs--storybook-compact-light-d63c0a579f02.svg" width="250" alt="storybookjs/storybook — Core: Keep component icons for components with subcomponents Merged: #37234. 91,727 stars." />
   </picture>
   </a>
   <a href="https://github.com/ruvnet/ruflo/pull/4822">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-794f971ebc91.svg" />
-    <img src="./assets/contributions/ruvnet--ruflo-compact-light-79d13fb90ffd.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,411 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-728dd305ee8f.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-0d8168ded40c.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,427 stars." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -57,14 +57,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-c198daeaa10a.svg" />
-    <img src="./assets/contributions/fonttools--fonttools-compact-light-db2a37a7bdf2.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,339 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/fonttools--fonttools-compact-dark-73e79f4005f8.svg" />
+    <img src="./assets/contributions/fonttools--fonttools-compact-light-943137f7b9a8.svg" width="250" alt="fonttools/fonttools — Explain truncated SVG commands with a useful validation error. Merged: #4254. 5,338 stars." />
   </picture>
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-a295c1f80044.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-0f05d25020de.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,853 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-a00de627ed4d.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-52b694892daa.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,856 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
@@ -99,8 +99,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-c3b460e40367.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-ae4cb5c42c50.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,612 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-f044d30a757f.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-18ac5f8f7eb4.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,613 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
