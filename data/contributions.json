@@ -9,7 +9,7 @@
           "title": "Core: Keep component icons for components with subcomponents"
         }
       ],
-      "stars": 91734
+      "stars": 91737
     },
     {
       "repo": "ruvnet/ruflo",
@@ -19,7 +19,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82493
+      "stars": 82513
     },
     {
       "repo": "py-pdf/pypdf",
@@ -33,7 +33,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10319
+      "stars": 10320
     },
     {
       "repo": "fonttools/fonttools",
@@ -53,7 +53,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3868
+      "stars": 3869
     },
     {
       "repo": "mikedh/trimesh",
@@ -73,7 +73,7 @@
           "title": "DBC: don't fail the load when VFrameFormat has no default"
         }
       ],
-      "stars": 2328
+      "stars": 2329
     },
     {
       "repo": "pydicom/pydicom",
@@ -83,7 +83,7 @@
           "title": "Raise EOFError, not struct.error, for a file cut inside an element length"
         }
       ],
-      "stars": 2241
+      "stars": 2242
     },
     {
       "repo": "erocarrera/pefile",
@@ -103,7 +103,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1613
+      "stars": 1614
     },
     {
       "repo": "mozman/ezdxf",
