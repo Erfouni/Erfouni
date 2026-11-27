@@ -9,7 +9,7 @@
           "title": "Core: Keep component icons for components with subcomponents"
         }
       ],
-      "stars": 91737
+      "stars": 91741
     },
     {
       "repo": "ruvnet/ruflo",
@@ -19,7 +19,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82513
+      "stars": 82535
     },
     {
       "repo": "py-pdf/pypdf",
@@ -53,7 +53,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3869
+      "stars": 3871
     },
     {
       "repo": "mikedh/trimesh",
@@ -63,7 +63,7 @@
           "title": "Raise a clear error for out-of-range face indices in OFF files"
         }
       ],
-      "stars": 3731
+      "stars": 3732
     },
     {
       "repo": "cantools/cantools",
@@ -73,7 +73,7 @@
           "title": "DBC: don't fail the load when VFrameFormat has no default"
         }
       ],
-      "stars": 2329
+      "stars": 2332
     },
     {
       "repo": "pydicom/pydicom",
@@ -83,7 +83,7 @@
           "title": "Raise EOFError, not struct.error, for a file cut inside an element length"
         }
       ],
-      "stars": 2242
+      "stars": 2243
     },
     {
       "repo": "erocarrera/pefile",
@@ -93,7 +93,7 @@
           "title": "Fix crash when the dynamic relocation table header is cut short"
         }
       ],
-      "stars": 2092
+      "stars": 2091
     },
     {
       "repo": "hashgraph-online/awesome-codex-plugins",
@@ -103,7 +103,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1614
+      "stars": 1618
     },
     {
       "repo": "mozman/ezdxf",

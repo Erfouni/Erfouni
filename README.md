@@ -39,14 +39,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/storybookjs/storybook/pull/37234">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/storybookjs--storybook-compact-dark-14690e80255e.svg" />
-    <img src="./assets/contributions/storybookjs--storybook-compact-light-348c03712ed7.svg" width="250" alt="storybookjs/storybook — Core: Keep component icons for components with subcomponents Merged: #37234. 91,737 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/storybookjs--storybook-compact-dark-c542057bf373.svg" />
+    <img src="./assets/contributions/storybookjs--storybook-compact-light-46582ae526cd.svg" width="250" alt="storybookjs/storybook — Core: Keep component icons for components with subcomponents Merged: #37234. 91,741 stars." />
   </picture>
   </a>
   <a href="https://github.com/ruvnet/ruflo/pull/4822">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-15f125b7081b.svg" />
-    <img src="./assets/contributions/ruvnet--ruflo-compact-light-67af2a444308.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,513 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-bfdd94d886a3.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-6e0a898e65a6.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,535 stars." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -63,32 +63,32 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-137b3401f630.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-d48987c26a83.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,869 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-3b281d0e3920.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-c64d7c930a79.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,871 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-74ce50d0d669.svg" />
-    <img src="./assets/contributions/mikedh--trimesh-compact-light-8cc4bd52fb06.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,731 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-a86840a9a99b.svg" />
+    <img src="./assets/contributions/mikedh--trimesh-compact-light-0fe604c11f43.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,732 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-250c4c017247.svg" />
-    <img src="./assets/contributions/cantools--cantools-compact-light-40ef70603b7a.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,329 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/cantools--cantools-compact-dark-66b33db63e77.svg" />
+    <img src="./assets/contributions/cantools--cantools-compact-light-0bccd3aaa304.svg" width="250" alt="cantools/cantools — DBC: don't fail the load when VFrameFormat has no default Merged: #857. 2,332 stars." />
   </picture>
   </a>
   <a href="https://github.com/pydicom/pydicom/pull/2394">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/pydicom--pydicom-compact-dark-226a6d45a4a6.svg" />
-    <img src="./assets/contributions/pydicom--pydicom-compact-light-aa5f8ca6a6f2.svg" width="250" alt="pydicom/pydicom — Raise EOFError, not struct.error, for a file cut inside an element length Merged: #2394. 2,242 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/pydicom--pydicom-compact-dark-62e039fd3308.svg" />
+    <img src="./assets/contributions/pydicom--pydicom-compact-light-a96fae131ec7.svg" width="250" alt="pydicom/pydicom — Raise EOFError, not struct.error, for a file cut inside an element length Merged: #2394. 2,243 stars." />
   </picture>
   </a>
   <a href="https://github.com/erocarrera/pefile/pull/633">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-a75a7f09a491.svg" />
-    <img src="./assets/contributions/erocarrera--pefile-compact-light-a1eee705ef90.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,092 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/erocarrera--pefile-compact-dark-3cae44fdcf2a.svg" />
+    <img src="./assets/contributions/erocarrera--pefile-compact-light-0c7b573f65dc.svg" width="250" alt="erocarrera/pefile — Fix crash when the dynamic relocation table header is cut short Merged: #633. 2,091 stars." />
   </picture>
   </a>
 </p>
@@ -99,8 +99,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-5348c6b43f63.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-06e0ce5914af.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,614 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-0fe8aa0bef89.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-5951308dfcfe.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,618 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
