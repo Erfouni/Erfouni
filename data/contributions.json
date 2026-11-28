@@ -9,7 +9,7 @@
           "title": "Core: Keep component icons for components with subcomponents"
         }
       ],
-      "stars": 91751
+      "stars": 91747
     },
     {
       "repo": "ruvnet/ruflo",
@@ -19,7 +19,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82560
+      "stars": 82566
     },
     {
       "repo": "py-pdf/pypdf",
@@ -53,7 +53,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3874
+      "stars": 3879
     },
     {
       "repo": "mikedh/trimesh",
