@@ -9,7 +9,7 @@
           "title": "Core: Keep component icons for components with subcomponents"
         }
       ],
-      "stars": 91747
+      "stars": 91752
     },
     {
       "repo": "ruvnet/ruflo",
@@ -19,7 +19,7 @@
           "title": "fix(memory): keep database locks owned during long writes"
         }
       ],
-      "stars": 82566
+      "stars": 82575
     },
     {
       "repo": "py-pdf/pypdf",
@@ -33,7 +33,7 @@
           "title": "ROB: Give a clear error for an out-of-range XMP date"
         }
       ],
-      "stars": 10321
+      "stars": 10320
     },
     {
       "repo": "fonttools/fonttools",
@@ -53,7 +53,7 @@
           "title": "Make ShapeList set de-duplication order deterministic"
         }
       ],
-      "stars": 3879
+      "stars": 3885
     },
     {
       "repo": "mikedh/trimesh",
@@ -63,7 +63,7 @@
           "title": "Raise a clear error for out-of-range face indices in OFF files"
         }
       ],
-      "stars": 3732
+      "stars": 3733
     },
     {
       "repo": "cantools/cantools",
@@ -103,7 +103,7 @@
           "title": "Add SolidWorks GPT Plugin"
         }
       ],
-      "stars": 1618
+      "stars": 1622
     },
     {
       "repo": "mozman/ezdxf",
@@ -221,7 +221,7 @@
           "title": "Clarify when long jump updates take the site down."
         }
       ],
-      "stars": 223
+      "stars": 221
     },
     {
       "repo": "ryanrosello-og/playwright-slack-report",
@@ -390,6 +390,16 @@
         }
       ],
       "stars": 8
+    },
+    {
+      "repo": "Elysium-Labs-EU/eos",
+      "prs": [
+        {
+          "number": 344,
+          "title": "fix: resolve home-relative runtime paths consistently"
+        }
+      ],
+      "stars": 4
     },
     {
       "repo": "duramson/eeg-bewegungsdaten",

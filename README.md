@@ -30,8 +30,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
 <a href="https://github.com/search?q=author%3AErfouni+is%3Apr+is%3Amerged+-user%3AErfouni&type=pullrequests">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark-b21142d01707.svg" />
-    <img src="./assets/contributions/impact-compact-light-02c5065ec48c.svg" width="758" alt="Open Source Impact — 40 external projects, 60 merged pull requests" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/impact-compact-dark-a2d1b7090a6a.svg" />
+    <img src="./assets/contributions/impact-compact-light-8219d301476b.svg" width="758" alt="Open Source Impact — 41 external projects, 61 merged pull requests" />
   </picture>
 </a>
 </p>
@@ -39,20 +39,20 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 <p align="center">
   <a href="https://github.com/storybookjs/storybook/pull/37234">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/storybookjs--storybook-compact-dark-bfcfa373bc17.svg" />
-    <img src="./assets/contributions/storybookjs--storybook-compact-light-56b50cb4c135.svg" width="250" alt="storybookjs/storybook — Core: Keep component icons for components with subcomponents Merged: #37234. 91,747 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/storybookjs--storybook-compact-dark-0b2768cb36f4.svg" />
+    <img src="./assets/contributions/storybookjs--storybook-compact-light-e44a74cebd9c.svg" width="250" alt="storybookjs/storybook — Core: Keep component icons for components with subcomponents Merged: #37234. 91,752 stars." />
   </picture>
   </a>
   <a href="https://github.com/ruvnet/ruflo/pull/4822">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-dc44fa0f6e69.svg" />
-    <img src="./assets/contributions/ruvnet--ruflo-compact-light-ec76e4b6961d.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,566 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/ruvnet--ruflo-compact-dark-65eaa6281628.svg" />
+    <img src="./assets/contributions/ruvnet--ruflo-compact-light-6f456e5eac86.svg" width="250" alt="ruvnet/ruflo — fix(memory): keep database locks owned during long writes Merged: #4822. 82,575 stars." />
   </picture>
   </a>
   <a href="https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-4f14c2aef01f.svg" />
-    <img src="./assets/contributions/py-pdf--pypdf-compact-light-04a6b0f02d0d.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,321 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/py-pdf--pypdf-compact-dark-a5205144b78a.svg" />
+    <img src="./assets/contributions/py-pdf--pypdf-compact-light-9b957aa0493c.svg" width="250" alt="py-pdf/pypdf — ROB: Give a clear error for an out-of-range XMP date Merged: #4199, #4201. 10,320 stars." />
   </picture>
   </a>
   <a href="https://github.com/fonttools/fonttools/pull/4254">
@@ -63,14 +63,14 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gumyr/build123d/pull/1489">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-d39df9620bb6.svg" />
-    <img src="./assets/contributions/gumyr--build123d-compact-light-66353065907d.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,879 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gumyr--build123d-compact-dark-5f59420e3c89.svg" />
+    <img src="./assets/contributions/gumyr--build123d-compact-light-651f74f82c84.svg" width="250" alt="gumyr/build123d — Deterministic shape ordering for reproducible CAD operations. Merged: #1489. 3,885 stars." />
   </picture>
   </a>
   <a href="https://github.com/mikedh/trimesh/pull/2619">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-a86840a9a99b.svg" />
-    <img src="./assets/contributions/mikedh--trimesh-compact-light-0fe604c11f43.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,732 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/mikedh--trimesh-compact-dark-78da58f6d268.svg" />
+    <img src="./assets/contributions/mikedh--trimesh-compact-light-616bcb7b28a1.svg" width="250" alt="mikedh/trimesh — Validate OFF face indices before they corrupt mesh loading. Merged: #2619. 3,733 stars." />
   </picture>
   </a>
   <a href="https://github.com/cantools/cantools/pull/857">
@@ -94,13 +94,13 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
 </p>
 
 <details>
-<summary>Show 31 more projects</summary>
+<summary>Show 32 more projects</summary>
 
 <p align="center">
   <a href="https://github.com/hashgraph-online/awesome-codex-plugins/pull/313">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-0fe8aa0bef89.svg" />
-    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-5951308dfcfe.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,618 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-dark-4f670788170b.svg" />
+    <img src="./assets/contributions/hashgraph-online--awesome-codex-plugins-compact-light-9c8c870f00bb.svg" width="250" alt="hashgraph-online/awesome-codex-plugins — Contribute the SolidWorks GPT Plugin to the Codex ecosystem. Merged: #313. 1,622 stars." />
   </picture>
   </a>
   <a href="https://github.com/mozman/ezdxf/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
@@ -153,8 +153,8 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
   </a>
   <a href="https://github.com/gopherium/gophenberg/pulls?q=is%3Apr+is%3Amerged+author%3AErfouni">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-34819149159e.svg" />
-    <img src="./assets/contributions/gopherium--gophenberg-compact-light-684d9bfdd36e.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 223 stars." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/gopherium--gophenberg-compact-dark-96d85ea4a415.svg" />
+    <img src="./assets/contributions/gopherium--gophenberg-compact-light-32c5f9c23c0e.svg" width="250" alt="gopherium/gophenberg — Clarify when long jump updates take the site down. Merged: #491, #493, #618. 221 stars." />
   </picture>
   </a>
   <a href="https://github.com/ryanrosello-og/playwright-slack-report/pull/494">
@@ -227,6 +227,12 @@ I'm **Erfouni**, an AI/ML builder interested in systems that do more than genera
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/picadolabs--build-with-ai-compact-dark-18a1d20740e9.svg" />
     <img src="./assets/contributions/picadolabs--build-with-ai-compact-light-98123cd9ca87.svg" width="250" alt="PicadoLabs/build-with-ai — fix(templates): resolve custom templates in the requested workspace Merged: #175. 8 stars." />
+  </picture>
+  </a>
+  <a href="https://github.com/Elysium-Labs-EU/eos/pull/344">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/elysium-labs-eu--eos-compact-dark-bcdc01eb8e52.svg" />
+    <img src="./assets/contributions/elysium-labs-eu--eos-compact-light-f4eefa95e859.svg" width="250" alt="Elysium-Labs-EU/eos — fix: resolve home-relative runtime paths consistently Merged: #344. 4 stars." />
   </picture>
   </a>
   <a href="https://github.com/duramson/eeg-bewegungsdaten/pull/8">
